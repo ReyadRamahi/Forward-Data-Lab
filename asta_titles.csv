@@ -1,301 +1,301 @@
 question,title
-What are the limitations of large language models in reasoning tasks?,
-What are the limitations of large language models in reasoning tasks?,
-What are the limitations of large language models in reasoning tasks?,
-How does transformer architecture compare to recurrent neural networks?,
-How does transformer architecture compare to recurrent neural networks?,
-How does transformer architecture compare to recurrent neural networks?,
-What biases emerge in large-scale machine learning models?,
-What biases emerge in large-scale machine learning models?,
-What biases emerge in large-scale machine learning models?,
-How does model size affect generalization performance?,
-How does model size affect generalization performance?,
-How does model size affect generalization performance?,
-What evaluation methods are used for generative AI systems?,
-What evaluation methods are used for generative AI systems?,
-What evaluation methods are used for generative AI systems?,
-How do academic search engines rank scholarly articles?,
-How do academic search engines rank scholarly articles?,
-How do academic search engines rank scholarly articles?,
-What role do citations play in information retrieval systems?,
-What role do citations play in information retrieval systems?,
-What role do citations play in information retrieval systems?,
-How does semantic search improve document retrieval?,
-How does semantic search improve document retrieval?,
-How does semantic search improve document retrieval?,
-What are common evaluation metrics for search relevance?,
-What are common evaluation metrics for search relevance?,
-What are common evaluation metrics for search relevance?,
-How do citation networks influence search rankings?,
-How do citation networks influence search rankings?,
-How do citation networks influence search rankings?,
-How does distributed consensus work in fault-tolerant systems?,
-How does distributed consensus work in fault-tolerant systems?,
-How does distributed consensus work in fault-tolerant systems?,
-What are the scalability limits of distributed databases?,
-What are the scalability limits of distributed databases?,
-What are the scalability limits of distributed databases?,
-How does network latency affect cloud performance?,
-How does network latency affect cloud performance?,
-How does network latency affect cloud performance?,
-What are common security vulnerabilities in distributed systems?,
-What are common security vulnerabilities in distributed systems?,
-What are common security vulnerabilities in distributed systems?,
-How does load balancing improve system reliability?,
-How does load balancing improve system reliability?,
-How does load balancing improve system reliability?,
-How do type systems prevent runtime errors?,
-How do type systems prevent runtime errors?,
-How do type systems prevent runtime errors?,
-What tradeoffs exist between static and dynamic typing?,
-What tradeoffs exist between static and dynamic typing?,
-What tradeoffs exist between static and dynamic typing?,
-How are functional programming languages optimized?,
-How are functional programming languages optimized?,
-How are functional programming languages optimized?,
-What role do compilers play in program performance?,
-What role do compilers play in program performance?,
-What role do compilers play in program performance?,
-How does garbage collection impact execution efficiency?,
-How does garbage collection impact execution efficiency?,
-How does garbage collection impact execution efficiency?,
-What factors influence software maintainability?,
-What factors influence software maintainability?,
-What factors influence software maintainability?,
-How effective are code reviews in reducing defects?,
-How effective are code reviews in reducing defects?,
-How effective are code reviews in reducing defects?,
-What are common causes of technical debt?,
-What are common causes of technical debt?,
-What are common causes of technical debt?,
-How do agile methodologies affect project outcomes?,
-How do agile methodologies affect project outcomes?,
-How do agile methodologies affect project outcomes?,
-What metrics are used to measure software quality?,
-What metrics are used to measure software quality?,
-What metrics are used to measure software quality?,
-How is induction used in formal mathematical proofs?,
-How is induction used in formal mathematical proofs?,
-How is induction used in formal mathematical proofs?,
-What are applications of graph theory in computer science?,
-What are applications of graph theory in computer science?,
-What are applications of graph theory in computer science?,
-How does linear algebra support machine learning?,
-How does linear algebra support machine learning?,
-How does linear algebra support machine learning?,
-What are modern approaches to numerical optimization?,
-What are modern approaches to numerical optimization?,
-What are modern approaches to numerical optimization?,
-How are probabilistic methods used in combinatorics?,
-How are probabilistic methods used in combinatorics?,
-How are probabilistic methods used in combinatorics?,
-How do sampling methods affect statistical inference?,
-How do sampling methods affect statistical inference?,
-How do sampling methods affect statistical inference?,
-What assumptions underlie linear regression models?,
-What assumptions underlie linear regression models?,
-What assumptions underlie linear regression models?,
-How is bias quantified in statistical analysis?,
-How is bias quantified in statistical analysis?,
-How is bias quantified in statistical analysis?,
-What methods handle missing data effectively?,
-What methods handle missing data effectively?,
-What methods handle missing data effectively?,
-How do confidence intervals support hypothesis testing?,
-How do confidence intervals support hypothesis testing?,
-How do confidence intervals support hypothesis testing?,
-How do incentives influence economic behavior?,
-How do incentives influence economic behavior?,
-How do incentives influence economic behavior?,
-What causes market failures in competitive economies?,
-What causes market failures in competitive economies?,
-What causes market failures in competitive economies?,
-How does inflation affect long-term growth?,
-How does inflation affect long-term growth?,
-How does inflation affect long-term growth?,
-What are the economic effects of income inequality?,
-What are the economic effects of income inequality?,
-What are the economic effects of income inequality?,
-How do game-theoretic models explain strategic behavior?,
-How do game-theoretic models explain strategic behavior?,
-How do game-theoretic models explain strategic behavior?,
-How is risk quantified in financial markets?,
-How is risk quantified in financial markets?,
-How is risk quantified in financial markets?,
-What factors influence asset price volatility?,
-What factors influence asset price volatility?,
-What factors influence asset price volatility?,
-How do interest rates affect investment decisions?,
-How do interest rates affect investment decisions?,
-How do interest rates affect investment decisions?,
-What models are used for option pricing?,
-What models are used for option pricing?,
-What models are used for option pricing?,
-How does market efficiency impact trading strategies?,
-How does market efficiency impact trading strategies?,
-How does market efficiency impact trading strategies?,
-How do electoral systems affect political outcomes?,
-How do electoral systems affect political outcomes?,
-How do electoral systems affect political outcomes?,
-What factors influence voter turnout?,
-What factors influence voter turnout?,
-What factors influence voter turnout?,
-How do institutions shape democratic governance?,
-How do institutions shape democratic governance?,
-How do institutions shape democratic governance?,
-What causes political polarization?,
-What causes political polarization?,
-What causes political polarization?,
-How does media influence public opinion?,
-How does media influence public opinion?,
-How does media influence public opinion?,
-How does social capital influence economic mobility?,
-How does social capital influence economic mobility?,
-How does social capital influence economic mobility?,
-What factors contribute to social inequality?,
-What factors contribute to social inequality?,
-What factors contribute to social inequality?,
-How do networks shape social behavior?,
-How do networks shape social behavior?,
-How do networks shape social behavior?,
-What role does education play in social stratification?,
-What role does education play in social stratification?,
-What role does education play in social stratification?,
-How do norms influence group behavior?,
-How do norms influence group behavior?,
-How do norms influence group behavior?,
-How does cognitive bias affect decision-making?,
-How does cognitive bias affect decision-making?,
-How does cognitive bias affect decision-making?,
-What neural mechanisms support memory formation?,
-What neural mechanisms support memory formation?,
-What neural mechanisms support memory formation?,
-How does stress impact cognitive performance?,
-How does stress impact cognitive performance?,
-How does stress impact cognitive performance?,
-What factors influence human motivation?,
-What factors influence human motivation?,
-What factors influence human motivation?,
-How is learning measured in experimental psychology?,
-How is learning measured in experimental psychology?,
-How is learning measured in experimental psychology?,
-How does active learning affect student performance?,
-How does active learning affect student performance?,
-How does active learning affect student performance?,
-What factors influence educational achievement gaps?,
-What factors influence educational achievement gaps?,
-What factors influence educational achievement gaps?,
-How does technology impact classroom learning?,
-How does technology impact classroom learning?,
-How does technology impact classroom learning?,
-What assessment methods best measure learning outcomes?,
-What assessment methods best measure learning outcomes?,
-What assessment methods best measure learning outcomes?,
-How does feedback improve student understanding?,
-How does feedback improve student understanding?,
-How does feedback improve student understanding?,
-How is meaning represented in natural language?,
-How is meaning represented in natural language?,
-How is meaning represented in natural language?,
-What distinguishes syntax from semantics?,
-What distinguishes syntax from semantics?,
-What distinguishes syntax from semantics?,
-How do languages change over time?,
-How do languages change over time?,
-How do languages change over time?,
-What methods are used in corpus linguistics?,
-What methods are used in corpus linguistics?,
-What methods are used in corpus linguistics?,
-How does bilingualism affect cognition?,
-How does bilingualism affect cognition?,
-How does bilingualism affect cognition?,
-What is the problem of induction?,
-What is the problem of induction?,
-What is the problem of induction?,
-How do theories of knowledge define justification?,
-How do theories of knowledge define justification?,
-How do theories of knowledge define justification?,
-What ethical issues arise from artificial intelligence?,
-What ethical issues arise from artificial intelligence?,
-What ethical issues arise from artificial intelligence?,
-How is free will addressed in modern philosophy?,
-How is free will addressed in modern philosophy?,
-How is free will addressed in modern philosophy?,
-What distinguishes consequentialist from deontological ethics?,
-What distinguishes consequentialist from deontological ethics?,
-What distinguishes consequentialist from deontological ethics?,
-How did industrialization transform social structures?,
-How did industrialization transform social structures?,
-How did industrialization transform social structures?,
-What causes major political revolutions?,
-What causes major political revolutions?,
-What causes major political revolutions?,
-How do historians evaluate primary sources?,
-How do historians evaluate primary sources?,
-How do historians evaluate primary sources?,
-What role did technology play in modern warfare?,
-What role did technology play in modern warfare?,
-What role did technology play in modern warfare?,
-How has globalization evolved historically?,
-How has globalization evolved historically?,
-How has globalization evolved historically?,
-How does natural selection drive evolution?,
-How does natural selection drive evolution?,
-How does natural selection drive evolution?,
-What mechanisms regulate gene expression?,
-What mechanisms regulate gene expression?,
-What mechanisms regulate gene expression?,
-How do ecosystems maintain stability?,
-How do ecosystems maintain stability?,
-How do ecosystems maintain stability?,
-What factors influence biodiversity loss?,
-What factors influence biodiversity loss?,
-What factors influence biodiversity loss?,
-How is genetic variation measured in populations?,
-How is genetic variation measured in populations?,
-How is genetic variation measured in populations?,
-How are randomized controlled trials designed?,
-How are randomized controlled trials designed?,
-How are randomized controlled trials designed?,
-What factors influence disease transmission?,
-What factors influence disease transmission?,
-What factors influence disease transmission?,
-How does vaccination impact population health?,
-How does vaccination impact population health?,
-How does vaccination impact population health?,
-What ethical issues arise in clinical research?,
-What ethical issues arise in clinical research?,
-What ethical issues arise in clinical research?,
-How is health disparity measured across populations?,
-How is health disparity measured across populations?,
-How is health disparity measured across populations?,
-How does climate change affect biodiversity?,
-How does climate change affect biodiversity?,
-How does climate change affect biodiversity?,
-What methods measure carbon emissions?,
-What methods measure carbon emissions?,
-What methods measure carbon emissions?,
-How do human activities impact ecosystems?,
-How do human activities impact ecosystems?,
-How do human activities impact ecosystems?,
-What strategies mitigate environmental degradation?,
-What strategies mitigate environmental degradation?,
-What strategies mitigate environmental degradation?,
-How is sustainability defined in environmental policy?,
-How is sustainability defined in environmental policy?,
-How is sustainability defined in environmental policy?,
-How is precedent applied in judicial decision-making?,
-How is precedent applied in judicial decision-making?,
-How is precedent applied in judicial decision-making?,
-What factors influence constitutional interpretation?,
-What factors influence constitutional interpretation?,
-What factors influence constitutional interpretation?,
-How does international law regulate state behavior?,
-How does international law regulate state behavior?,
-How does international law regulate state behavior?,
-What are the legal implications of emerging technologies?,
-What are the legal implications of emerging technologies?,
-What are the legal implications of emerging technologies?,
-How do courts balance security and civil liberties?,
-How do courts balance security and civil liberties?,
-How do courts balance security and civil liberties?,
+What are the limitations of large language models in reasoning tasks?,Faith and Fate: Limits of Transformers on Compositionality
+What are the limitations of large language models in reasoning tasks?,Towards Reasoning in Large Language Models: A Survey
+What are the limitations of large language models in reasoning tasks?,Beyond Accuracy: Evaluating the Reasoning Behavior of Large Language Models - A Survey
+How does transformer architecture compare to recurrent neural networks?,Block-Recurrent Transformers
+How does transformer architecture compare to recurrent neural networks?,A Comparative Study on Transformer vs RNN in Speech Applications
+How does transformer architecture compare to recurrent neural networks?,Human Sentence Processing: Recurrence or Attention?
+What biases emerge in large-scale machine learning models?,Towards an Enhanced Understanding of Bias in Pre-trained Neural Language Models: A Survey with Special Emphasis on Affective Bias
+What biases emerge in large-scale machine learning models?,Overwriting Pretrained Bias with Finetuning Data
+What biases emerge in large-scale machine learning models?,Skip \n: A Simple Method to Reduce Hallucination in Large Vision-Language Models
+How does model size affect generalization performance?,Language Models are Few-Shot Learners
+How does model size affect generalization performance?,Deep double descent: where bigger models and more data hurt
+How does model size affect generalization performance?,Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks
+What evaluation methods are used for generative AI systems?,The Power of Generative AI: A Review of Requirements, Models, Input-Output Formats, Evaluation Metrics, and Challenges
+What evaluation methods are used for generative AI systems?,Evaluating the Social Impact of Generative AI Systems in Systems and Society
+What evaluation methods are used for generative AI systems?,Pros and Cons of GAN Evaluation Measures: New Developments
+How do academic search engines rank scholarly articles?,SemAcSearch: A semantically modeled academic search engine
+How do academic search engines rank scholarly articles?,On The Current State of Scholarly Retrieval Systems
+How do academic search engines rank scholarly articles?,Language Bias in the Google Scholar Ranking Algorithm
+What role do citations play in information retrieval systems?,On The Current State of Scholarly Retrieval Systems
+What role do citations play in information retrieval systems?,Using Access Data for Paper Recommendations on ArXiv.org
+What role do citations play in information retrieval systems?,Context sensitive article ranking with citation context analysis
+How does semantic search improve document retrieval?,Dense Passage Retrieval for Open-Domain Question Answering
+How does semantic search improve document retrieval?,An Analysis of Fusion Functions for Hybrid Retrieval
+How does semantic search improve document retrieval?,VectorSearch: Enhancing Document Retrieval with Semantic Embeddings and Optimized Search
+What are common evaluation metrics for search relevance?,Pre-trained Language Model based Ranking in Baidu Search
+What are common evaluation metrics for search relevance?,Expected reciprocal rank for graded relevance
+What are common evaluation metrics for search relevance?,Cumulated gain-based evaluation of IR techniques
+How do citation networks influence search rankings?,An Effective Scholarly Search by Combining Inverted Indices and Structured Search With Citation Networks Analysis
+How do citation networks influence search rankings?,Finding scientific gems with Google's PageRank algorithm
+How do citation networks influence search rankings?,The PageRank Citation Ranking : Bringing Order to the Web
+How does distributed consensus work in fault-tolerant systems?,A Survey of Distributed Consensus Protocols for Blockchain Networks
+How does distributed consensus work in fault-tolerant systems?,ResilientDB
+How does distributed consensus work in fault-tolerant systems?,The Istanbul BFT Consensus Algorithm
+What are the scalability limits of distributed databases?,Sharding Distributed Databases: A Critical Review
+What are the scalability limits of distributed databases?,Lookup Tables: Fine-Grained Partitioning for Distributed Databases
+What are the scalability limits of distributed databases?,Scalable Database Access Technologies for ATLAS Distributed Computing
+How does network latency affect cloud performance?,The Hidden Cost of the Edge: A Performance Comparison of Edge and Cloud Latencies
+How does network latency affect cloud performance?,Is Big Data Performance Reproducible in Modern Cloud Networks?
+How does network latency affect cloud performance?,Scaling Performance of Serverless Edge Networking
+What are common security vulnerabilities in distributed systems?,A Noble Security Analysis of Various Distributed Systems
+What are common security vulnerabilities in distributed systems?,Cybersecurity Challenges in Distributed Control
+What are common security vulnerabilities in distributed systems?,A Review on Security Issues and Attacks in Distributed Systems
+How does load balancing improve system reliability?,Fault-tolerant load balancing in cloud computing: A systematic literature review
+How does load balancing improve system reliability?,A Dynamic Task Scheduling Algorithm Improved by Load Balancing in Cloud Computing
+How does load balancing improve system reliability?,Employing Software Diversity in Cloud Microservices to Engineer Reliable and Performant Systems
+How do type systems prevent runtime errors?,Strongly-Typed Multi-View Stack-Based Computations
+How do type systems prevent runtime errors?,Behavioural Types for Memory and Method Safety in a Core Object-Oriented Language
+How do type systems prevent runtime errors?,The Role of TypeScript in Enhancing Development with Modern JavaScript Frameworks
+What tradeoffs exist between static and dynamic typing?,Type System of Anemone Functional Language
+What tradeoffs exist between static and dynamic typing?,A large scale study of programming languages and code quality in github
+What tradeoffs exist between static and dynamic typing?,Practical Aspects of Declarative Languages: 23rd International Symposium, PADL 2021, Copenhagen, Denmark, January 18-19, 2021, Proceedings
+How are functional programming languages optimized?,Achieving high-performance the functional way: a functional pearl on expressing high-performance optimizations as rewrite strategies
+How are functional programming languages optimized?,Scimitar: Functional Programs as Optimization Problems
+How are functional programming languages optimized?,Lambda the Ultimate SSA: Optimizing Functional Programs in SSA
+What role do compilers play in program performance?,Compiler Autotuning through Multiple-phase Learning
+What role do compilers play in program performance?,A Survey on Compiler Autotuning using Machine Learning
+What role do compilers play in program performance?,BurTorch: Revisiting Training from First Principles by Coupling Autodiff, Math Optimization, and Systems
+How does garbage collection impact execution efficiency?,Myths and realities: the performance impact of garbage collection
+How does garbage collection impact execution efficiency?,Recommendations for performance optimizations when using GATK3.8 and GATK4
+How does garbage collection impact execution efficiency?,Stochastic modeling of large-scale solid-state storage systems: analysis, design tradeoffs and optimization
+What factors influence software maintainability?,Aspects of complexity in automotive software systems and their relation to maintainability effort. A case study
+What factors influence software maintainability?,A literature review for measuring maintainability of code clone
+What factors influence software maintainability?,Exploring Maintainability Index Variants for Software Maintainability Measurement in Object-Oriented Systems
+How effective are code reviews in reducing defects?,Modern Code Reviews—Survey of Literature and Practice
+How effective are code reviews in reducing defects?,AUGER: automatically generating review comments with pre-training models
+How effective are code reviews in reducing defects?,Generation-based Code Review Automation: How Far Are Weƒ
+What are common causes of technical debt?,What’s behind tight deadlines? Business causes of technical debt
+What are common causes of technical debt?,Does Technical Debt Lead to the Rejection of Pull Requests?
+What are common causes of technical debt?,A Qualitative Study on the Implementation Design Decisions of Developers
+How do agile methodologies affect project outcomes?,The Impact of Agile Development Practices on Project Outcomes
+How do agile methodologies affect project outcomes?,The impact of identified agility components on project success—ICT industry perspective
+How do agile methodologies affect project outcomes?,Customising Hybrid project management methodologies
+What metrics are used to measure software quality?,A Validation of Object-Oriented Design Metrics as Quality Indicators
+What metrics are used to measure software quality?,Evaluating Thresholds for Object-Oriented Software Metrics
+What metrics are used to measure software quality?,Metrics in automotive software development: A systematic literature review
+How is induction used in formal mathematical proofs?,Prover Agent: An Agent-based Framework for Formal Mathematical Proofs
+How is induction used in formal mathematical proofs?,Learning to Prove Theorems via Interacting with Proof Assistants
+How is induction used in formal mathematical proofs?,Further results and examples for formal mathematical systems with structural induction
+What are applications of graph theory in computer science?,Graph Theory: A Comprehensive Survey about Graph Theory Applications in Computer Science and Social Networks
+What are applications of graph theory in computer science?,Graph Theory and its Uses in Graph Algorithms and Beyond
+What are applications of graph theory in computer science?,From Graph Theory to Graph Neural Networks (GNNs): The Opportunities of GNNs in Power Electronics
+How does linear algebra support machine learning?,Towards Linear Algebra over Normalized Data
+How does linear algebra support machine learning?,MLI: An API for Distributed Machine Learning
+How does linear algebra support machine learning?,SPORES
+What are modern approaches to numerical optimization?,A comprehensive study on modern optimization techniques for engineering applications
+What are modern approaches to numerical optimization?,Hybrid genetic algorithm-simulated annealing based electric vehicle charging station placement for optimizing distribution network resilience
+What are modern approaches to numerical optimization?,Neural-network quantum states for many-body physics
+How are probabilistic methods used in combinatorics?,Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs
+How are probabilistic methods used in combinatorics?,Formal Probabilistic Methods for Combinatorial Structures using the Lovász Local Lemma
+How are probabilistic methods used in combinatorics?,A view from the bridge spanning combinatorics and probability
+How do sampling methods affect statistical inference?,A Theory of Statistical Inference for Matching Methods in Causal Research
+How do sampling methods affect statistical inference?,Bootstrap inference for the finite population mean under complex sampling designs
+How do sampling methods affect statistical inference?,An empirical evaluation of sampling methods for the classification of imbalanced data
+What assumptions underlie linear regression models?,Principle Assumptions of Regression Analysis: Testing, Techniques, and Statistical Reporting of Imperfect Data Sets
+What assumptions underlie linear regression models?,Methodological issues in value-added modeling: an international review from 26 countries
+What assumptions underlie linear regression models?,Improving the Software Estimation Models Based on Functional Size through Validation of the Assumptions behind the Linear Regression and the Use of the Confidence Intervals When the Reference Database Presents a Wedge-Shape Form
+How is bias quantified in statistical analysis?,Evaluating the fairness of a high-stakes college entrance exam in Kuwait
+How is bias quantified in statistical analysis?,Quantifying Bias in a Face Verification System
+How is bias quantified in statistical analysis?,Equality of Opportunity in Supervised Learning
+What methods handle missing data effectively?,A survey on missing data in machine learning
+What methods handle missing data effectively?,HI-PMK: A Data-Dependent Kernel for Incomplete Heterogeneous Data Representation
+What methods handle missing data effectively?,What is Hiding in Medicine's Dark Matter? Learning with Missing Data in Medical Practices
+How do confidence intervals support hypothesis testing?,Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations
+How do confidence intervals support hypothesis testing?,The Assessment of Big Data Adoption Readiness with a Technology–Organization–Environment Framework: A Perspective towards Healthcare Employees
+How do confidence intervals support hypothesis testing?,Likelihood-ratio-based confidence intervals for neural networks
+How do incentives influence economic behavior?,Changing health behaviors using financial incentives: a review from behavioral economics
+How do incentives influence economic behavior?,Soft Economic Incentives and Soft Behavioral Interventions on the Public’s Green Purchasing Behaviour - The Evidence from China
+How do incentives influence economic behavior?,A comprehensive study on factors influencing online impulse buying behavior: Evidence from Shopee video platform
+What causes market failures in competitive economies?,Beyond the reach of the invisible hand: Impediments to economic activity, market failures, and profitability
+What causes market failures in competitive economies?,Why Consumers are Not Sovereign: The Socio-Economic Causes of Market Failure
+What causes market failures in competitive economies?,Tax Planning on New Tobacco Risk-Reduced Products in Europe: Assessment and Implications for Public Policies
+How does inflation affect long-term growth?,The Role of Macroeconomic Factors in Growth
+How does inflation affect long-term growth?,Smooth transition regression model relating inflation to economic growth in Tunisia
+How does inflation affect long-term growth?,The Effects of Inflation on Economic Growth: Lessons from Latin America
+What are the economic effects of income inequality?,Trends in Income Inequality and Its Impact on Economic Growth
+What are the economic effects of income inequality?,The Relationship Between Income Inequality and Economic Growth: Are Transmission Channels Effective?
+What are the economic effects of income inequality?,What Factors Affect Income Inequality and Economic Growth in Middle-Income Countries?
+How do game-theoretic models explain strategic behavior?,Game-Theoretic Frameworks for Epidemic Spreading and Human Decision-Making: A Review
+How do game-theoretic models explain strategic behavior?,Levels of explainable artificial intelligence for human-aligned conversational explanations
+How do game-theoretic models explain strategic behavior?,Capturing the complexity of human strategic decision-making with machine learning
+How is risk quantified in financial markets?,Exploring Financial Risk Management: A Qualitative Study on Risk Identification, Evaluation, and Mitigation in Banking, Insurance, and Corporate Finance
+How is risk quantified in financial markets?,Using Conditional Extreme Value Theory to Estimate Value-at-Risk for Daily Currency Exchange Rates
+How is risk quantified in financial markets?,Predicting Conditional Autoregressive Value-at-Risk for Stock Markets during Tranquil and Turbulent Periods
+What factors influence asset price volatility?,Research on the Factors Affecting Stock Price Volatility
+What factors influence asset price volatility?,A hybrid econometrics and machine learning based modeling of realized volatility of natural gas
+What factors influence asset price volatility?,A Comprehensive Study of Stock Market Volatility: Types, Determinants, and Measurement Methods
+How do interest rates affect investment decisions?,Analysis of the Impact of Interest Rate Level on the Real Estate Industry
+How do interest rates affect investment decisions?,The Influence of Interest Rates and Inflation on Asset Allocation Strategies in Investment Portfolios in Indonesia
+How do interest rates affect investment decisions?,Investor Rationality and Financial Decisions
+What models are used for option pricing?,Mathematical Modeling of Option Pricing with an Extended Black-Scholes Framework
+What models are used for option pricing?,Option pricing in a stochastic delay volatility model
+What models are used for option pricing?,Stochastic Volatility for Levy Processes
+How does market efficiency impact trading strategies?,Does the Adaptive Market Hypothesis explain the evolution of emerging markets efficiency? Evidence from the Moroccan financial market
+How does market efficiency impact trading strategies?,Market impact shapes competitive advantage of investment strategies in financial markets
+How does market efficiency impact trading strategies?,The Financialization of Crude Oil Markets and Its Impact on Market Efficiency: Evidence from the Predictive Ability and Performance of Technical Trading Strategies
+How do electoral systems affect political outcomes?,Electoral Institutions and the Politics of Coalitions: Why Some Democracies Redistribute More Than Others
+How do electoral systems affect political outcomes?,Institutional Friction and Policy Responsiveness: The Puzzle of Coalitional Fragmentation and Executive-Legislative Balance
+How do electoral systems affect political outcomes?,The short-term effects of electoral reforms
+What factors influence voter turnout?,Engineering Democracy: Electoral Rules and Turnout Inequality
+What factors influence voter turnout?,American Voter Turnout in Comparative Perspective
+What factors influence voter turnout?,Turnout in electoral democracies
+How do institutions shape democratic governance?,African traditional institutions and support for democracy
+How do institutions shape democratic governance?,A Deliberative Turn or Business as Usual? Assessing the Deliberative Capacity of the Swedish Mining Governance System
+How do institutions shape democratic governance?,EVOLUTION OF DEMOCRACY: CHALLENGES AND PERSPECTIVES
+What causes political polarization?,Political sectarianism in America
+What causes political polarization?,PARTY POLARIZATION IN AMERICAN POLITICS : Characteristics , Causes , and Consequences
+What causes political polarization?,Moving toward the Median: Compulsory Voting and Political Polarization
+How does media influence public opinion?,Agenda setting function of mass media
+How does media influence public opinion?,Media Guidance and Shaping of Public Opinion: Mechanisms, Ethics and Influences
+How does media influence public opinion?,Panem et circenses: removing political news to generate electoral support, evidence from Berlusconi's Italy
+How does social capital influence economic mobility?,NBER WORKING PAPER SERIES SOCIAL CAPITAL I: MEASUREMENT AND ASSOCIATIONS WITH ECONOMIC MOBILITY
+How does social capital influence economic mobility?,Social capital II: determinants of economic connectedness
+How does social capital influence economic mobility?,Inequality's Economic and Social Roots: The Role of Social Networks and Homophily
+What factors contribute to social inequality?,Socio-spatial Inequalities in a Context of"Great Economic Wealth". Case study of neighbourhoods of Luxembourg City
+What factors contribute to social inequality?,Intergenerational Social Mobility and Gender Disparities by Cohort: A Comparative Study of Spain and Chile
+What factors contribute to social inequality?,A postcode lottery in education? Explaining regional inequality in multilevel systems
+How do networks shape social behavior?,The spread of behavior in an online social network experiment.
+How do networks shape social behavior?,Network Formation and Dynamics Among Multi-LLMs
+How do networks shape social behavior?,The role of social networks in information diffusion
+What role does education play in social stratification?,The worldwide trend to high participation higher education: dynamics of social stratification in inclusive systems
+What role does education play in social stratification?,Intergenerational Social Mobility and Gender Disparities by Cohort: A Comparative Study of Spain and Chile
+What role does education play in social stratification?,Effects of Parental Occupations and Higher Education on Class Mobility of Offspring: A Research Study
+How do norms influence group behavior?,Evidence from a long-term experiment that collective risks change social norms and promote cooperation
+How do norms influence group behavior?,The dynamics of injunctive social norms
+How do norms influence group behavior?,A Room with a Viewpoint: Using Social Norms to Motivate Environmental Conservation in Hotels
+How does cognitive bias affect decision-making?,Cognitive Bias in Decision-Making with LLMs
+How does cognitive bias affect decision-making?,A Task-Based Taxonomy of Cognitive Biases for Information Visualization
+How does cognitive bias affect decision-making?,How Cognitive Biases Affect XAI-assisted Decision-making: A Systematic Review
+What neural mechanisms support memory formation?,Memory engrams: Recalling the past and imagining the future
+What neural mechanisms support memory formation?,Cognitive neuroscience perspective on memory: overview and summary
+What neural mechanisms support memory formation?,Dynamic brain states during encoding and their post-encoding reinstatement predicts episodic memory in children
+How does stress impact cognitive performance?,Stress, working memory, and academic performance: a neuroscience perspective
+How does stress impact cognitive performance?,I’m going to fail! Acute cognitive performance anxiety increases threat-interference and impairs WM performance
+How does stress impact cognitive performance?,The effects of acute stress on core executive functions: A meta-analysis and comparison with cortisol
+What factors influence human motivation?,Toward A Hierarchical Model of Intrinsic and Extrinsic Motivation
+What factors influence human motivation?,Factors affecting employees’ motivation
+What factors influence human motivation?,The Impact of Perceived Stress on Motivation Among College Students
+How is learning measured in experimental psychology?,Psychometrics in experimental psychology: A case for calibration
+How is learning measured in experimental psychology?,Behavioural tests for learning and cognition in humans and animals.
+How is learning measured in experimental psychology?,The complexity of measuring reliability in learning tasks: An illustration using the Alternating Serial Reaction Time Task
+How does active learning affect student performance?,Active learning increases student performance in science, engineering, and mathematics
+How does active learning affect student performance?,Increased Structure and Active Learning Reduce the Achievement Gap in Introductory Biology
+How does active learning affect student performance?,Perception of Students Towards Active Learning in HEIs of Oman and Its Impact on Academic Performance
+What factors influence educational achievement gaps?,Is Separate Still Unequal? New Evidence on School Segregation and Racial Academic Achievement Gaps
+What factors influence educational achievement gaps?,The Impact of Socio-economic Status on Academic Achievement
+What factors influence educational achievement gaps?,Exploring Student Achievement Gaps in School Districts Across the United States
+How does technology impact classroom learning?,A Survey of Smart Classroom Literature
+How does technology impact classroom learning?,Enhancement or Impediment? How University Teachers’ Use of Smart Classrooms Might Impact Interaction Quality
+How does technology impact classroom learning?,Technology in the classroom: Banking education or opportunities to learn?
+What assessment methods best measure learning outcomes?,Test, measurement, and evaluation: Understanding and use of the concepts in education
+What assessment methods best measure learning outcomes?,Outcome-Based Assessment in The Evaluation of Education Programs Through a Systematic Literature Review
+What assessment methods best measure learning outcomes?,Measuring learning outcomes: bridging accreditation requirements and LMS functionalities
+How does feedback improve student understanding?,The development of student feedback literacy: enabling uptake of feedback
+How does feedback improve student understanding?,The power of feedback.
+How does feedback improve student understanding?,Formative assessment and the design of instructional systems
+How is meaning represented in natural language?,Context-theoretic Semantics for Natural Language: an Algebraic Framework
+How is meaning represented in natural language?,Concepts, Control, and Context: A Connectionist Account of Normal and Disordered Semantic Cognition
+How is meaning represented in natural language?,Distributional Formal Semantics
+What distinguishes syntax from semantics?,Schrödinger's tree—On syntax and neural language models
+What distinguishes syntax from semantics?,Psychomatics—A Multidisciplinary Framework for Understanding Artificial Minds
+What distinguishes syntax from semantics?,Animal linguistics: a primer
+How do languages change over time?,How individuals change language
+How do languages change over time?,Diachronic word embeddings and semantic shifts: a survey
+How do languages change over time?,Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change
+What methods are used in corpus linguistics?,Saglik Bilimleri Turkce Derlemi(Turkish Corpus on Health Sciences)
+What methods are used in corpus linguistics?,Corpus Linguistics in Legal Discourse
+What methods are used in corpus linguistics?,Corpus Linguistics Methods in the Study of (Meta)Argumentation
+How does bilingualism affect cognition?,On the phantom-like appearance of bilingualism effects on neurocognition: (How) should we proceed?
+How does bilingualism affect cognition?,How does bilingualism modify cognitive function? Attention to the mechanism
+How does bilingualism affect cognition?,Redefining bilingualism as a spectrum of experiences that differentially affects brain structure and function
+What is the problem of induction?,The material solution to the problem of induction: Costs and benefits
+What is the problem of induction?,Varieties of Justification—How (Not) to Solve the Problem of Induction
+What is the problem of induction?,Induction With and Without Natural Properties: a New Approach to the New Riddle of Induction
+How do theories of knowledge define justification?,A critique of the traditional and the post-gettier theories of justification: an intervention with epistemological functionalism
+How do theories of knowledge define justification?,Justified belief, knowledge, and the topology of evidence
+How do theories of knowledge define justification?,Justification and the knowledge-connection
+What ethical issues arise from artificial intelligence?,An Overview of Artificial Intelligence Ethics
+What ethical issues arise from artificial intelligence?,Artificial Intelligence in Education: AIEd for Personalised Learning Pathways
+What ethical issues arise from artificial intelligence?,AI Ethics Issues in Real World: Evidence from AI Incident Database
+How is free will addressed in modern philosophy?,Reframing the Free Will Debate: The Universe is Not Deterministic
+How is free will addressed in modern philosophy?,John Searle and Richard Swinburne on the Nature of the Problem of Free Will and its Relation with Consciousness
+How is free will addressed in modern philosophy?,Do free will skeptics swallow their own medicine?
+What distinguishes consequentialist from deontological ethics?,An Overview of Artificial Intelligence Ethics
+What distinguishes consequentialist from deontological ethics?,Improving alignment of dialogue agents via targeted human judgements
+What distinguishes consequentialist from deontological ethics?,Ethical Frameworks and Computer Security Trolley Problems: Foundations for Conversations
+How did industrialization transform social structures?,Industrialization and Social Stratification
+How did industrialization transform social structures?,Industrial policy for sustainable human development in the post-Covid19 era
+How did industrialization transform social structures?,Industrialization: The Transition of the Community of Agrarists Toward the Gresik Wringinanom Industry
+What causes major political revolutions?,The Role of Structural Contexts of the Pahlavi Government and Shiite Political Islam in the Formation of the Iran Revolution in 1979
+What causes major political revolutions?,Social Revolutions
+What causes major political revolutions?,Incumbent policy, benefits provision, and the triggering and spread of revolutionary uprisings
+How do historians evaluate primary sources?,Analysing Historical Enquiry in School History Textbooks.
+How do historians evaluate primary sources?,Annales Sect in Islamic Historical Research
+How do historians evaluate primary sources?,Writing ‘Anniversary’ in Historical Perspective: A Way to Find Identity
+What role did technology play in modern warfare?,Implementation of Revolution in Military Affairs in the Russian and Ukrainian Wars
+What role did technology play in modern warfare?,THE IMPACT OF TECHNOLOGY ON THE PROCESS OF PLANNING AND DECISION MAKING
+What role did technology play in modern warfare?,Turnkey Technology: A Powerful Tool for Cyber Warfare
+How has globalization evolved historically?,Community of human destiny of exploring the patway
+How has globalization evolved historically?,Globalization And Transfer Of Technology: The Implications For Nigeria's Economic Development
+How has globalization evolved historically?,Sticking Together or Falling Apart?: Solidarity in an Era of Individualization and Globalization
+How does natural selection drive evolution?,Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback
+How does natural selection drive evolution?,Microbiome composition shapes rapid genomic adaptation of Drosophila melanogaster
+How does natural selection drive evolution?,A generalised approach to the study and understanding of adaptive evolution
+What mechanisms regulate gene expression?,Transcription factors and evolution: An integral part of gene expression (Review)
+What mechanisms regulate gene expression?,Advances in Diversity, Evolutionary Dynamics and Biotechnological Potential of Restriction-Modification Systems
+What mechanisms regulate gene expression?,The Obesity–Epigenetics–Microbiome Axis: Strategies for Therapeutic Intervention
+How do ecosystems maintain stability?,Coupling of green and brown food webs and ecosystem stability
+How do ecosystems maintain stability?,Exploring the Dynamics of Ecosystem Balance Research: A Bibliometric Analysis to Uncover Research Focus and Disciplinary Contributions
+How do ecosystems maintain stability?,Rethinking Competition as a Non-Beneficial Mechanism in Economic Systems
+What factors influence biodiversity loss?,The principal factors responsible for biodiversity loss
+What factors influence biodiversity loss?,Student teachers’ conceptual understanding of biodiversity loss in a multiple-source learning environment
+What factors influence biodiversity loss?,Legally binding and ambitious biodiversity protection under the CBD, the global biodiversity framework, and human rights law
+How is genetic variation measured in populations?,Unbiased population heterozygosity estimates from genome-wide sequence data
+How is genetic variation measured in populations?,Rescued back from extinction in the wild: past, present and future of the genetics of the Arabian oryx in Oman
+How is genetic variation measured in populations?,k-mer-based approaches to bridging pangenomics and population genetics
+How are randomized controlled trials designed?,Randomized Controlled Trials
+How are randomized controlled trials designed?,Randomized Controlled Trials and Challenge Trials: Design and Criterion for Validity
+How are randomized controlled trials designed?,Primer of Epidemiology IV. Study designs II: Interventional or experimental designs.
+What factors influence disease transmission?,The influence of social and spatial processes on the epidemiology of environmentally transmitted pathogens in wildlife: implications for management
+What factors influence disease transmission?,A Taxonomy for Agent-Based Models in Human Infectious Disease Epidemiology
+What factors influence disease transmission?,The potential health impacts of climate variability and change for the United States: executive summary of the report of the health sector of the U.S. National Assessment.
+How does vaccination impact population health?,Estimating the health impact of vaccination against ten pathogens in 98 low-income and middle-income countries from 2000 to 2030: a modelling study
+How does vaccination impact population health?,Access to Vaccination among Disadvantaged, Isolated and Difficult-to-Reach Communities in the WHO European Region: A Systematic Review
+How does vaccination impact population health?,Drivers of inappropriate antibiotic use in low- and middle-income countries
+What ethical issues arise in clinical research?,What makes clinical research ethical?
+What ethical issues arise in clinical research?,Ethical Consideration in Clinical Trials
+What ethical issues arise in clinical research?,Medical Ethics of Pediatric Care
+How is health disparity measured across populations?,Discounting Health Grades for Disparity: The 2021 Wisconsin Population Health and Equity Report Card
+How is health disparity measured across populations?,Addressing inequities in medical care
+How is health disparity measured across populations?,A Summary Measure of Health Disparity
+How does climate change affect biodiversity?,Climate change reshuffles northern species within their niches
+How does climate change affect biodiversity?,Assessing the impacts of climate change on biodiversity: is below 2 °C enough?
+How does climate change affect biodiversity?,Future effects of climate and land-use change on terrestrial vertebrate community diversity under different scenarios
+What methods measure carbon emissions?,A novel carbon emission monitoring method for power generation enterprises based on hybrid transformer model
+What methods measure carbon emissions?,An Accurate Carbon Accounting Model Based on the Micro-level Process Principles for the Lean Carbon Management in the Blast Furnace Ironmaking
+What methods measure carbon emissions?,State-of-the-art carbon metering: Continuous emission monitoring systems for industrial applications
+How do human activities impact ecosystems?,A function-based typology for Earth’s ecosystems
+How do human activities impact ecosystems?,Recent pace of change in human impact on the world’s ocean
+How do human activities impact ecosystems?,Exploring variability in environmental impact risk from human activities across aquatic ecosystems.
+What strategies mitigate environmental degradation?,The PESERA-DESMICE Modeling Framework for Spatial Assessment of the Physical Impact and Economic Viability of Land Degradation Mitigation Technologies
+What strategies mitigate environmental degradation?,Analysing the influence of foreign direct investment and urbanization on the development of private financial system and its ecological footprint
+What strategies mitigate environmental degradation?,Dynamic impacts of energy use, agricultural land expansion, and deforestation on CO2 emissions in Malaysia
+How is sustainability defined in environmental policy?,The ‘European Green Deal’ – a paradigm shift? Transformations in the European Union’s sustainability meta-discourse
+How is sustainability defined in environmental policy?,Operationalising sustainability? Why sustainability fails as an investment criterion for safeguarding the future
+How is sustainability defined in environmental policy?,Assessment of the Development of Professional Skills in University Students: Sustainability and Serious Games
+How is precedent applied in judicial decision-making?,STARE DECISIS AND INFORMATION ABUNDANCE IN A COMMON LAW JURISDICTION
+How is precedent applied in judicial decision-making?,CONSTITUTIONAL PRECEDENT IN THE US SUPREME COURT REASONING
+How is precedent applied in judicial decision-making?,The Authority of Precedents in Civil Law Systems
+What factors influence constitutional interpretation?,Constitutional Interpretation and Foreign Law: A Comparative Analysis between the U.S. Supreme Court and the German Federal Constitutional Court
+What factors influence constitutional interpretation?,JUDICIAL APPROACHES TO CONSTITUTIONAL INTERPRETATION IN KENYA
+What factors influence constitutional interpretation?,Antonin Scalia’s Textualism in philosophy, theology, and judicial interpretation of the Constitution
+How does international law regulate state behavior?,The Study of Foreign Policy in International Relations
+How does international law regulate state behavior?,Sovereignty in the Age of Cyber
+How does international law regulate state behavior?,Hume’s Dynamic Coordination and International Law
+What are the legal implications of emerging technologies?,The technology triad: disruptive AI, regulatory gaps and value change
+What are the legal implications of emerging technologies?,Copyright Law and the Lifecycle of Machine Learning Models
+What are the legal implications of emerging technologies?,The interaction of emerging technologies with the legal field
+How do courts balance security and civil liberties?,Balancing Security and Liberty: Examining Contemporary Counterterrorism Laws
+How do courts balance security and civil liberties?,What about fundamental rights? Security and fundamental rights in the midst of a rule of law breakdown
+How do courts balance security and civil liberties?,Inter Arma, Judicialis: Legal Bricolage and the Agency of Ukrainian Judiciary in Wartime

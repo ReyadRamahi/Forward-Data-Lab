@@ -1,0 +1,298 @@
+title
+Faith and Fate: Limits of Transformers on Compositionality
+Towards Reasoning in Large Language Models: A Survey
+Beyond Accuracy: Evaluating the Reasoning Behavior of Large Language Models - A Survey
+Block-Recurrent Transformers
+A Comparative Study on Transformer vs RNN in Speech Applications
+Human Sentence Processing: Recurrence or Attention?
+Towards an Enhanced Understanding of Bias in Pre-trained Neural Language Models: A Survey with Special Emphasis on Affective Bias
+Overwriting Pretrained Bias with Finetuning Data
+Skip \n: A Simple Method to Reduce Hallucination in Large Vision-Language Models
+Language Models are Few-Shot Learners
+Deep double descent: where bigger models and more data hurt
+Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks
+The Power of Generative AI: A Review of Requirements
+Evaluating the Social Impact of Generative AI Systems in Systems and Society
+Pros and Cons of GAN Evaluation Measures: New Developments
+SemAcSearch: A semantically modeled academic search engine
+On The Current State of Scholarly Retrieval Systems
+Language Bias in the Google Scholar Ranking Algorithm
+Using Access Data for Paper Recommendations on ArXiv.org
+Context sensitive article ranking with citation context analysis
+Dense Passage Retrieval for Open-Domain Question Answering
+An Analysis of Fusion Functions for Hybrid Retrieval
+VectorSearch: Enhancing Document Retrieval with Semantic Embeddings and Optimized Search
+Pre-trained Language Model based Ranking in Baidu Search
+Expected reciprocal rank for graded relevance
+Cumulated gain-based evaluation of IR techniques
+An Effective Scholarly Search by Combining Inverted Indices and Structured Search With Citation Networks Analysis
+Finding scientific gems with Google's PageRank algorithm
+The PageRank Citation Ranking : Bringing Order to the Web
+A Survey of Distributed Consensus Protocols for Blockchain Networks
+ResilientDB
+The Istanbul BFT Consensus Algorithm
+Sharding Distributed Databases: A Critical Review
+Lookup Tables: Fine-Grained Partitioning for Distributed Databases
+Scalable Database Access Technologies for ATLAS Distributed Computing
+The Hidden Cost of the Edge: A Performance Comparison of Edge and Cloud Latencies
+Is Big Data Performance Reproducible in Modern Cloud Networks?
+Scaling Performance of Serverless Edge Networking
+A Noble Security Analysis of Various Distributed Systems
+Cybersecurity Challenges in Distributed Control
+A Review on Security Issues and Attacks in Distributed Systems
+Fault-tolerant load balancing in cloud computing: A systematic literature review
+A Dynamic Task Scheduling Algorithm Improved by Load Balancing in Cloud Computing
+Employing Software Diversity in Cloud Microservices to Engineer Reliable and Performant Systems
+Strongly-Typed Multi-View Stack-Based Computations
+Behavioural Types for Memory and Method Safety in a Core Object-Oriented Language
+The Role of TypeScript in Enhancing Development with Modern JavaScript Frameworks
+Type System of Anemone Functional Language
+A large scale study of programming languages and code quality in github
+Practical Aspects of Declarative Languages: 23rd International Symposium
+Achieving high-performance the functional way: a functional pearl on expressing high-performance optimizations as rewrite strategies
+Scimitar: Functional Programs as Optimization Problems
+Lambda the Ultimate SSA: Optimizing Functional Programs in SSA
+Compiler Autotuning through Multiple-phase Learning
+A Survey on Compiler Autotuning using Machine Learning
+BurTorch: Revisiting Training from First Principles by Coupling Autodiff
+Myths and realities: the performance impact of garbage collection
+Recommendations for performance optimizations when using GATK3.8 and GATK4
+Stochastic modeling of large-scale solid-state storage systems: analysis
+Aspects of complexity in automotive software systems and their relation to maintainability effort. A case study
+A literature review for measuring maintainability of code clone
+Exploring Maintainability Index Variants for Software Maintainability Measurement in Object-Oriented Systems
+Modern Code Reviews—Survey of Literature and Practice
+AUGER: automatically generating review comments with pre-training models
+Generation-based Code Review Automation: How Far Are Weƒ
+What’s behind tight deadlines? Business causes of technical debt
+Does Technical Debt Lead to the Rejection of Pull Requests?
+A Qualitative Study on the Implementation Design Decisions of Developers
+The Impact of Agile Development Practices on Project Outcomes
+The impact of identified agility components on project success—ICT industry perspective
+Customising Hybrid project management methodologies
+A Validation of Object-Oriented Design Metrics as Quality Indicators
+Evaluating Thresholds for Object-Oriented Software Metrics
+Metrics in automotive software development: A systematic literature review
+Prover Agent: An Agent-based Framework for Formal Mathematical Proofs
+Learning to Prove Theorems via Interacting with Proof Assistants
+Further results and examples for formal mathematical systems with structural induction
+Graph Theory: A Comprehensive Survey about Graph Theory Applications in Computer Science and Social Networks
+Graph Theory and its Uses in Graph Algorithms and Beyond
+From Graph Theory to Graph Neural Networks (GNNs): The Opportunities of GNNs in Power Electronics
+Towards Linear Algebra over Normalized Data
+MLI: An API for Distributed Machine Learning
+SPORES
+A comprehensive study on modern optimization techniques for engineering applications
+Hybrid genetic algorithm-simulated annealing based electric vehicle charging station placement for optimizing distribution network resilience
+Neural-network quantum states for many-body physics
+Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs
+Formal Probabilistic Methods for Combinatorial Structures using the Lovász Local Lemma
+A view from the bridge spanning combinatorics and probability
+A Theory of Statistical Inference for Matching Methods in Causal Research
+Bootstrap inference for the finite population mean under complex sampling designs
+An empirical evaluation of sampling methods for the classification of imbalanced data
+Principle Assumptions of Regression Analysis: Testing
+Methodological issues in value-added modeling: an international review from 26 countries
+Improving the Software Estimation Models Based on Functional Size through Validation of the Assumptions behind the Linear Regression and the Use of the Confidence Intervals When the Reference Database Presents a Wedge-Shape Form
+Evaluating the fairness of a high-stakes college entrance exam in Kuwait
+Quantifying Bias in a Face Verification System
+Equality of Opportunity in Supervised Learning
+A survey on missing data in machine learning
+HI-PMK: A Data-Dependent Kernel for Incomplete Heterogeneous Data Representation
+What is Hiding in Medicine's Dark Matter? Learning with Missing Data in Medical Practices
+Statistical tests
+The Assessment of Big Data Adoption Readiness with a Technology–Organization–Environment Framework: A Perspective towards Healthcare Employees
+Likelihood-ratio-based confidence intervals for neural networks
+Changing health behaviors using financial incentives: a review from behavioral economics
+Soft Economic Incentives and Soft Behavioral Interventions on the Public’s Green Purchasing Behaviour - The Evidence from China
+A comprehensive study on factors influencing online impulse buying behavior: Evidence from Shopee video platform
+Beyond the reach of the invisible hand: Impediments to economic activity
+Why Consumers are Not Sovereign: The Socio-Economic Causes of Market Failure
+Tax Planning on New Tobacco Risk-Reduced Products in Europe: Assessment and Implications for Public Policies
+The Role of Macroeconomic Factors in Growth
+Smooth transition regression model relating inflation to economic growth in Tunisia
+The Effects of Inflation on Economic Growth: Lessons from Latin America
+Trends in Income Inequality and Its Impact on Economic Growth
+The Relationship Between Income Inequality and Economic Growth: Are Transmission Channels Effective?
+What Factors Affect Income Inequality and Economic Growth in Middle-Income Countries?
+Game-Theoretic Frameworks for Epidemic Spreading and Human Decision-Making: A Review
+Levels of explainable artificial intelligence for human-aligned conversational explanations
+Capturing the complexity of human strategic decision-making with machine learning
+Exploring Financial Risk Management: A Qualitative Study on Risk Identification
+Using Conditional Extreme Value Theory to Estimate Value-at-Risk for Daily Currency Exchange Rates
+Predicting Conditional Autoregressive Value-at-Risk for Stock Markets during Tranquil and Turbulent Periods
+Research on the Factors Affecting Stock Price Volatility
+A hybrid econometrics and machine learning based modeling of realized volatility of natural gas
+A Comprehensive Study of Stock Market Volatility: Types
+Analysis of the Impact of Interest Rate Level on the Real Estate Industry
+The Influence of Interest Rates and Inflation on Asset Allocation Strategies in Investment Portfolios in Indonesia
+Investor Rationality and Financial Decisions
+Mathematical Modeling of Option Pricing with an Extended Black-Scholes Framework
+Option pricing in a stochastic delay volatility model
+Stochastic Volatility for Levy Processes
+Does the Adaptive Market Hypothesis explain the evolution of emerging markets efficiency? Evidence from the Moroccan financial market
+Market impact shapes competitive advantage of investment strategies in financial markets
+The Financialization of Crude Oil Markets and Its Impact on Market Efficiency: Evidence from the Predictive Ability and Performance of Technical Trading Strategies
+Electoral Institutions and the Politics of Coalitions: Why Some Democracies Redistribute More Than Others
+Institutional Friction and Policy Responsiveness: The Puzzle of Coalitional Fragmentation and Executive-Legislative Balance
+The short-term effects of electoral reforms
+Engineering Democracy: Electoral Rules and Turnout Inequality
+American Voter Turnout in Comparative Perspective
+Turnout in electoral democracies
+African traditional institutions and support for democracy
+A Deliberative Turn or Business as Usual? Assessing the Deliberative Capacity of the Swedish Mining Governance System
+EVOLUTION OF DEMOCRACY: CHALLENGES AND PERSPECTIVES
+Political sectarianism in America
+PARTY POLARIZATION IN AMERICAN POLITICS : Characteristics
+Moving toward the Median: Compulsory Voting and Political Polarization
+Agenda setting function of mass media
+Media Guidance and Shaping of Public Opinion: Mechanisms
+Panem et circenses: removing political news to generate electoral support
+NBER WORKING PAPER SERIES SOCIAL CAPITAL I: MEASUREMENT AND ASSOCIATIONS WITH ECONOMIC MOBILITY
+Social capital II: determinants of economic connectedness
+Inequality's Economic and Social Roots: The Role of Social Networks and Homophily
+"Socio-spatial Inequalities in a Context of""Great Economic Wealth"". Case study of neighbourhoods of Luxembourg City"
+Intergenerational Social Mobility and Gender Disparities by Cohort: A Comparative Study of Spain and Chile
+A postcode lottery in education? Explaining regional inequality in multilevel systems
+The spread of behavior in an online social network experiment.
+Network Formation and Dynamics Among Multi-LLMs
+The role of social networks in information diffusion
+The worldwide trend to high participation higher education: dynamics of social stratification in inclusive systems
+Effects of Parental Occupations and Higher Education on Class Mobility of Offspring: A Research Study
+Evidence from a long-term experiment that collective risks change social norms and promote cooperation
+The dynamics of injunctive social norms
+A Room with a Viewpoint: Using Social Norms to Motivate Environmental Conservation in Hotels
+Cognitive Bias in Decision-Making with LLMs
+A Task-Based Taxonomy of Cognitive Biases for Information Visualization
+How Cognitive Biases Affect XAI-assisted Decision-making: A Systematic Review
+Memory engrams: Recalling the past and imagining the future
+Cognitive neuroscience perspective on memory: overview and summary
+Dynamic brain states during encoding and their post-encoding reinstatement predicts episodic memory in children
+Stress
+I’m going to fail! Acute cognitive performance anxiety increases threat-interference and impairs WM performance
+The effects of acute stress on core executive functions: A meta-analysis and comparison with cortisol
+Toward A Hierarchical Model of Intrinsic and Extrinsic Motivation
+Factors affecting employees’ motivation
+The Impact of Perceived Stress on Motivation Among College Students
+Psychometrics in experimental psychology: A case for calibration
+Behavioural tests for learning and cognition in humans and animals.
+The complexity of measuring reliability in learning tasks: An illustration using the Alternating Serial Reaction Time Task
+Active learning increases student performance in science
+Increased Structure and Active Learning Reduce the Achievement Gap in Introductory Biology
+Perception of Students Towards Active Learning in HEIs of Oman and Its Impact on Academic Performance
+Is Separate Still Unequal? New Evidence on School Segregation and Racial Academic Achievement Gaps
+The Impact of Socio-economic Status on Academic Achievement
+Exploring Student Achievement Gaps in School Districts Across the United States
+A Survey of Smart Classroom Literature
+Enhancement or Impediment? How University Teachers’ Use of Smart Classrooms Might Impact Interaction Quality
+Technology in the classroom: Banking education or opportunities to learn?
+Test
+Outcome-Based Assessment in The Evaluation of Education Programs Through a Systematic Literature Review
+Measuring learning outcomes: bridging accreditation requirements and LMS functionalities
+The development of student feedback literacy: enabling uptake of feedback
+The power of feedback.
+Formative assessment and the design of instructional systems
+Context-theoretic Semantics for Natural Language: an Algebraic Framework
+Concepts
+Distributional Formal Semantics
+Schrödinger's tree—On syntax and neural language models
+Psychomatics—A Multidisciplinary Framework for Understanding Artificial Minds
+Animal linguistics: a primer
+How individuals change language
+Diachronic word embeddings and semantic shifts: a survey
+Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change
+Saglik Bilimleri Turkce Derlemi(Turkish Corpus on Health Sciences)
+Corpus Linguistics in Legal Discourse
+Corpus Linguistics Methods in the Study of (Meta)Argumentation
+On the phantom-like appearance of bilingualism effects on neurocognition: (How) should we proceed?
+How does bilingualism modify cognitive function? Attention to the mechanism
+Redefining bilingualism as a spectrum of experiences that differentially affects brain structure and function
+The material solution to the problem of induction: Costs and benefits
+Varieties of Justification—How (Not) to Solve the Problem of Induction
+Induction With and Without Natural Properties: a New Approach to the New Riddle of Induction
+A critique of the traditional and the post-gettier theories of justification: an intervention with epistemological functionalism
+Justified belief
+Justification and the knowledge-connection
+An Overview of Artificial Intelligence Ethics
+Artificial Intelligence in Education: AIEd for Personalised Learning Pathways
+AI Ethics Issues in Real World: Evidence from AI Incident Database
+Reframing the Free Will Debate: The Universe is Not Deterministic
+John Searle and Richard Swinburne on the Nature of the Problem of Free Will and its Relation with Consciousness
+Do free will skeptics swallow their own medicine?
+Improving alignment of dialogue agents via targeted human judgements
+Ethical Frameworks and Computer Security Trolley Problems: Foundations for Conversations
+Industrialization and Social Stratification
+Industrial policy for sustainable human development in the post-Covid19 era
+Industrialization: The Transition of the Community of Agrarists Toward the Gresik Wringinanom Industry
+The Role of Structural Contexts of the Pahlavi Government and Shiite Political Islam in the Formation of the Iran Revolution in 1979
+Social Revolutions
+Incumbent policy
+Analysing Historical Enquiry in School History Textbooks.
+Annales Sect in Islamic Historical Research
+Writing ‘Anniversary’ in Historical Perspective: A Way to Find Identity
+Implementation of Revolution in Military Affairs in the Russian and Ukrainian Wars
+THE IMPACT OF TECHNOLOGY ON THE PROCESS OF PLANNING AND DECISION MAKING
+Turnkey Technology: A Powerful Tool for Cyber Warfare
+Community of human destiny of exploring the patway
+Globalization And Transfer Of Technology: The Implications For Nigeria's Economic Development
+Sticking Together or Falling Apart?: Solidarity in an Era of Individualization and Globalization
+Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback
+Microbiome composition shapes rapid genomic adaptation of Drosophila melanogaster
+A generalised approach to the study and understanding of adaptive evolution
+Transcription factors and evolution: An integral part of gene expression (Review)
+Advances in Diversity
+The Obesity–Epigenetics–Microbiome Axis: Strategies for Therapeutic Intervention
+Coupling of green and brown food webs and ecosystem stability
+Exploring the Dynamics of Ecosystem Balance Research: A Bibliometric Analysis to Uncover Research Focus and Disciplinary Contributions
+Rethinking Competition as a Non-Beneficial Mechanism in Economic Systems
+The principal factors responsible for biodiversity loss
+Student teachers’ conceptual understanding of biodiversity loss in a multiple-source learning environment
+Legally binding and ambitious biodiversity protection under the CBD
+Unbiased population heterozygosity estimates from genome-wide sequence data
+Rescued back from extinction in the wild: past
+k-mer-based approaches to bridging pangenomics and population genetics
+Randomized Controlled Trials
+Randomized Controlled Trials and Challenge Trials: Design and Criterion for Validity
+Primer of Epidemiology IV. Study designs II: Interventional or experimental designs.
+The influence of social and spatial processes on the epidemiology of environmentally transmitted pathogens in wildlife: implications for management
+A Taxonomy for Agent-Based Models in Human Infectious Disease Epidemiology
+The potential health impacts of climate variability and change for the United States: executive summary of the report of the health sector of the U.S. National Assessment.
+Estimating the health impact of vaccination against ten pathogens in 98 low-income and middle-income countries from 2000 to 2030: a modelling study
+Access to Vaccination among Disadvantaged
+Drivers of inappropriate antibiotic use in low- and middle-income countries
+What makes clinical research ethical?
+Ethical Consideration in Clinical Trials
+Medical Ethics of Pediatric Care
+Discounting Health Grades for Disparity: The 2021 Wisconsin Population Health and Equity Report Card
+Addressing inequities in medical care
+A Summary Measure of Health Disparity
+Climate change reshuffles northern species within their niches
+Assessing the impacts of climate change on biodiversity: is below 2 °C enough?
+Future effects of climate and land-use change on terrestrial vertebrate community diversity under different scenarios
+A novel carbon emission monitoring method for power generation enterprises based on hybrid transformer model
+An Accurate Carbon Accounting Model Based on the Micro-level Process Principles for the Lean Carbon Management in the Blast Furnace Ironmaking
+State-of-the-art carbon metering: Continuous emission monitoring systems for industrial applications
+A function-based typology for Earth’s ecosystems
+Recent pace of change in human impact on the world’s ocean
+Exploring variability in environmental impact risk from human activities across aquatic ecosystems.
+The PESERA-DESMICE Modeling Framework for Spatial Assessment of the Physical Impact and Economic Viability of Land Degradation Mitigation Technologies
+Analysing the influence of foreign direct investment and urbanization on the development of private financial system and its ecological footprint
+Dynamic impacts of energy use
+The ‘European Green Deal’ – a paradigm shift? Transformations in the European Union’s sustainability meta-discourse
+Operationalising sustainability? Why sustainability fails as an investment criterion for safeguarding the future
+Assessment of the Development of Professional Skills in University Students: Sustainability and Serious Games
+STARE DECISIS AND INFORMATION ABUNDANCE IN A COMMON LAW JURISDICTION
+CONSTITUTIONAL PRECEDENT IN THE US SUPREME COURT REASONING
+The Authority of Precedents in Civil Law Systems
+Constitutional Interpretation and Foreign Law: A Comparative Analysis between the U.S. Supreme Court and the German Federal Constitutional Court
+JUDICIAL APPROACHES TO CONSTITUTIONAL INTERPRETATION IN KENYA
+Antonin Scalia’s Textualism in philosophy
+The Study of Foreign Policy in International Relations
+Sovereignty in the Age of Cyber
+Hume’s Dynamic Coordination and International Law
+The technology triad: disruptive AI
+Copyright Law and the Lifecycle of Machine Learning Models
+The interaction of emerging technologies with the legal field
+Balancing Security and Liberty: Examining Contemporary Counterterrorism Laws
+What about fundamental rights? Security and fundamental rights in the midst of a rule of law breakdown
+Inter Arma

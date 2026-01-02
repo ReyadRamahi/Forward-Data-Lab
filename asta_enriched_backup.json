@@ -1,0 +1,1756 @@
+[
+  {
+    "title": "Faith and fate: Limits of transformers on compositionality",
+    "authors": [
+      "N Dziri",
+      "X Lu",
+      "M Sclar",
+      "XL Li",
+      "L Jiang"
+    ],
+    "year": null,
+    "venue": "Advances in …",
+    "citations": 617,
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/deb3c28192f979302c157cb653c15e90-Abstract-Conference.html",
+    "source": "ASTA",
+    "input_title": "Faith and fate: Limits of transformers on compositionality",
+    "cache_key": "faith and fate limits of transformers on compositionality"
+  },
+  {
+    "title": "Towards reasoning in large language models: A survey",
+    "authors": [
+      "J Huang",
+      "KCC Chang"
+    ],
+    "year": null,
+    "venue": "Findings of the association for …",
+    "citations": 1227,
+    "url": "https://aclanthology.org/2023.findings-acl.67/",
+    "source": "ASTA",
+    "input_title": "Towards reasoning in large language models: A survey",
+    "cache_key": "towards reasoning in large language models a survey"
+  },
+  {
+    "input_title": "Beyond Accuracy: Evaluating the Reasoning Behavior of Large Language Models - A Survey",
+    "title": "Beyond accuracy: evaluating the reasoning behavior of large Language models--A survey",
+    "authors": [
+      "P Mondorf",
+      "B Plank"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv:2404.01869",
+    "citations": 101,
+    "url": "https://arxiv.org/abs/2404.01869",
+    "source": "ASTA",
+    "cache_key": "beyond accuracy evaluating the reasoning behavior of large language models a survey"
+  },
+  {
+    "title": "Block-recurrent transformers",
+    "authors": [
+      "DL Hutchins",
+      "I Schlag",
+      "Y Wu",
+      "E Dyer"
+    ],
+    "year": null,
+    "venue": "Advances in neural …",
+    "citations": 176,
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/d6e0bbb9fc3f4c10950052ec2359355c-Abstract-Conference.html",
+    "source": "ASTA",
+    "input_title": "Block-recurrent transformers",
+    "cache_key": "block recurrent transformers"
+  },
+  {
+    "title": "A comparative study on transformer vs rnn in speech applications",
+    "authors": [
+      "S Karita",
+      "N Chen",
+      "T Hayashi",
+      "T Hori"
+    ],
+    "year": null,
+    "venue": "2019 IEEE automatic …",
+    "citations": 1019,
+    "url": "https://ieeexplore.ieee.org/abstract/document/9003750/",
+    "source": "ASTA",
+    "input_title": "A comparative study on transformer vs rnn in speech applications",
+    "cache_key": "a comparative study on transformer vs rnn in speech applications"
+  },
+  {
+    "title": "Human sentence processing: Recurrence or attention?",
+    "authors": [
+      "D Merkx",
+      "SL Frank"
+    ],
+    "year": null,
+    "venue": "Proceedings of the workshop on cognitive …",
+    "citations": 141,
+    "url": "https://aclanthology.org/2021.cmcl-1.2/",
+    "source": "ASTA",
+    "input_title": "Human sentence processing: Recurrence or attention?",
+    "cache_key": "human sentence processing recurrence or attention"
+  },
+  {
+    "title": "Towards an enhanced understanding of bias in pre-trained neural language models: A survey with special emphasis on affective bias",
+    "authors": [
+      "K Anoop",
+      "MP Gangan",
+      "P Deepak",
+      "VL Lajish"
+    ],
+    "year": null,
+    "venue": "Responsible Data Science …",
+    "citations": 23,
+    "url": "https://link.springer.com/chapter/10.1007/978-981-19-4453-6_2",
+    "source": "ASTA",
+    "input_title": "Towards an enhanced understanding of bias in pre-trained neural language models: A survey with special emphasis on affective bias",
+    "cache_key": "towards an enhanced understanding of bias in pre trained neural language models a survey with special emphasis on affective bias"
+  },
+  {
+    "title": "Overwriting pretrained bias with finetuning data",
+    "authors": [
+      "A Wang",
+      "O Russakovsky"
+    ],
+    "year": null,
+    "venue": "Proceedings of the IEEE/CVF …",
+    "citations": 52,
+    "url": "http://openaccess.thecvf.com/content/ICCV2023/html/Wang_Overwriting_Pretrained_Bias_with_Finetuning_Data_ICCV_2023_paper.html",
+    "source": "ASTA",
+    "input_title": "Overwriting pretrained bias with finetuning data",
+    "cache_key": "overwriting pretrained bias with finetuning data"
+  },
+  {
+    "input_title": "Skip \\n: A Simple Method to Reduce Hallucination in Large Vision-Language Models",
+    "title": "Skip\\n: A simple method to reduce hallucination in large vision-language models",
+    "authors": [
+      "Z Han",
+      "Z Bai",
+      "H Mei",
+      "Q Xu",
+      "C Zhang"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv …",
+    "citations": 17,
+    "url": "https://arxiv.org/abs/2402.01345",
+    "source": "ASTA",
+    "cache_key": "skip n a simple method to reduce hallucination in large vision language models"
+  },
+  {
+    "title": "Language models are few-shot learners",
+    "authors": [
+      "T Brown",
+      "B Mann",
+      "N Ryder"
+    ],
+    "year": null,
+    "venue": "Advances in neural …",
+    "citations": 61542,
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html?utm_source=transaction&utm_medium=email&utm_campaign=linkedin_newsletter",
+    "source": "ASTA",
+    "input_title": "Language models are few-shot learners",
+    "cache_key": "language models are few shot learners"
+  },
+  {
+    "title": "Deep double descent: Where bigger models and more data hurt",
+    "authors": [
+      "P Nakkiran",
+      "G Kaplun",
+      "Y Bansal",
+      "T Yang"
+    ],
+    "year": null,
+    "venue": "Journal of Statistical …",
+    "citations": 1399,
+    "url": "https://iopscience.iop.org/article/10.1088/1742-5468/ac3a74/meta",
+    "source": "ASTA",
+    "input_title": "Deep double descent: Where bigger models and more data hurt",
+    "cache_key": "deep double descent where bigger models and more data hurt"
+  },
+  {
+    "title": "Super-naturalinstructions: Generalization via declarative instructions on 1600+ nlp tasks",
+    "authors": [
+      "Y Wang",
+      "S Mishra",
+      "P Alipoormolabashi",
+      "Y Kordi"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv …",
+    "citations": 808,
+    "url": "https://arxiv.org/abs/2204.07705",
+    "source": "ASTA",
+    "input_title": "Super-naturalinstructions: Generalization via declarative instructions on 1600+ nlp tasks",
+    "cache_key": "super naturalinstructions generalization via declarative instructions on 1600 nlp tasks"
+  },
+  {
+    "title": "Evaluating the social impact of generative ai systems in systems and society",
+    "authors": [
+      "I Solaiman",
+      "Z Talat",
+      "W Agnew",
+      "L Ahmad"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv …",
+    "citations": 191,
+    "url": "https://arxiv.org/abs/2306.05949",
+    "source": "ASTA",
+    "input_title": "Evaluating the social impact of generative ai systems in systems and society",
+    "cache_key": "evaluating the social impact of generative ai systems in systems and society"
+  },
+  {
+    "title": "Pros and cons of GAN evaluation measures: New developments",
+    "authors": [
+      "A Borji"
+    ],
+    "year": null,
+    "venue": "Computer Vision and Image Understanding",
+    "citations": 470,
+    "url": "https://www.sciencedirect.com/science/article/pii/S1077314221001685",
+    "source": "ASTA",
+    "input_title": "Pros and cons of GAN evaluation measures: New developments",
+    "cache_key": "pros and cons of gan evaluation measures new developments"
+  },
+  {
+    "title": "SemAcSearch: A semantically modeled academic search engine",
+    "authors": [
+      "RK Doshi",
+      "S Karthik",
+      "SS Kamath"
+    ],
+    "year": null,
+    "venue": "2017 Conference on …",
+    "citations": 2,
+    "url": "https://ieeexplore.ieee.org/abstract/document/8340633/",
+    "source": "ASTA",
+    "input_title": "SemAcSearch: A semantically modeled academic search engine",
+    "cache_key": "semacsearch a semantically modeled academic search engine"
+  },
+  {
+    "title": "On the current state of scholarly retrieval systems",
+    "authors": [
+      "S Khalid",
+      "S Khusro",
+      "I Ullah"
+    ],
+    "year": null,
+    "venue": "… , technology & applied …",
+    "citations": 16,
+    "url": "https://mail.etasr.com/index.php/ETASR/article/view/2448",
+    "source": "ASTA",
+    "input_title": "On the current state of scholarly retrieval systems",
+    "cache_key": "on the current state of scholarly retrieval systems"
+  },
+  {
+    "title": "Language bias in the Google Scholar ranking algorithm",
+    "authors": [
+      "C Rovira",
+      "L Codina",
+      "C Lopezosa"
+    ],
+    "year": null,
+    "venue": "Future internet",
+    "citations": 72,
+    "url": "https://www.mdpi.com/1999-5903/13/2/31",
+    "source": "ASTA",
+    "input_title": "Language bias in the Google Scholar ranking algorithm",
+    "cache_key": "language bias in the google scholar ranking algorithm"
+  },
+  {
+    "input_title": "Using Access Data for Paper Recommendations on ArXiv.org",
+    "title": "Using access data for paper recommendations on ArXiv. org",
+    "authors": [
+      "S Pohl"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv:0704.2963",
+    "citations": 10,
+    "url": "https://arxiv.org/abs/0704.2963",
+    "source": "ASTA",
+    "cache_key": "using access data for paper recommendations on arxiv org"
+  },
+  {
+    "title": "Context sensitive article ranking with citation context analysis",
+    "authors": [
+      "M Doslu",
+      "HO Bingol"
+    ],
+    "year": null,
+    "venue": "Scientometrics",
+    "citations": 31,
+    "url": "https://link.springer.com/article/10.1007/s11192-016-1982-6",
+    "source": "ASTA",
+    "input_title": "Context sensitive article ranking with citation context analysis",
+    "cache_key": "context sensitive article ranking with citation context analysis"
+  },
+  {
+    "input_title": "Dense Passage Retrieval for Open-Domain Question Answering",
+    "title": "Dense Passage Retrieval for Open-Domain Question Answering.",
+    "authors": [
+      "V Karpukhin",
+      "B Oguz",
+      "S Min",
+      "PSH Lewis",
+      "L Wu"
+    ],
+    "year": null,
+    "venue": "EMNLP (1)",
+    "citations": 5352,
+    "url": "https://arxiv.org/pdf/2004.04906v2/1000",
+    "source": "ASTA",
+    "cache_key": "dense passage retrieval for open domain question answering"
+  },
+  {
+    "title": "An analysis of fusion functions for hybrid retrieval",
+    "authors": [
+      "S Bruch",
+      "S Gai",
+      "A Ingber"
+    ],
+    "year": null,
+    "venue": "ACM Transactions on Information Systems",
+    "citations": 75,
+    "url": "https://dl.acm.org/doi/abs/10.1145/3596512",
+    "source": "ASTA",
+    "input_title": "An analysis of fusion functions for hybrid retrieval",
+    "cache_key": "an analysis of fusion functions for hybrid retrieval"
+  },
+  {
+    "title": "VectorSearch: Enhancing document retrieval with semantic embeddings and optimized search",
+    "authors": [
+      "SS Monir",
+      "I Lau",
+      "S Yang",
+      "D Zhao"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv:2409.17383",
+    "citations": 17,
+    "url": "https://arxiv.org/abs/2409.17383",
+    "source": "ASTA",
+    "input_title": "VectorSearch: Enhancing document retrieval with semantic embeddings and optimized search",
+    "cache_key": "vectorsearch enhancing document retrieval with semantic embeddings and optimized search"
+  },
+  {
+    "title": "Pre-trained language model based ranking in Baidu search",
+    "authors": [
+      "L Zou",
+      "S Zhang",
+      "H Cai",
+      "D Ma",
+      "S Cheng"
+    ],
+    "year": null,
+    "venue": "Proceedings of the 27th …",
+    "citations": 87,
+    "url": "https://dl.acm.org/doi/abs/10.1145/3447548.3467147",
+    "source": "ASTA",
+    "input_title": "Pre-trained language model based ranking in Baidu search",
+    "cache_key": "pre trained language model based ranking in baidu search"
+  },
+  {
+    "title": "Expected reciprocal rank for graded relevance",
+    "authors": [
+      "O Chapelle",
+      "D Metlzer",
+      "Y Zhang"
+    ],
+    "year": null,
+    "venue": "Proceedings of the 18th …",
+    "citations": 1075,
+    "url": "https://dl.acm.org/doi/abs/10.1145/1645953.1646033",
+    "source": "ASTA",
+    "input_title": "Expected reciprocal rank for graded relevance",
+    "cache_key": "expected reciprocal rank for graded relevance"
+  },
+  {
+    "title": "Cumulated gain-based evaluation of IR techniques",
+    "authors": [
+      "K Järvelin",
+      "J Kekäläinen"
+    ],
+    "year": null,
+    "venue": "ACM Transactions on Information Systems …",
+    "citations": 6511,
+    "url": "https://dl.acm.org/doi/abs/10.1145/582415.582418",
+    "source": "ASTA",
+    "input_title": "Cumulated gain-based evaluation of IR techniques",
+    "cache_key": "cumulated gain based evaluation of ir techniques"
+  },
+  {
+    "title": "An effective scholarly search by combining inverted indices and structured search with citation networks analysis",
+    "authors": [
+      "S Khalid",
+      "S Wu",
+      "A Wahid",
+      "A Alam",
+      "I Ullah"
+    ],
+    "year": null,
+    "venue": "Ieee Access",
+    "citations": 26,
+    "url": "https://ieeexplore.ieee.org/abstract/document/9522111/",
+    "source": "ASTA",
+    "input_title": "An effective scholarly search by combining inverted indices and structured search with citation networks analysis",
+    "cache_key": "an effective scholarly search by combining inverted indices and structured search with citation networks analysis"
+  },
+  {
+    "title": "Finding scientific gems with Google's PageRank algorithm",
+    "authors": [
+      "P Chen",
+      "H Xie",
+      "S Maslov",
+      "S Redner"
+    ],
+    "year": null,
+    "venue": "Journal of informetrics",
+    "citations": 649,
+    "url": "https://www.sciencedirect.com/science/article/pii/S1751157706000034",
+    "source": "ASTA",
+    "input_title": "Finding scientific gems with Google's PageRank algorithm",
+    "cache_key": "finding scientific gems with google s pagerank algorithm"
+  },
+  {
+    "input_title": "The PageRank Citation Ranking : Bringing Order to the Web",
+    "title": "The PageRank citation ranking: Bringing order to the web.",
+    "authors": [
+      "L Page",
+      "S Brin",
+      "R Motwani",
+      "T Winograd"
+    ],
+    "year": null,
+    "venue": "NA",
+    "citations": 19846,
+    "url": "http://ilpubs.stanford.edu:8090/422/?utm_campaign=Technical%20SEO%20Weekly&utm_medium=ema",
+    "source": "ASTA",
+    "cache_key": "the pagerank citation ranking bringing order to the web"
+  },
+  {
+    "title": "A survey of distributed consensus protocols for blockchain networks",
+    "authors": [
+      "Y Xiao",
+      "N Zhang",
+      "W Lou",
+      "YT Hou"
+    ],
+    "year": null,
+    "venue": "… communications surveys & …",
+    "citations": 1256,
+    "url": "https://ieeexplore.ieee.org/abstract/document/8972381/",
+    "source": "ASTA",
+    "input_title": "A survey of distributed consensus protocols for blockchain networks",
+    "cache_key": "a survey of distributed consensus protocols for blockchain networks"
+  },
+  {
+    "title": "The Istanbul BFT consensus algorithm",
+    "authors": [
+      "H Moniz"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv:2002.03613",
+    "citations": 130,
+    "url": "https://arxiv.org/abs/2002.03613",
+    "source": "ASTA",
+    "input_title": "The Istanbul BFT consensus algorithm",
+    "cache_key": "the istanbul bft consensus algorithm"
+  },
+  {
+    "title": "Sharding distributed databases: A critical review",
+    "authors": [
+      "S Solat"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv:2404.04384",
+    "citations": 10,
+    "url": "https://arxiv.org/abs/2404.04384",
+    "source": "ASTA",
+    "input_title": "Sharding distributed databases: A critical review",
+    "cache_key": "sharding distributed databases a critical review"
+  },
+  {
+    "title": "Lookup tables: Fine-grained partitioning for distributed databases",
+    "authors": [
+      "AL Tatarowicz",
+      "C Curino",
+      "EPC Jones"
+    ],
+    "year": null,
+    "venue": "2012 IEEE 28th …",
+    "citations": 68,
+    "url": "https://ieeexplore.ieee.org/abstract/document/6228076/",
+    "source": "ASTA",
+    "input_title": "Lookup tables: Fine-grained partitioning for distributed databases",
+    "cache_key": "lookup tables fine grained partitioning for distributed databases"
+  },
+  {
+    "title": "Scalable Database Access Technologies for ATLAS Distributed Computing",
+    "authors": [
+      "A Vaniachine"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv:0910.0097",
+    "citations": 3,
+    "url": "https://arxiv.org/abs/0910.0097",
+    "source": "ASTA",
+    "input_title": "Scalable Database Access Technologies for ATLAS Distributed Computing",
+    "cache_key": "scalable database access technologies for atlas distributed computing"
+  },
+  {
+    "title": "The hidden cost of the edge: a performance comparison of edge and cloud latencies",
+    "authors": [
+      "A Ali-Eldin",
+      "B Wang",
+      "P Shenoy"
+    ],
+    "year": null,
+    "venue": "… of the International Conference for High …",
+    "citations": 65,
+    "url": "https://dl.acm.org/doi/abs/10.1145/3458817.3476142",
+    "source": "ASTA",
+    "input_title": "The hidden cost of the edge: a performance comparison of edge and cloud latencies",
+    "cache_key": "the hidden cost of the edge a performance comparison of edge and cloud latencies"
+  },
+  {
+    "title": "Is big data performance reproducible in modern cloud networks?",
+    "authors": [
+      "A Uta",
+      "A Custura",
+      "D Duplyakin",
+      "I Jimenez"
+    ],
+    "year": null,
+    "venue": "… USENIX symposium on …",
+    "citations": 96,
+    "url": "https://www.usenix.org/conference/nsdi20/presentation/uta",
+    "source": "ASTA",
+    "input_title": "Is big data performance reproducible in modern cloud networks?",
+    "cache_key": "is big data performance reproducible in modern cloud networks"
+  },
+  {
+    "title": "Scaling performance of serverless edge networking",
+    "authors": [
+      "M Michalke",
+      "F Carpio",
+      "A Jukan"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv:2310.09137",
+    "citations": 1,
+    "url": "https://arxiv.org/abs/2310.09137",
+    "source": "ASTA",
+    "input_title": "Scaling performance of serverless edge networking",
+    "cache_key": "scaling performance of serverless edge networking"
+  },
+  {
+    "title": "A Noble Security Analysis of Various Distributed Systems",
+    "authors": [
+      "MAH Sworna Akter",
+      "MMRR Akanda"
+    ],
+    "year": null,
+    "venue": "NA",
+    "citations": 0,
+    "url": "https://www.academia.edu/download/76004512/75.pdf",
+    "source": "ASTA",
+    "input_title": "A Noble Security Analysis of Various Distributed Systems",
+    "cache_key": "a noble security analysis of various distributed systems"
+  },
+  {
+    "title": "Cybersecurity Challenges in Distributed Control",
+    "authors": [
+      "MA Ehsan"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv:2106.13712",
+    "citations": 0,
+    "url": "https://arxiv.org/abs/2106.13712",
+    "source": "ASTA",
+    "input_title": "Cybersecurity Challenges in Distributed Control",
+    "cache_key": "cybersecurity challenges in distributed control"
+  },
+  {
+    "title": "A review on security issues and attacks in distributed systems",
+    "authors": [
+      "D Harinath",
+      "P Satyanarayana"
+    ],
+    "year": null,
+    "venue": "Journal of Advances in …",
+    "citations": 25,
+    "url": "https://www.academia.edu/download/99392428/20170316101644848.pdf",
+    "source": "ASTA",
+    "input_title": "A review on security issues and attacks in distributed systems",
+    "cache_key": "a review on security issues and attacks in distributed systems"
+  },
+  {
+    "title": "Fault-tolerant load balancing in cloud computing: A systematic literature review",
+    "authors": [
+      "V Mohammadian",
+      "NJ Navimipour"
+    ],
+    "year": null,
+    "venue": "IEEE …",
+    "citations": 41,
+    "url": "https://ieeexplore.ieee.org/abstract/document/9666877/",
+    "source": "ASTA",
+    "input_title": "Fault-tolerant load balancing in cloud computing: A systematic literature review",
+    "cache_key": "fault tolerant load balancing in cloud computing a systematic literature review"
+  },
+  {
+    "title": "A dynamic task scheduling algorithm improved by load balancing in cloud computing",
+    "authors": [
+      "F Ebadifard",
+      "SM Babamir"
+    ],
+    "year": null,
+    "venue": "2020 6th International …",
+    "citations": 66,
+    "url": "https://ieeexplore.ieee.org/abstract/document/9122287/",
+    "source": "ASTA",
+    "input_title": "A dynamic task scheduling algorithm improved by load balancing in cloud computing",
+    "cache_key": "a dynamic task scheduling algorithm improved by load balancing in cloud computing"
+  },
+  {
+    "title": "Employing Software Diversity in Cloud Microservices to Engineer Reliable and Performant Systems",
+    "authors": [
+      "N Akhtarian",
+      "H Khazaei",
+      "M Litoiu"
+    ],
+    "year": null,
+    "venue": "2024 IEEE International …",
+    "citations": 0,
+    "url": "https://ieeexplore.ieee.org/abstract/document/10771407/",
+    "source": "ASTA",
+    "input_title": "Employing Software Diversity in Cloud Microservices to Engineer Reliable and Performant Systems",
+    "cache_key": "employing software diversity in cloud microservices to engineer reliable and performant systems"
+  },
+  {
+    "title": "Strongly-Typed Multi-View Stack-Based Computations",
+    "authors": [
+      "P Koopman",
+      "M Lubbers"
+    ],
+    "year": null,
+    "venue": "… of the 25th International Symposium on …",
+    "citations": 2,
+    "url": "https://dl.acm.org/doi/abs/10.1145/3610612.3610623",
+    "source": "ASTA",
+    "input_title": "Strongly-Typed Multi-View Stack-Based Computations",
+    "cache_key": "strongly typed multi view stack based computations"
+  },
+  {
+    "title": "Behavioural types for memory and method safety in a core object-oriented language",
+    "authors": [
+      "M Bravetti",
+      "A Francalanza",
+      "I Golovanov",
+      "H Hüttel"
+    ],
+    "year": null,
+    "venue": "Asian Symposium on …",
+    "citations": 13,
+    "url": "https://link.springer.com/chapter/10.1007/978-3-030-64437-6_6",
+    "source": "ASTA",
+    "input_title": "Behavioural types for memory and method safety in a core object-oriented language",
+    "cache_key": "behavioural types for memory and method safety in a core object oriented language"
+  },
+  {
+    "input_title": "The Role of TypeScript in Enhancing Development with Modern JavaScript Frameworks",
+    "cache_key": "the role of typescript in enhancing development with modern javascript frameworks",
+    "title": "The role of TypeScript in enhancing development with modern JavaScript frameworks’",
+    "authors": [
+      "Emmanni, P Sekhar"
+    ],
+    "year": "2021",
+    "venue": "International Journal of Science and Research …",
+    "citations": 10,
+    "url": "https://www.researchgate.net/profile/Phani-Sekhar-Emmanni/publication/380361058_The_Role_of_TypeScript_in_Enhancing_Development_with_Modern_JavaScript_Frameworks/links/66388b1a352430415365a22e/The-Role-of-TypeScript-in-Enhancing-Development-with-Modern-JavaScript-Frameworks.pdf",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Type System of Anemone Functional Language",
+    "cache_key": "type system of anemone functional language",
+    "title": "Type System of Anemone Functional Language.",
+    "authors": [
+      "Batko, Pawel",
+      "Kuta, Marcin"
+    ],
+    "year": "2022",
+    "venue": "FedCSIS (Communication Papers)",
+    "citations": 0,
+    "url": "https://annals-csis.org/proceedings/2022/drp/pdf/135.pdf",
+    "source": "ASTA"
+  },
+  {
+    "title": "A large scale study of programming languages and code quality in github",
+    "authors": [
+      "B Ray",
+      "D Posnett",
+      "V Filkov",
+      "P Devanbu"
+    ],
+    "year": null,
+    "venue": "Proceedings of the 22nd ACM …",
+    "citations": 674,
+    "url": "https://dl.acm.org/doi/abs/10.1145/2635868.2635922",
+    "source": "ASTA",
+    "input_title": "A large scale study of programming languages and code quality in github",
+    "cache_key": "a large scale study of programming languages and code quality in github"
+  },
+  {
+    "title": "Achieving high-performance the functional way: a functional pearl on expressing high-performance optimizations as rewrite strategies",
+    "authors": [
+      "B Hagedorn",
+      "J Lenfers",
+      "T Koehler",
+      "X Qin"
+    ],
+    "year": null,
+    "venue": "Proceedings of the …",
+    "citations": 79,
+    "url": "https://dl.acm.org/doi/abs/10.1145/3408974",
+    "source": "ASTA",
+    "input_title": "Achieving high-performance the functional way: a functional pearl on expressing high-performance optimizations as rewrite strategies",
+    "cache_key": "achieving high performance the functional way a functional pearl on expressing high performance optimizations as rewrite strategies"
+  },
+  {
+    "title": "Scimitar: Functional Programs as Optimization Problems",
+    "authors": [
+      "NFF Bragg",
+      "JS Foster",
+      "P Zucker"
+    ],
+    "year": null,
+    "venue": "… on New Ideas, New Paradigms, and …",
+    "citations": 0,
+    "url": "https://dl.acm.org/doi/abs/10.1145/3689492.3690051",
+    "source": "ASTA",
+    "input_title": "Scimitar: Functional Programs as Optimization Problems",
+    "cache_key": "scimitar functional programs as optimization problems"
+  },
+  {
+    "title": "Lambda the ultimate SSA: optimizing functional programs in SSA",
+    "authors": [
+      "S Bhat",
+      "T Grosser"
+    ],
+    "year": null,
+    "venue": "… on Code Generation and Optimization (CGO …",
+    "citations": 4,
+    "url": "https://ieeexplore.ieee.org/abstract/document/9741279/",
+    "source": "ASTA",
+    "input_title": "Lambda the ultimate SSA: optimizing functional programs in SSA",
+    "cache_key": "lambda the ultimate ssa optimizing functional programs in ssa"
+  },
+  {
+    "title": "Compiler autotuning through multiple-phase learning",
+    "authors": [
+      "M Zhu",
+      "D Hao",
+      "J Chen"
+    ],
+    "year": null,
+    "venue": "ACM Transactions on Software Engineering and …",
+    "citations": 22,
+    "url": "https://dl.acm.org/doi/abs/10.1145/3640330",
+    "source": "ASTA",
+    "input_title": "Compiler autotuning through multiple-phase learning",
+    "cache_key": "compiler autotuning through multiple phase learning"
+  },
+  {
+    "title": "A survey on compiler autotuning using machine learning",
+    "authors": [
+      "AH Ashouri",
+      "W Killian",
+      "J Cavazos",
+      "G Palermo"
+    ],
+    "year": null,
+    "venue": "ACM Computing …",
+    "citations": 345,
+    "url": "https://dl.acm.org/doi/abs/10.1145/3197978",
+    "source": "ASTA",
+    "input_title": "A survey on compiler autotuning using machine learning",
+    "cache_key": "a survey on compiler autotuning using machine learning"
+  },
+  {
+    "title": "Myths and realities: The performance impact of garbage collection",
+    "authors": [
+      "SM Blackburn",
+      "P Cheng",
+      "KS McKinley"
+    ],
+    "year": null,
+    "venue": "ACM SIGMETRICS Performance …",
+    "citations": 340,
+    "url": "https://dl.acm.org/doi/abs/10.1145/1012888.1005693",
+    "source": "ASTA",
+    "input_title": "Myths and realities: The performance impact of garbage collection",
+    "cache_key": "myths and realities the performance impact of garbage collection"
+  },
+  {
+    "title": "Recommendations for performance optimizations when using GATK3. 8 and GATK4",
+    "authors": [
+      "JR Heldenbrand",
+      "S Baheti",
+      "MA Bockol",
+      "TM Drucker"
+    ],
+    "year": null,
+    "venue": "BMC …",
+    "citations": 60,
+    "url": "https://link.springer.com/article/10.1186/s12859-019-3169-7",
+    "source": "ASTA",
+    "input_title": "Recommendations for performance optimizations when using GATK3. 8 and GATK4",
+    "cache_key": "recommendations for performance optimizations when using gatk3 8 and gatk4"
+  },
+  {
+    "title": "Aspects of complexity in automotive software systems and their relation to maintainability effort. A case study",
+    "authors": [
+      "B Haraldsson",
+      "M Staron"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv:2505.13135",
+    "citations": 1,
+    "url": "https://arxiv.org/abs/2505.13135",
+    "source": "ASTA",
+    "input_title": "Aspects of complexity in automotive software systems and their relation to maintainability effort. A case study",
+    "cache_key": "aspects of complexity in automotive software systems and their relation to maintainability effort a case study"
+  },
+  {
+    "title": "A literature review for measuring maintainability of code clone",
+    "authors": [
+      "SI Khaleel",
+      "GK Al-Khatouni"
+    ],
+    "year": null,
+    "venue": "Indonesian Journal of Electrical …",
+    "citations": 6,
+    "url": "https://www.academia.edu/download/105543909/31045_65425_1_PB.pdf",
+    "source": "ASTA",
+    "input_title": "A literature review for measuring maintainability of code clone",
+    "cache_key": "a literature review for measuring maintainability of code clone"
+  },
+  {
+    "title": "Exploring maintainability index variants for software maintainability measurement in object-oriented systems",
+    "authors": [
+      "T Heričko",
+      "B Šumak"
+    ],
+    "year": null,
+    "venue": "Applied Sciences",
+    "citations": 24,
+    "url": "https://www.mdpi.com/2076-3417/13/5/2972",
+    "source": "ASTA",
+    "input_title": "Exploring maintainability index variants for software maintainability measurement in object-oriented systems",
+    "cache_key": "exploring maintainability index variants for software maintainability measurement in object oriented systems"
+  },
+  {
+    "title": "Modern code reviews—survey of literature and practice",
+    "authors": [
+      "D Badampudi",
+      "M Unterkalmsteiner"
+    ],
+    "year": null,
+    "venue": "ACM Transactions on …",
+    "citations": 58,
+    "url": "https://dl.acm.org/doi/abs/10.1145/3585004",
+    "source": "ASTA",
+    "input_title": "Modern code reviews—survey of literature and practice",
+    "cache_key": "modern code reviews survey of literature and practice"
+  },
+  {
+    "title": "AUGER: automatically generating review comments with pre-training models",
+    "authors": [
+      "L Li",
+      "L Yang",
+      "H Jiang",
+      "J Yan",
+      "T Luo",
+      "Z Hua"
+    ],
+    "year": null,
+    "venue": "Proceedings of the 30th …",
+    "citations": 84,
+    "url": "https://dl.acm.org/doi/abs/10.1145/3540250.3549099",
+    "source": "ASTA",
+    "input_title": "AUGER: automatically generating review comments with pre-training models",
+    "cache_key": "auger automatically generating review comments with pre training models"
+  },
+  {
+    "title": "Generation-based code review automation: How far are we?",
+    "authors": [
+      "X Zhou",
+      "K Kim",
+      "B Xu",
+      "DG Han",
+      "J He"
+    ],
+    "year": null,
+    "venue": "2023 IEEE/ACM 31st …",
+    "citations": 35,
+    "url": "https://ieeexplore.ieee.org/abstract/document/10174115/",
+    "source": "ASTA",
+    "input_title": "Generation-based code review automation: How far are we?",
+    "cache_key": "generation based code review automation how far are we"
+  },
+  {
+    "title": "What's behind tight deadlines? Business causes of technical debt",
+    "authors": [
+      "R Rebouças de Almeida",
+      "C Treude",
+      "U Kulesza"
+    ],
+    "year": null,
+    "venue": "NA",
+    "citations": 5,
+    "url": "https://ink.library.smu.edu.sg/sis_research/8808/",
+    "source": "ASTA",
+    "input_title": "What's behind tight deadlines? Business causes of technical debt",
+    "cache_key": "what s behind tight deadlines business causes of technical debt"
+  },
+  {
+    "title": "Does technical debt lead to the rejection of pull requests?",
+    "authors": [
+      "MCO Silva",
+      "MT Valente",
+      "R Terra"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv:1604.01450",
+    "citations": 70,
+    "url": "https://arxiv.org/abs/1604.01450",
+    "source": "ASTA",
+    "input_title": "Does technical debt lead to the rejection of pull requests?",
+    "cache_key": "does technical debt lead to the rejection of pull requests"
+  },
+  {
+    "title": "A qualitative study on the implementation design decisions of developers",
+    "authors": [
+      "JT Liang",
+      "M Arab",
+      "M Ko",
+      "AJ Ko"
+    ],
+    "year": null,
+    "venue": "2023 IEEE/ACM 45th …",
+    "citations": 21,
+    "url": "https://ieeexplore.ieee.org/abstract/document/10172559/",
+    "source": "ASTA",
+    "input_title": "A qualitative study on the implementation design decisions of developers",
+    "cache_key": "a qualitative study on the implementation design decisions of developers"
+  },
+  {
+    "title": "The impact of Agile development practices on project outcomes",
+    "authors": [
+      "D Ghimire",
+      "S Charters"
+    ],
+    "year": null,
+    "venue": "Software",
+    "citations": 48,
+    "url": "https://www.mdpi.com/2674-113X/1/3/12",
+    "source": "ASTA",
+    "input_title": "The impact of Agile development practices on project outcomes",
+    "cache_key": "the impact of agile development practices on project outcomes"
+  },
+  {
+    "title": "The impact of identified agility components on project success—ICT industry perspective",
+    "authors": [
+      "L Kanski",
+      "K Budzynska",
+      "J Chadam"
+    ],
+    "year": null,
+    "venue": "Plos one",
+    "citations": 21,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281936",
+    "source": "ASTA",
+    "input_title": "The impact of identified agility components on project success—ICT industry perspective",
+    "cache_key": "the impact of identified agility components on project success ict industry perspective"
+  },
+  {
+    "title": "Customising Hybrid project management methodologies",
+    "authors": [
+      "M Mirzaei",
+      "VJ Mabin",
+      "O Zwikael"
+    ],
+    "year": null,
+    "venue": "Production Planning & Control",
+    "citations": 35,
+    "url": "https://www.tandfonline.com/doi/abs/10.1080/09537287.2024.2349231",
+    "source": "ASTA",
+    "input_title": "Customising Hybrid project management methodologies",
+    "cache_key": "customising hybrid project management methodologies"
+  },
+  {
+    "title": "A validation of object-oriented design metrics as quality indicators",
+    "authors": [
+      "VR Basili",
+      "LC Briand",
+      "WL Melo"
+    ],
+    "year": null,
+    "venue": "IEEE Transactions on software …",
+    "citations": 2686,
+    "url": "https://ieeexplore.ieee.org/abstract/document/544352/",
+    "source": "ASTA",
+    "input_title": "A validation of object-oriented design metrics as quality indicators",
+    "cache_key": "a validation of object oriented design metrics as quality indicators"
+  },
+  {
+    "title": "Evaluating thresholds for object-oriented software metrics",
+    "authors": [
+      "TGS Filó",
+      "MAS Bigonha"
+    ],
+    "year": null,
+    "venue": "Journal of the Brazilian …",
+    "citations": 5,
+    "url": "https://journals-sol.sbc.org.br/index.php/jbcs/article/view/3373",
+    "source": "ASTA",
+    "input_title": "Evaluating thresholds for object-oriented software metrics",
+    "cache_key": "evaluating thresholds for object oriented software metrics"
+  },
+  {
+    "title": "Metrics in automotive software development: A systematic literature review",
+    "authors": [
+      "M Vogel",
+      "P Knapik",
+      "M Cohrs"
+    ],
+    "year": null,
+    "venue": "Journal of software …",
+    "citations": 26,
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2296",
+    "source": "ASTA",
+    "input_title": "Metrics in automotive software development: A systematic literature review",
+    "cache_key": "metrics in automotive software development a systematic literature review"
+  },
+  {
+    "title": "Prover Agent: An Agent-based Framework for Formal Mathematical Proofs",
+    "authors": [
+      "K Baba",
+      "C Liu",
+      "S Kurita",
+      "A Sannai"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv:2506.19923",
+    "citations": 11,
+    "url": "https://arxiv.org/abs/2506.19923",
+    "source": "ASTA",
+    "input_title": "Prover Agent: An Agent-based Framework for Formal Mathematical Proofs",
+    "cache_key": "prover agent an agent based framework for formal mathematical proofs"
+  },
+  {
+    "title": "Learning to prove theorems via interacting with proof assistants",
+    "authors": [
+      "K Yang",
+      "J Deng"
+    ],
+    "year": null,
+    "venue": "International Conference on Machine …",
+    "citations": 218,
+    "url": "http://proceedings.mlr.press/v97/yang19a.html",
+    "source": "ASTA",
+    "input_title": "Learning to prove theorems via interacting with proof assistants",
+    "cache_key": "learning to prove theorems via interacting with proof assistants"
+  },
+  {
+    "title": "Further results and examples for formal mathematical systems with structural induction",
+    "authors": [
+      "M Kunik"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv:2008.07385",
+    "citations": 1,
+    "url": "https://arxiv.org/abs/2008.07385",
+    "source": "ASTA",
+    "input_title": "Further results and examples for formal mathematical systems with structural induction",
+    "cache_key": "further results and examples for formal mathematical systems with structural induction"
+  },
+  {
+    "title": "Graph theory: A comprehensive survey about graph theory applications in computer science and social networks",
+    "authors": [
+      "A Majeed",
+      "I Rauf"
+    ],
+    "year": null,
+    "venue": "Inventions",
+    "citations": 211,
+    "url": "https://www.mdpi.com/2411-5134/5/1/10",
+    "source": "ASTA",
+    "input_title": "Graph theory: A comprehensive survey about graph theory applications in computer science and social networks",
+    "cache_key": "graph theory a comprehensive survey about graph theory applications in computer science and social networks"
+  },
+  {
+    "title": "Graph Theory and its Uses in Graph Algorithms and Beyond",
+    "authors": [
+      "R Nimavat"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv:2308.15473",
+    "citations": 0,
+    "url": "https://arxiv.org/abs/2308.15473",
+    "source": "ASTA",
+    "input_title": "Graph Theory and its Uses in Graph Algorithms and Beyond",
+    "cache_key": "graph theory and its uses in graph algorithms and beyond"
+  },
+  {
+    "title": "From graph theory to graph neural networks (GNNs): The opportunities of GNNs in power electronics",
+    "authors": [
+      "Y Li",
+      "C Xue",
+      "F Zargari",
+      "YR Li"
+    ],
+    "year": null,
+    "venue": "IEEE Access",
+    "citations": 42,
+    "url": "https://ieeexplore.ieee.org/abstract/document/10368010/",
+    "source": "ASTA",
+    "input_title": "From graph theory to graph neural networks (GNNs): The opportunities of GNNs in power electronics",
+    "cache_key": "from graph theory to graph neural networks gnns the opportunities of gnns in power electronics"
+  },
+  {
+    "title": "Towards linear algebra over normalized data",
+    "authors": [
+      "L Chen",
+      "A Kumar",
+      "J Naughton",
+      "JM Patel"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv:1612.07448",
+    "citations": 117,
+    "url": "https://arxiv.org/abs/1612.07448",
+    "source": "ASTA",
+    "input_title": "Towards linear algebra over normalized data",
+    "cache_key": "towards linear algebra over normalized data"
+  },
+  {
+    "title": "MLI: An API for distributed machine learning",
+    "authors": [
+      "ER Sparks",
+      "A Talwalkar",
+      "V Smith"
+    ],
+    "year": null,
+    "venue": "2013 IEEE 13th …",
+    "citations": 251,
+    "url": "https://ieeexplore.ieee.org/abstract/document/6729619/",
+    "source": "ASTA",
+    "input_title": "MLI: An API for distributed machine learning",
+    "cache_key": "mli an api for distributed machine learning"
+  },
+  {
+    "title": "A comprehensive study on modern optimization techniques for engineering applications",
+    "authors": [
+      "S Selvarajan"
+    ],
+    "year": null,
+    "venue": "Artificial Intelligence Review",
+    "citations": 86,
+    "url": "https://link.springer.com/article/10.1007/s10462-024-10829-9",
+    "source": "ASTA",
+    "input_title": "A comprehensive study on modern optimization techniques for engineering applications",
+    "cache_key": "a comprehensive study on modern optimization techniques for engineering applications"
+  },
+  {
+    "title": "Hybrid genetic algorithm-simulated annealing based electric vehicle charging station placement for optimizing distribution network resilience",
+    "authors": [
+      "BA Kumar",
+      "B Jyothi",
+      "AR Singh",
+      "M Bajaj",
+      "RS Rathore"
+    ],
+    "year": null,
+    "venue": "Scientific Reports",
+    "citations": 87,
+    "url": "https://www.nature.com/articles/s41598-024-58024-8",
+    "source": "ASTA",
+    "input_title": "Hybrid genetic algorithm-simulated annealing based electric vehicle charging station placement for optimizing distribution network resilience",
+    "cache_key": "hybrid genetic algorithm simulated annealing based electric vehicle charging station placement for optimizing distribution network resilience"
+  },
+  {
+    "title": "Neural-network quantum states for many-body physics",
+    "authors": [
+      "M Medvidović",
+      "JR Moreno"
+    ],
+    "year": null,
+    "venue": "The European Physical Journal Plus",
+    "citations": 50,
+    "url": "https://link.springer.com/article/10.1140/epjp/s13360-024-05311-y",
+    "source": "ASTA",
+    "input_title": "Neural-network quantum states for many-body physics",
+    "cache_key": "neural network quantum states for many body physics"
+  },
+  {
+    "title": "Erdos goes neural: an unsupervised learning framework for combinatorial optimization on graphs",
+    "authors": [
+      "N Karalias",
+      "A Loukas"
+    ],
+    "year": null,
+    "venue": "Advances in Neural Information …",
+    "citations": 190,
+    "url": "https://proceedings.neurips.cc/paper/2020/hash/49f85a9ed090b20c8bed85a5923c669f-Abstract.html",
+    "source": "ASTA",
+    "input_title": "Erdos goes neural: an unsupervised learning framework for combinatorial optimization on graphs",
+    "cache_key": "erdos goes neural an unsupervised learning framework for combinatorial optimization on graphs"
+  },
+  {
+    "title": "Formal probabilistic methods for combinatorial structures using the Lovász local lemma",
+    "authors": [
+      "C Edmonds",
+      "LC Paulson"
+    ],
+    "year": null,
+    "venue": "Proceedings of the 13th ACM SIGPLAN …",
+    "citations": 7,
+    "url": "https://dl.acm.org/doi/abs/10.1145/3636501.3636946",
+    "source": "ASTA",
+    "input_title": "Formal probabilistic methods for combinatorial structures using the Lovász local lemma",
+    "cache_key": "formal probabilistic methods for combinatorial structures using the lov sz local lemma"
+  },
+  {
+    "title": "A view from the bridge spanning combinatorics and probability",
+    "authors": [
+      "RG Pinsky"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv:2105.13834",
+    "citations": 6,
+    "url": "https://arxiv.org/abs/2105.13834",
+    "source": "ASTA",
+    "input_title": "A view from the bridge spanning combinatorics and probability",
+    "cache_key": "a view from the bridge spanning combinatorics and probability"
+  },
+  {
+    "title": "A theory of statistical inference for matching methods in causal research",
+    "authors": [
+      "SM Iacus",
+      "G King",
+      "G Porro"
+    ],
+    "year": null,
+    "venue": "Political Analysis",
+    "citations": 162,
+    "url": "https://www.cambridge.org/core/journals/political-analysis/article/theory-of-statistical-inference-for-matching-methods-in-causal-research/C047EB2F24096F5127E777BDD242AF46",
+    "source": "ASTA",
+    "input_title": "A theory of statistical inference for matching methods in causal research",
+    "cache_key": "a theory of statistical inference for matching methods in causal research"
+  },
+  {
+    "title": "Bootstrap inference for the finite population mean under complex sampling designs",
+    "authors": [
+      "Z Wang",
+      "L Peng",
+      "JK Kim"
+    ],
+    "year": null,
+    "venue": "Journal of the Royal Statistical Society …",
+    "citations": 19,
+    "url": "https://academic.oup.com/jrsssb/article-abstract/84/4/1150/7073283",
+    "source": "ASTA",
+    "input_title": "Bootstrap inference for the finite population mean under complex sampling designs",
+    "cache_key": "bootstrap inference for the finite population mean under complex sampling designs"
+  },
+  {
+    "title": "An empirical evaluation of sampling methods for the classification of imbalanced data",
+    "authors": [
+      "M Kim",
+      "KB Hwang"
+    ],
+    "year": null,
+    "venue": "PLoS One",
+    "citations": 100,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271260",
+    "source": "ASTA",
+    "input_title": "An empirical evaluation of sampling methods for the classification of imbalanced data",
+    "cache_key": "an empirical evaluation of sampling methods for the classification of imbalanced data"
+  },
+  {
+    "title": "Methodological issues in value-added modeling: an international review from 26 countries",
+    "authors": [
+      "J Levy",
+      "M Brunner",
+      "U Keller",
+      "A Fischbach"
+    ],
+    "year": null,
+    "venue": "… Assessment, Evaluation and …",
+    "citations": 52,
+    "url": "https://link.springer.com/article/10.1007/s11092-019-09303-w",
+    "source": "ASTA",
+    "input_title": "Methodological issues in value-added modeling: an international review from 26 countries",
+    "cache_key": "methodological issues in value added modeling an international review from 26 countries"
+  },
+  {
+    "title": "Evaluating the fairness of a high-stakes college entrance exam in Kuwait",
+    "authors": [
+      "F Shamsaldeen",
+      "J Wang",
+      "S Ahn"
+    ],
+    "year": null,
+    "venue": "Language Testing in Asia",
+    "citations": 4,
+    "url": "https://link.springer.com/article/10.1186/s40468-024-00301-4",
+    "source": "ASTA",
+    "input_title": "Evaluating the fairness of a high-stakes college entrance exam in Kuwait",
+    "cache_key": "evaluating the fairness of a high stakes college entrance exam in kuwait"
+  },
+  {
+    "title": "Quantifying bias in a face verification system",
+    "authors": [
+      "M Frisella",
+      "P Khorrami",
+      "J Matterer"
+    ],
+    "year": null,
+    "venue": "Computer Sciences & …",
+    "citations": 1,
+    "url": "https://www.mdpi.com/2813-0324/3/1/6",
+    "source": "ASTA",
+    "input_title": "Quantifying bias in a face verification system",
+    "cache_key": "quantifying bias in a face verification system"
+  },
+  {
+    "title": "Equality of opportunity in supervised learning",
+    "authors": [
+      "M Hardt",
+      "E Price",
+      "N Srebro"
+    ],
+    "year": null,
+    "venue": "Advances in neural information …",
+    "citations": 6646,
+    "url": "https://proceedings.neurips.cc/paper/2016/hash/9d2682367c3935defcb1f9e247a97c0d-Abstract.html",
+    "source": "ASTA",
+    "input_title": "Equality of opportunity in supervised learning",
+    "cache_key": "equality of opportunity in supervised learning"
+  },
+  {
+    "title": "A survey on missing data in machine learning",
+    "authors": [
+      "T Emmanuel",
+      "T Maupong",
+      "D Mpoeleng",
+      "T Semong"
+    ],
+    "year": null,
+    "venue": "Journal of Big …",
+    "citations": 1245,
+    "url": "https://link.springer.com/article/10.1186/s40537-021-00516-9",
+    "source": "ASTA",
+    "input_title": "A survey on missing data in machine learning",
+    "cache_key": "a survey on missing data in machine learning"
+  },
+  {
+    "title": "HI-PMK: A Data-Dependent Kernel for Incomplete Heterogeneous Data Representation",
+    "authors": [
+      "Y Zhou",
+      "MR Bouadjenek",
+      "J Wells",
+      "S Aryal"
+    ],
+    "year": null,
+    "venue": "NA",
+    "citations": 3,
+    "url": "https://dro.deakin.edu.au/articles/conference_contribution/HI-PMK_A_Data-Dependent_Kernel_for_Incomplete_Heterogeneous_Data_Representation/30651863",
+    "source": "ASTA",
+    "input_title": "HI-PMK: A Data-Dependent Kernel for Incomplete Heterogeneous Data Representation",
+    "cache_key": "hi pmk a data dependent kernel for incomplete heterogeneous data representation"
+  },
+  {
+    "title": "What is Hiding in Medicine's Dark Matter? Learning with Missing Data in Medical Practices",
+    "authors": [
+      "N Suzen",
+      "EM Mirkes",
+      "D Roland"
+    ],
+    "year": null,
+    "venue": "… Conference on Big …",
+    "citations": 3,
+    "url": "https://ieeexplore.ieee.org/abstract/document/10386194/",
+    "source": "ASTA",
+    "input_title": "What is Hiding in Medicine's Dark Matter? Learning with Missing Data in Medical Practices",
+    "cache_key": "what is hiding in medicine s dark matter learning with missing data in medical practices"
+  },
+  {
+    "title": "The assessment of big data adoption readiness with a technology–organization–environment framework: a perspective towards healthcare employees",
+    "authors": [
+      "EAA Ghaleb",
+      "PDD Dominic",
+      "SM Fati",
+      "A Muneer",
+      "RF Ali"
+    ],
+    "year": null,
+    "venue": "Sustainability",
+    "citations": 183,
+    "url": "https://www.mdpi.com/2071-1050/13/15/8379",
+    "source": "ASTA",
+    "input_title": "The assessment of big data adoption readiness with a technology–organization–environment framework: a perspective towards healthcare employees",
+    "cache_key": "the assessment of big data adoption readiness with a technology organization environment framework a perspective towards healthcare employees"
+  },
+  {
+    "title": "Likelihood-ratio-based confidence intervals for neural networks",
+    "authors": [
+      "L Sluijterman",
+      "E Cator",
+      "T Heskes"
+    ],
+    "year": null,
+    "venue": "Machine Learning",
+    "citations": 2,
+    "url": "https://link.springer.com/article/10.1007/s10994-024-06639-3",
+    "source": "ASTA",
+    "input_title": "Likelihood-ratio-based confidence intervals for neural networks",
+    "cache_key": "likelihood ratio based confidence intervals for neural networks"
+  },
+  {
+    "title": "Changing health behaviors using financial incentives: a review from behavioral economics",
+    "authors": [
+      "I Vlaev",
+      "D King",
+      "A Darzi",
+      "P Dolan"
+    ],
+    "year": null,
+    "venue": "BMC public health",
+    "citations": 350,
+    "url": "https://link.springer.com/article/10.1186/s12889-019-7407-8",
+    "source": "ASTA",
+    "input_title": "Changing health behaviors using financial incentives: a review from behavioral economics",
+    "cache_key": "changing health behaviors using financial incentives a review from behavioral economics"
+  },
+  {
+    "title": "Soft economic incentives and soft behavioral interventions on the public's green purchasing behaviour-the evidence from China",
+    "authors": [
+      "JM Wang",
+      "YQ Li"
+    ],
+    "year": null,
+    "venue": "Psychology Research and Behavior …",
+    "citations": 17,
+    "url": "https://www.tandfonline.com/doi/abs/10.2147/PRBM.S373123",
+    "source": "ASTA",
+    "input_title": "Soft economic incentives and soft behavioral interventions on the public's green purchasing behaviour-the evidence from China",
+    "cache_key": "soft economic incentives and soft behavioral interventions on the public s green purchasing behaviour the evidence from china"
+  },
+  {
+    "title": "A comprehensive study on factors influencing online impulse buying behavior: Evidence from Shopee video platform",
+    "authors": [
+      "TTA Ngo",
+      "HLT Nguyen",
+      "HP Nguyen",
+      "HTA Mai",
+      "THT Mai"
+    ],
+    "year": null,
+    "venue": "Heliyon",
+    "citations": 60,
+    "url": "https://www.cell.com/heliyon/fulltext/S2405-8440(24)11774-4?uuid=uuid%3A464ceb19-a180-458c-b923-088567f09493",
+    "source": "ASTA",
+    "input_title": "A comprehensive study on factors influencing online impulse buying behavior: Evidence from Shopee video platform",
+    "cache_key": "a comprehensive study on factors influencing online impulse buying behavior evidence from shopee video platform"
+  },
+  {
+    "title": "Why consumers are not sovereign: the socio-economic causes of market failure",
+    "authors": [
+      "JF Tomer"
+    ],
+    "year": null,
+    "venue": "real-world economics review",
+    "citations": 5,
+    "url": "https://www.paecon.net/PAEReview/issue81/whole81.pdf#page=76",
+    "source": "ASTA",
+    "input_title": "Why consumers are not sovereign: the socio-economic causes of market failure",
+    "cache_key": "why consumers are not sovereign the socio economic causes of market failure"
+  },
+  {
+    "title": "Tax planning on new tobacco risk-reduced products in Europe: assessment and implications for public policies",
+    "authors": [
+      "F Pinto Hernández",
+      "MJ Delgado Rodríguez"
+    ],
+    "year": null,
+    "venue": "Land",
+    "citations": 1,
+    "url": "https://www.mdpi.com/2073-445X/12/10/1827",
+    "source": "ASTA",
+    "input_title": "Tax planning on new tobacco risk-reduced products in Europe: assessment and implications for public policies",
+    "cache_key": "tax planning on new tobacco risk reduced products in europe assessment and implications for public policies"
+  },
+  {
+    "title": "The role of macroeconomic factors in growth",
+    "authors": [
+      "S Fischer"
+    ],
+    "year": null,
+    "venue": "Journal of monetary economics",
+    "citations": 5160,
+    "url": "https://www.sciencedirect.com/science/article/pii/030439329390027D",
+    "source": "ASTA",
+    "input_title": "The role of macroeconomic factors in growth",
+    "cache_key": "the role of macroeconomic factors in growth"
+  },
+  {
+    "title": "Smooth transition regression model relating inflation to economic growth in Tunisia",
+    "authors": [
+      "H Becha",
+      "M Kalai",
+      "K Helali"
+    ],
+    "year": null,
+    "venue": "Journal of Economic Structures",
+    "citations": 17,
+    "url": "https://link.springer.com/article/10.1186/s40008-023-00308-9",
+    "source": "ASTA",
+    "input_title": "Smooth transition regression model relating inflation to economic growth in Tunisia",
+    "cache_key": "smooth transition regression model relating inflation to economic growth in tunisia"
+  },
+  {
+    "title": "The effects of inflation on economic growth: Lessons from Latin America",
+    "authors": [
+      "J De Gregorio"
+    ],
+    "year": null,
+    "venue": "European Economic Review",
+    "citations": 400,
+    "url": "https://ideas.repec.org/a/eee/eecrev/v36y1992i2-3p417-425.html",
+    "source": "ASTA",
+    "input_title": "The effects of inflation on economic growth: Lessons from Latin America",
+    "cache_key": "the effects of inflation on economic growth lessons from latin america"
+  },
+  {
+    "title": "Trends in income inequality and its impact on economic growth",
+    "authors": [
+      "F Cingano"
+    ],
+    "year": null,
+    "venue": "NA",
+    "citations": 1959,
+    "url": "https://www.oecd-ilibrary.org/trends-in-income-inequality-and-its-impact-on-economic-growth_5jxrjncwxv6j.pdf",
+    "source": "ASTA",
+    "input_title": "Trends in income inequality and its impact on economic growth",
+    "cache_key": "trends in income inequality and its impact on economic growth"
+  },
+  {
+    "title": "The relationship between income inequality and economic growth: are transmission channels effective?",
+    "authors": [
+      "SG Topuz"
+    ],
+    "year": null,
+    "venue": "Social Indicators Research",
+    "citations": 126,
+    "url": "https://link.springer.com/article/10.1007/s11205-022-02882-0",
+    "source": "ASTA",
+    "input_title": "The relationship between income inequality and economic growth: are transmission channels effective?",
+    "cache_key": "the relationship between income inequality and economic growth are transmission channels effective"
+  },
+  {
+    "title": "What factors affect income inequality and economic growth in middle-income countries?",
+    "authors": [
+      "DH Vo",
+      "TC Nguyen",
+      "NP Tran",
+      "AT Vo"
+    ],
+    "year": null,
+    "venue": "Journal of Risk and Financial …",
+    "citations": 132,
+    "url": "https://www.mdpi.com/1911-8074/12/1/40",
+    "source": "ASTA",
+    "input_title": "What factors affect income inequality and economic growth in middle-income countries?",
+    "cache_key": "what factors affect income inequality and economic growth in middle income countries"
+  },
+  {
+    "title": "Game-theoretic frameworks for epidemic spreading and human decision-making: A review",
+    "authors": [
+      "Y Huang",
+      "Q Zhu"
+    ],
+    "year": null,
+    "venue": "Dynamic Games and Applications",
+    "citations": 87,
+    "url": "https://link.springer.com/article/10.1007/s13235-022-00428-0",
+    "source": "ASTA",
+    "input_title": "Game-theoretic frameworks for epidemic spreading and human decision-making: A review",
+    "cache_key": "game theoretic frameworks for epidemic spreading and human decision making a review"
+  },
+  {
+    "title": "Levels of explainable artificial intelligence for human-aligned conversational explanations",
+    "authors": [
+      "R Dazeley",
+      "P Vamplew",
+      "C Foale",
+      "C Young",
+      "S Aryal"
+    ],
+    "year": null,
+    "venue": "Artificial Intelligence",
+    "citations": 168,
+    "url": "https://www.sciencedirect.com/science/article/pii/S000437022100076X",
+    "source": "ASTA",
+    "input_title": "Levels of explainable artificial intelligence for human-aligned conversational explanations",
+    "cache_key": "levels of explainable artificial intelligence for human aligned conversational explanations"
+  },
+  {
+    "title": "Capturing the complexity of human strategic decision-making with machine learning",
+    "authors": [
+      "JQ Zhu",
+      "JC Peterson",
+      "B Enke",
+      "TL Griffiths"
+    ],
+    "year": null,
+    "venue": "Nature Human Behaviour",
+    "citations": 17,
+    "url": "https://www.nature.com/articles/s41562-025-02230-5",
+    "source": "ASTA",
+    "input_title": "Capturing the complexity of human strategic decision-making with machine learning",
+    "cache_key": "capturing the complexity of human strategic decision making with machine learning"
+  },
+  {
+    "title": "Using conditional extreme value theory to estimate value-at-risk for daily currency exchange rates",
+    "authors": [
+      "P Mwita"
+    ],
+    "year": null,
+    "venue": "Journal of Mathematical Finance",
+    "citations": 26,
+    "url": "https://www.academia.edu/download/110411244/7050278b203410f02517f46f9d17b45d216f.pdf",
+    "source": "ASTA",
+    "input_title": "Using conditional extreme value theory to estimate value-at-risk for daily currency exchange rates",
+    "cache_key": "using conditional extreme value theory to estimate value at risk for daily currency exchange rates"
+  },
+  {
+    "title": "Predicting conditional autoregressive value-at-risk for stock markets during tranquil and turbulent periods",
+    "authors": [
+      "AA Drakos",
+      "GP Kouretas"
+    ],
+    "year": null,
+    "venue": "… of Financial Risk …",
+    "citations": 10,
+    "url": null,
+    "source": "ASTA",
+    "input_title": "Predicting conditional autoregressive value-at-risk for stock markets during tranquil and turbulent periods",
+    "cache_key": "predicting conditional autoregressive value at risk for stock markets during tranquil and turbulent periods"
+  },
+  {
+    "title": "Research on the factors affecting stock price volatility",
+    "authors": [
+      "S Li",
+      "Y Wang",
+      "Z Zhang",
+      "Y Zhu"
+    ],
+    "year": null,
+    "venue": "2022 7th International …",
+    "citations": 18,
+    "url": "https://www.atlantis-press.com/proceedings/icfied-22/125972019",
+    "source": "ASTA",
+    "input_title": "Research on the factors affecting stock price volatility",
+    "cache_key": "research on the factors affecting stock price volatility"
+  },
+  {
+    "title": "A hybrid econometrics and machine learning based modeling of realized volatility of natural gas",
+    "authors": [
+      "W Kristjanpoller"
+    ],
+    "year": null,
+    "venue": "Financial Innovation",
+    "citations": 15,
+    "url": "https://link.springer.com/article/10.1186/s40854-023-00577-0",
+    "source": "ASTA",
+    "input_title": "A hybrid econometrics and machine learning based modeling of realized volatility of natural gas",
+    "cache_key": "a hybrid econometrics and machine learning based modeling of realized volatility of natural gas"
+  },
+  {
+    "title": "THE INFLUENCE OF INTEREST RATES AND INFLATION ON ASSET ALLOCATION STRATEGIES IN INVESTMENT PORTFOLIOS IN INDONESIA",
+    "authors": [
+      "NA CAILAH",
+      "IA DIAH",
+      "YRP MARIA"
+    ],
+    "year": null,
+    "venue": "… : INTERNATIONAL JOURNAL OF …",
+    "citations": 0,
+    "url": "https://elibrary.ru/item.asp?id=79237285",
+    "source": "ASTA",
+    "input_title": "THE INFLUENCE OF INTEREST RATES AND INFLATION ON ASSET ALLOCATION STRATEGIES IN INVESTMENT PORTFOLIOS IN INDONESIA",
+    "cache_key": "the influence of interest rates and inflation on asset allocation strategies in investment portfolios in indonesia"
+  },
+  {
+    "input_title": "The Power of Generative AI: A Review of Requirements",
+    "title": "The power of generative ai: A review of requirements, models, input–output formats, evaluation metrics, and challenges",
+    "authors": [
+      "A Bandi",
+      "PVSR Adapa",
+      "YEVPK Kuchi"
+    ],
+    "year": null,
+    "venue": "Future Internet",
+    "citations": 760,
+    "url": "https://www.mdpi.com/1999-5903/15/8/260",
+    "source": "ASTA",
+    "cache_key": "the power of generative ai a review of requirements"
+  },
+  {
+    "input_title": "ResilientDB",
+    "title": "Resilientdb: Global scale resilient blockchain fabric",
+    "authors": [
+      "S Gupta",
+      "S Rahnama",
+      "J Hellings",
+      "M Sadoghi"
+    ],
+    "year": null,
+    "venue": "arXiv preprint arXiv …",
+    "citations": 194,
+    "url": "https://arxiv.org/abs/2002.00160",
+    "source": "ASTA",
+    "cache_key": "resilientdb"
+  },
+  {
+    "input_title": "Practical Aspects of Declarative Languages: 23rd International Symposium",
+    "cache_key": "practical aspects of declarative languages 23rd international symposium",
+    "title": "Practical Aspects of Declarative Languages: 23rd International Symposium, PADL 2021, Copenhagen, Denmark, January 18-19, 2021, Proceedings",
+    "authors": [
+      "Morales, Jos{\\'e} F",
+      "Orchard, Dominic"
+    ],
+    "year": "2021",
+    "venue": "NA",
+    "citations": 0,
+    "url": "https://books.google.com/books?hl=en&lr=&id=VeIUEAAAQBAJ&oi=fnd&pg=PR5&dq=%22Practical+Aspects+of+Declarative+Languages:+23rd+International+Symposium%22&ots=hHDZf-4dkS&sig=Fbad_O3oLF8z1RwZJABn4iRn4k4",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "BurTorch: Revisiting Training from First Principles by Coupling Autodiff",
+    "cache_key": "burtorch revisiting training from first principles by coupling autodiff",
+    "title": "BurTorch: Revisiting Training from First Principles by Coupling Autodiff, Math Optimization, and Systems",
+    "authors": [
+      "Burlachenko, Konstantin",
+      "Richt{\\'a}rik, Peter"
+    ],
+    "year": "2025",
+    "venue": "arXiv preprint arXiv:2503.13795",
+    "citations": 1,
+    "url": "https://arxiv.org/abs/2503.13795",
+    "source": "ASTA"
+  }
+]

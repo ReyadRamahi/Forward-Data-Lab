@@ -9,13 +9,13 @@ from tqdm import tqdm
 
 # -------- CONFIG --------
 INPUT_FILES = {
-    "asta": "asta_enriched.json",
-    "scholar": "scholar_cache.json"
+    "asta": "data/processed/asta_enriched.json",
+    "scholar": "data/processed/scholar_cache.json"
 }
 
 OUTPUT_FILES = {
-    "asta": "asta_enriched_with_years.json",
-    "scholar": "scholar_cache_with_years.json"
+    "asta": "data/processed/asta_enriched_with_years.json",
+    "scholar": "data/processed/scholar_cache_with_years.json"
 }
 # ------------------------
 

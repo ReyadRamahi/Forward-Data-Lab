@@ -2,8 +2,8 @@ import csv, json, os, time, re, tempfile, random
 from tqdm import tqdm
 from scholarly import scholarly
 
-INPUT_CSV = "asta_sources_unique.csv"
-CACHE_JSON = "asta_enriched.json"
+INPUT_CSV = "data/raw/asta_sources_unique.csv"
+CACHE_JSON = "data/raw/asta_titles.csv"
 MIN_SLEEP = 5
 MAX_SLEEP = 10
 

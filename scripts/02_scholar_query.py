@@ -6,13 +6,13 @@ import os
 
 questions = []
 
-with open("questions.csv", newline="", encoding="utf-8") as f:
+with open("data/raw/questions.csv", newline="", encoding="utf-8") as f:
     reader = csv.reader(f)
     for row in reader:
         questions.append(row[0])
 
-if os.path.exists("scholar_cache.json"):
-    with open("scholar_cache.json", "r", encoding="utf-8") as f:
+if os.path.exists("data/processed/scholar_cache.json"):
+    with open("data/processed/scholar_cache.json", "r", encoding="utf-8") as f:
         data = json.load(f)
 else:
     data = {}
@@ -45,7 +45,7 @@ for question in questions:
 
         data[question] = results
 
-        with open("scholar_cache.json", "w", encoding="utf-8") as f:
+        with open("data/processed/scholar_cache.json", "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
 
         time.sleep(30)

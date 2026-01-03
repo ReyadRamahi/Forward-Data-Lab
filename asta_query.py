@@ -1,10 +1,11 @@
-import csv, json, os, time, re, tempfile
+import csv, json, os, time, re, tempfile, random
 from tqdm import tqdm
 from scholarly import scholarly
 
 INPUT_CSV = "asta_sources_unique.csv"
 CACHE_JSON = "asta_enriched.json"
-SLEEP_SEC = 20
+MIN_SLEEP = 5
+MAX_SLEEP = 10
 
 def norm(s: str) -> str:
     if not s:
@@ -146,7 +147,9 @@ def main():
 
             cache[key] = record
             atomic_write_json(CACHE_JSON, list(cache.values()))
-            time.sleep(SLEEP_SEC)
+            
+            # Random sleep after success
+            time.sleep(random.uniform(MIN_SLEEP, MAX_SLEEP))
 
         except StopIteration:
             cache[key] = {
@@ -162,7 +165,9 @@ def main():
                 "error": "no_result",
             }
             atomic_write_json(CACHE_JSON, list(cache.values()))
-            time.sleep(SLEEP_SEC)
+            
+            # Random sleep after no result found
+            time.sleep(random.uniform(MIN_SLEEP, MAX_SLEEP))
 
         except Exception as e:
             print(f"Error enriching: {title}")

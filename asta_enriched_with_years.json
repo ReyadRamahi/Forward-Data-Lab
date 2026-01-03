@@ -11,7 +11,7 @@
       "XL Li",
       "L Jiang"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "Advances in …",
     "citations": 617,
     "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/deb3c28192f979302c157cb653c15e90-Abstract-Conference.html"
@@ -25,7 +25,7 @@
       "J Huang",
       "KCC Chang"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "Findings of the association for …",
     "citations": 1227,
     "url": "https://aclanthology.org/2023.findings-acl.67/"
@@ -39,7 +39,7 @@
       "P Mondorf",
       "B Plank"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "arXiv preprint arXiv:2404.01869",
     "citations": 101,
     "url": "https://arxiv.org/abs/2404.01869"
@@ -55,7 +55,7 @@
       "Y Wu",
       "E Dyer"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "Advances in neural …",
     "citations": 176,
     "url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/d6e0bbb9fc3f4c10950052ec2359355c-Abstract-Conference.html"
@@ -71,7 +71,7 @@
       "T Hayashi",
       "T Hori"
     ],
-    "year": null,
+    "year": 2019,
     "venue": "2019 IEEE automatic …",
     "citations": 1019,
     "url": "https://ieeexplore.ieee.org/abstract/document/9003750/"
@@ -85,7 +85,7 @@
       "D Merkx",
       "SL Frank"
     ],
-    "year": null,
+    "year": 2021,
     "venue": "Proceedings of the workshop on cognitive …",
     "citations": 141,
     "url": "https://aclanthology.org/2021.cmcl-1.2/"
@@ -101,7 +101,7 @@
       "P Deepak",
       "VL Lajish"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "Responsible Data Science …",
     "citations": 23,
     "url": "https://link.springer.com/chapter/10.1007/978-981-19-4453-6_2"
@@ -115,7 +115,7 @@
       "A Wang",
       "O Russakovsky"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "Proceedings of the IEEE/CVF …",
     "citations": 52,
     "url": "http://openaccess.thecvf.com/content/ICCV2023/html/Wang_Overwriting_Pretrained_Bias_with_Finetuning_Data_ICCV_2023_paper.html"
@@ -132,7 +132,7 @@
       "Q Xu",
       "C Zhang"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "arXiv preprint arXiv …",
     "citations": 17,
     "url": "https://arxiv.org/abs/2402.01345"
@@ -147,7 +147,7 @@
       "B Mann",
       "N Ryder"
     ],
-    "year": null,
+    "year": 2020,
     "venue": "Advances in neural …",
     "citations": 61542,
     "url": "https://proceedings.neurips.cc/paper_files/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html?utm_source=transaction&utm_medium=email&utm_campaign=linkedin_newsletter"
@@ -163,7 +163,7 @@
       "Y Bansal",
       "T Yang"
     ],
-    "year": null,
+    "year": 2021,
     "venue": "Journal of Statistical …",
     "citations": 1399,
     "url": "https://iopscience.iop.org/article/10.1088/1742-5468/ac3a74/meta"
@@ -179,7 +179,7 @@
       "P Alipoormolabashi",
       "Y Kordi"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "arXiv preprint arXiv …",
     "citations": 808,
     "url": "https://arxiv.org/abs/2204.07705"
@@ -195,7 +195,7 @@
       "W Agnew",
       "L Ahmad"
     ],
-    "year": null,
+    "year": 2025,
     "venue": "arXiv preprint arXiv …",
     "citations": 191,
     "url": "https://arxiv.org/abs/2306.05949"
@@ -208,7 +208,7 @@
     "authors": [
       "A Borji"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "Computer Vision and Image Understanding",
     "citations": 470,
     "url": "https://www.sciencedirect.com/science/article/pii/S1077314221001685"
@@ -223,7 +223,7 @@
       "S Karthik",
       "SS Kamath"
     ],
-    "year": null,
+    "year": 2017,
     "venue": "2017 Conference on …",
     "citations": 2,
     "url": "https://ieeexplore.ieee.org/abstract/document/8340633/"
@@ -238,7 +238,7 @@
       "S Khusro",
       "I Ullah"
     ],
-    "year": null,
+    "year": 2019,
     "venue": "… , technology & applied …",
     "citations": 16,
     "url": "https://mail.etasr.com/index.php/ETASR/article/view/2448"
@@ -253,7 +253,7 @@
       "L Codina",
       "C Lopezosa"
     ],
-    "year": null,
+    "year": 1999,
     "venue": "Future internet",
     "citations": 72,
     "url": "https://www.mdpi.com/1999-5903/13/2/31"
@@ -266,7 +266,7 @@
     "authors": [
       "S Pohl"
     ],
-    "year": null,
+    "year": 2007,
     "venue": "arXiv preprint arXiv:0704.2963",
     "citations": 10,
     "url": "https://arxiv.org/abs/0704.2963"
@@ -280,7 +280,7 @@
       "M Doslu",
       "HO Bingol"
     ],
-    "year": null,
+    "year": 1982,
     "venue": "Scientometrics",
     "citations": 31,
     "url": "https://link.springer.com/article/10.1007/s11192-016-1982-6"
@@ -297,7 +297,7 @@
       "PSH Lewis",
       "L Wu"
     ],
-    "year": null,
+    "year": 2004,
     "venue": "EMNLP (1)",
     "citations": 5352,
     "url": "https://arxiv.org/pdf/2004.04906v2/1000"
@@ -312,7 +312,7 @@
       "S Gai",
       "A Ingber"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "ACM Transactions on Information Systems",
     "citations": 75,
     "url": "https://dl.acm.org/doi/abs/10.1145/3596512"
@@ -328,7 +328,7 @@
       "S Yang",
       "D Zhao"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "arXiv preprint arXiv:2409.17383",
     "citations": 17,
     "url": "https://arxiv.org/abs/2409.17383"
@@ -345,7 +345,7 @@
       "D Ma",
       "S Cheng"
     ],
-    "year": null,
+    "year": 2021,
     "venue": "Proceedings of the 27th …",
     "citations": 87,
     "url": "https://dl.acm.org/doi/abs/10.1145/3447548.3467147"
@@ -360,7 +360,7 @@
       "D Metlzer",
       "Y Zhang"
     ],
-    "year": null,
+    "year": 2009,
     "venue": "Proceedings of the 18th …",
     "citations": 1075,
     "url": "https://dl.acm.org/doi/abs/10.1145/1645953.1646033"
@@ -374,7 +374,7 @@
       "K Järvelin",
       "J Kekäläinen"
     ],
-    "year": null,
+    "year": 2002,
     "venue": "ACM Transactions on Information Systems …",
     "citations": 6511,
     "url": "https://dl.acm.org/doi/abs/10.1145/582415.582418"
@@ -391,7 +391,7 @@
       "A Alam",
       "I Ullah"
     ],
-    "year": null,
+    "year": 2021,
     "venue": "Ieee Access",
     "citations": 26,
     "url": "https://ieeexplore.ieee.org/abstract/document/9522111/"
@@ -407,7 +407,7 @@
       "S Maslov",
       "S Redner"
     ],
-    "year": null,
+    "year": 2007,
     "venue": "Journal of informetrics",
     "citations": 649,
     "url": "https://www.sciencedirect.com/science/article/pii/S1751157706000034"
@@ -423,7 +423,7 @@
       "R Motwani",
       "T Winograd"
     ],
-    "year": null,
+    "year": 2008,
     "venue": "NA",
     "citations": 19846,
     "url": "http://ilpubs.stanford.edu:8090/422/?utm_campaign=Technical%20SEO%20Weekly&utm_medium=ema"
@@ -439,7 +439,7 @@
       "W Lou",
       "YT Hou"
     ],
-    "year": null,
+    "year": 2020,
     "venue": "… communications surveys & …",
     "citations": 1256,
     "url": "https://ieeexplore.ieee.org/abstract/document/8972381/"
@@ -452,7 +452,7 @@
     "authors": [
       "H Moniz"
     ],
-    "year": null,
+    "year": 2002,
     "venue": "arXiv preprint arXiv:2002.03613",
     "citations": 130,
     "url": "https://arxiv.org/abs/2002.03613"
@@ -465,7 +465,7 @@
     "authors": [
       "S Solat"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "arXiv preprint arXiv:2404.04384",
     "citations": 10,
     "url": "https://arxiv.org/abs/2404.04384"
@@ -480,7 +480,7 @@
       "C Curino",
       "EPC Jones"
     ],
-    "year": null,
+    "year": 2012,
     "venue": "2012 IEEE 28th …",
     "citations": 68,
     "url": "https://ieeexplore.ieee.org/abstract/document/6228076/"
@@ -493,7 +493,7 @@
     "authors": [
       "A Vaniachine"
     ],
-    "year": null,
+    "year": 2009,
     "venue": "arXiv preprint arXiv:0910.0097",
     "citations": 3,
     "url": "https://arxiv.org/abs/0910.0097"
@@ -508,7 +508,7 @@
       "B Wang",
       "P Shenoy"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "… of the International Conference for High …",
     "citations": 65,
     "url": "https://dl.acm.org/doi/abs/10.1145/3458817.3476142"
@@ -524,7 +524,7 @@
       "D Duplyakin",
       "I Jimenez"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "… USENIX symposium on …",
     "citations": 96,
     "url": "https://www.usenix.org/conference/nsdi20/presentation/uta"
@@ -539,7 +539,7 @@
       "F Carpio",
       "A Jukan"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "arXiv preprint arXiv:2310.09137",
     "citations": 1,
     "url": "https://arxiv.org/abs/2310.09137"
@@ -553,7 +553,7 @@
       "MAH Sworna Akter",
       "MMRR Akanda"
     ],
-    "year": null,
+    "year": 2021,
     "venue": "NA",
     "citations": 0,
     "url": "https://www.academia.edu/download/76004512/75.pdf"
@@ -566,7 +566,7 @@
     "authors": [
       "MA Ehsan"
     ],
-    "year": null,
+    "year": 2021,
     "venue": "arXiv preprint arXiv:2106.13712",
     "citations": 0,
     "url": "https://arxiv.org/abs/2106.13712"
@@ -580,7 +580,7 @@
       "D Harinath",
       "P Satyanarayana"
     ],
-    "year": null,
+    "year": 2017,
     "venue": "Journal of Advances in …",
     "citations": 25,
     "url": "https://www.academia.edu/download/99392428/20170316101644848.pdf"
@@ -594,7 +594,7 @@
       "V Mohammadian",
       "NJ Navimipour"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "IEEE …",
     "citations": 41,
     "url": "https://ieeexplore.ieee.org/abstract/document/9666877/"
@@ -608,7 +608,7 @@
       "F Ebadifard",
       "SM Babamir"
     ],
-    "year": null,
+    "year": 2020,
     "venue": "2020 6th International …",
     "citations": 66,
     "url": "https://ieeexplore.ieee.org/abstract/document/9122287/"
@@ -623,7 +623,7 @@
       "H Khazaei",
       "M Litoiu"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "2024 IEEE International …",
     "citations": 0,
     "url": "https://ieeexplore.ieee.org/abstract/document/10771407/"
@@ -637,7 +637,7 @@
       "P Koopman",
       "M Lubbers"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "… of the 25th International Symposium on …",
     "citations": 2,
     "url": "https://dl.acm.org/doi/abs/10.1145/3610612.3610623"
@@ -653,7 +653,7 @@
       "I Golovanov",
       "H Hüttel"
     ],
-    "year": null,
+    "year": 2020,
     "venue": "Asian Symposium on …",
     "citations": 13,
     "url": "https://link.springer.com/chapter/10.1007/978-3-030-64437-6_6"
@@ -696,7 +696,7 @@
       "V Filkov",
       "P Devanbu"
     ],
-    "year": null,
+    "year": 2014,
     "venue": "Proceedings of the 22nd ACM …",
     "citations": 674,
     "url": "https://dl.acm.org/doi/abs/10.1145/2635868.2635922"
@@ -712,7 +712,7 @@
       "T Koehler",
       "X Qin"
     ],
-    "year": null,
+    "year": 2020,
     "venue": "Proceedings of the …",
     "citations": 79,
     "url": "https://dl.acm.org/doi/abs/10.1145/3408974"
@@ -727,7 +727,7 @@
       "JS Foster",
       "P Zucker"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "… on New Ideas, New Paradigms, and …",
     "citations": 0,
     "url": "https://dl.acm.org/doi/abs/10.1145/3689492.3690051"
@@ -741,7 +741,7 @@
       "S Bhat",
       "T Grosser"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "… on Code Generation and Optimization (CGO …",
     "citations": 4,
     "url": "https://ieeexplore.ieee.org/abstract/document/9741279/"
@@ -756,7 +756,7 @@
       "D Hao",
       "J Chen"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "ACM Transactions on Software Engineering and …",
     "citations": 22,
     "url": "https://dl.acm.org/doi/abs/10.1145/3640330"
@@ -772,7 +772,7 @@
       "J Cavazos",
       "G Palermo"
     ],
-    "year": null,
+    "year": 1979,
     "venue": "ACM Computing …",
     "citations": 345,
     "url": "https://dl.acm.org/doi/abs/10.1145/3197978"
@@ -787,7 +787,7 @@
       "P Cheng",
       "KS McKinley"
     ],
-    "year": null,
+    "year": 2003,
     "venue": "ACM SIGMETRICS Performance …",
     "citations": 340,
     "url": "https://dl.acm.org/doi/abs/10.1145/1012888.1005693"
@@ -803,7 +803,7 @@
       "MA Bockol",
       "TM Drucker"
     ],
-    "year": null,
+    "year": 2019,
     "venue": "BMC …",
     "citations": 60,
     "url": "https://link.springer.com/article/10.1186/s12859-019-3169-7"
@@ -817,7 +817,7 @@
       "B Haraldsson",
       "M Staron"
     ],
-    "year": null,
+    "year": 2025,
     "venue": "arXiv preprint arXiv:2505.13135",
     "citations": 1,
     "url": "https://arxiv.org/abs/2505.13135"
@@ -831,7 +831,7 @@
       "SI Khaleel",
       "GK Al-Khatouni"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "Indonesian Journal of Electrical …",
     "citations": 6,
     "url": "https://www.academia.edu/download/105543909/31045_65425_1_PB.pdf"
@@ -845,7 +845,7 @@
       "T Heričko",
       "B Šumak"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "Applied Sciences",
     "citations": 24,
     "url": "https://www.mdpi.com/2076-3417/13/5/2972"
@@ -859,7 +859,7 @@
       "D Badampudi",
       "M Unterkalmsteiner"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "ACM Transactions on …",
     "citations": 58,
     "url": "https://dl.acm.org/doi/abs/10.1145/3585004"
@@ -877,7 +877,7 @@
       "T Luo",
       "Z Hua"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "Proceedings of the 30th …",
     "citations": 84,
     "url": "https://dl.acm.org/doi/abs/10.1145/3540250.3549099"
@@ -894,7 +894,7 @@
       "DG Han",
       "J He"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "2023 IEEE/ACM 31st …",
     "citations": 35,
     "url": "https://ieeexplore.ieee.org/abstract/document/10174115/"
@@ -909,7 +909,7 @@
       "C Treude",
       "U Kulesza"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "NA",
     "citations": 5,
     "url": "https://ink.library.smu.edu.sg/sis_research/8808/"
@@ -924,7 +924,7 @@
       "MT Valente",
       "R Terra"
     ],
-    "year": null,
+    "year": 2016,
     "venue": "arXiv preprint arXiv:1604.01450",
     "citations": 70,
     "url": "https://arxiv.org/abs/1604.01450"
@@ -940,7 +940,7 @@
       "M Ko",
       "AJ Ko"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "2023 IEEE/ACM 45th …",
     "citations": 21,
     "url": "https://ieeexplore.ieee.org/abstract/document/10172559/"
@@ -954,7 +954,7 @@
       "D Ghimire",
       "S Charters"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "Software",
     "citations": 48,
     "url": "https://www.mdpi.com/2674-113X/1/3/12"
@@ -969,7 +969,7 @@
       "K Budzynska",
       "J Chadam"
     ],
-    "year": null,
+    "year": 1936,
     "venue": "Plos one",
     "citations": 21,
     "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281936"
@@ -984,7 +984,7 @@
       "VJ Mabin",
       "O Zwikael"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "Production Planning & Control",
     "citations": 35,
     "url": "https://www.tandfonline.com/doi/abs/10.1080/09537287.2024.2349231"
@@ -999,7 +999,7 @@
       "LC Briand",
       "WL Melo"
     ],
-    "year": null,
+    "year": 1996,
     "venue": "IEEE Transactions on software …",
     "citations": 2686,
     "url": "https://ieeexplore.ieee.org/abstract/document/544352/"
@@ -1013,7 +1013,7 @@
       "TGS Filó",
       "MAS Bigonha"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "Journal of the Brazilian …",
     "citations": 5,
     "url": "https://journals-sol.sbc.org.br/index.php/jbcs/article/view/3373"
@@ -1028,7 +1028,7 @@
       "P Knapik",
       "M Cohrs"
     ],
-    "year": null,
+    "year": 2020,
     "venue": "Journal of software …",
     "citations": 26,
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2296"
@@ -1044,7 +1044,7 @@
       "S Kurita",
       "A Sannai"
     ],
-    "year": null,
+    "year": 1992,
     "venue": "arXiv preprint arXiv:2506.19923",
     "citations": 11,
     "url": "https://arxiv.org/abs/2506.19923"
@@ -1058,7 +1058,7 @@
       "K Yang",
       "J Deng"
     ],
-    "year": null,
+    "year": 2020,
     "venue": "International Conference on Machine …",
     "citations": 218,
     "url": "http://proceedings.mlr.press/v97/yang19a.html"
@@ -1071,7 +1071,7 @@
     "authors": [
       "M Kunik"
     ],
-    "year": null,
+    "year": 2008,
     "venue": "arXiv preprint arXiv:2008.07385",
     "citations": 1,
     "url": "https://arxiv.org/abs/2008.07385"
@@ -1085,7 +1085,7 @@
       "A Majeed",
       "I Rauf"
     ],
-    "year": null,
+    "year": 2020,
     "venue": "Inventions",
     "citations": 211,
     "url": "https://www.mdpi.com/2411-5134/5/1/10"
@@ -1098,7 +1098,7 @@
     "authors": [
       "R Nimavat"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "arXiv preprint arXiv:2308.15473",
     "citations": 0,
     "url": "https://arxiv.org/abs/2308.15473"
@@ -1114,7 +1114,7 @@
       "F Zargari",
       "YR Li"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "IEEE Access",
     "citations": 42,
     "url": "https://ieeexplore.ieee.org/abstract/document/10368010/"
@@ -1130,7 +1130,7 @@
       "J Naughton",
       "JM Patel"
     ],
-    "year": null,
+    "year": 2016,
     "venue": "arXiv preprint arXiv:1612.07448",
     "citations": 117,
     "url": "https://arxiv.org/abs/1612.07448"
@@ -1145,7 +1145,7 @@
       "A Talwalkar",
       "V Smith"
     ],
-    "year": null,
+    "year": 2013,
     "venue": "2013 IEEE 13th …",
     "citations": 251,
     "url": "https://ieeexplore.ieee.org/abstract/document/6729619/"
@@ -1158,7 +1158,7 @@
     "authors": [
       "S Selvarajan"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "Artificial Intelligence Review",
     "citations": 86,
     "url": "https://link.springer.com/article/10.1007/s10462-024-10829-9"
@@ -1175,7 +1175,7 @@
       "M Bajaj",
       "RS Rathore"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "Scientific Reports",
     "citations": 87,
     "url": "https://www.nature.com/articles/s41598-024-58024-8"
@@ -1189,7 +1189,7 @@
       "M Medvidović",
       "JR Moreno"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "The European Physical Journal Plus",
     "citations": 50,
     "url": "https://link.springer.com/article/10.1140/epjp/s13360-024-05311-y"
@@ -1203,7 +1203,7 @@
       "N Karalias",
       "A Loukas"
     ],
-    "year": null,
+    "year": 2020,
     "venue": "Advances in Neural Information …",
     "citations": 190,
     "url": "https://proceedings.neurips.cc/paper/2020/hash/49f85a9ed090b20c8bed85a5923c669f-Abstract.html"
@@ -1217,7 +1217,7 @@
       "C Edmonds",
       "LC Paulson"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "Proceedings of the 13th ACM SIGPLAN …",
     "citations": 7,
     "url": "https://dl.acm.org/doi/abs/10.1145/3636501.3636946"
@@ -1230,7 +1230,7 @@
     "authors": [
       "RG Pinsky"
     ],
-    "year": null,
+    "year": 2021,
     "venue": "arXiv preprint arXiv:2105.13834",
     "citations": 6,
     "url": "https://arxiv.org/abs/2105.13834"
@@ -1245,7 +1245,7 @@
       "G King",
       "G Porro"
     ],
-    "year": null,
+    "year": 2018,
     "venue": "Political Analysis",
     "citations": 162,
     "url": "https://www.cambridge.org/core/journals/political-analysis/article/theory-of-statistical-inference-for-matching-methods-in-causal-research/C047EB2F24096F5127E777BDD242AF46"
@@ -1260,7 +1260,7 @@
       "L Peng",
       "JK Kim"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "Journal of the Royal Statistical Society …",
     "citations": 19,
     "url": "https://academic.oup.com/jrsssb/article-abstract/84/4/1150/7073283"
@@ -1274,7 +1274,7 @@
       "M Kim",
       "KB Hwang"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "PLoS One",
     "citations": 100,
     "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271260"
@@ -1290,7 +1290,7 @@
       "U Keller",
       "A Fischbach"
     ],
-    "year": null,
+    "year": 2019,
     "venue": "… Assessment, Evaluation and …",
     "citations": 52,
     "url": "https://link.springer.com/article/10.1007/s11092-019-09303-w"
@@ -1305,7 +1305,7 @@
       "J Wang",
       "S Ahn"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "Language Testing in Asia",
     "citations": 4,
     "url": "https://link.springer.com/article/10.1186/s40468-024-00301-4"
@@ -1320,7 +1320,7 @@
       "P Khorrami",
       "J Matterer"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "Computer Sciences & …",
     "citations": 1,
     "url": "https://www.mdpi.com/2813-0324/3/1/6"
@@ -1335,7 +1335,7 @@
       "E Price",
       "N Srebro"
     ],
-    "year": null,
+    "year": 2016,
     "venue": "Advances in neural information …",
     "citations": 6646,
     "url": "https://proceedings.neurips.cc/paper/2016/hash/9d2682367c3935defcb1f9e247a97c0d-Abstract.html"
@@ -1351,7 +1351,7 @@
       "D Mpoeleng",
       "T Semong"
     ],
-    "year": null,
+    "year": 2021,
     "venue": "Journal of Big …",
     "citations": 1245,
     "url": "https://link.springer.com/article/10.1186/s40537-021-00516-9"
@@ -1367,7 +1367,7 @@
       "J Wells",
       "S Aryal"
     ],
-    "year": null,
+    "year": 2025,
     "venue": "NA",
     "citations": 3,
     "url": "https://dro.deakin.edu.au/articles/conference_contribution/HI-PMK_A_Data-Dependent_Kernel_for_Incomplete_Heterogeneous_Data_Representation/30651863"
@@ -1382,7 +1382,7 @@
       "EM Mirkes",
       "D Roland"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "… Conference on Big …",
     "citations": 3,
     "url": "https://ieeexplore.ieee.org/abstract/document/10386194/"
@@ -1399,7 +1399,7 @@
       "A Muneer",
       "RF Ali"
     ],
-    "year": null,
+    "year": 2021,
     "venue": "Sustainability",
     "citations": 183,
     "url": "https://www.mdpi.com/2071-1050/13/15/8379"
@@ -1414,7 +1414,7 @@
       "E Cator",
       "T Heskes"
     ],
-    "year": null,
+    "year": 2025,
     "venue": "Machine Learning",
     "citations": 2,
     "url": "https://link.springer.com/article/10.1007/s10994-024-06639-3"
@@ -1430,7 +1430,7 @@
       "A Darzi",
       "P Dolan"
     ],
-    "year": null,
+    "year": 2019,
     "venue": "BMC public health",
     "citations": 350,
     "url": "https://link.springer.com/article/10.1186/s12889-019-7407-8"
@@ -1444,7 +1444,7 @@
       "JM Wang",
       "YQ Li"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "Psychology Research and Behavior …",
     "citations": 17,
     "url": "https://www.tandfonline.com/doi/abs/10.2147/PRBM.S373123"
@@ -1461,7 +1461,7 @@
       "HTA Mai",
       "THT Mai"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "Heliyon",
     "citations": 60,
     "url": "https://www.cell.com/heliyon/fulltext/S2405-8440(24)11774-4?uuid=uuid%3A464ceb19-a180-458c-b923-088567f09493"
@@ -1474,7 +1474,7 @@
     "authors": [
       "JF Tomer"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "real-world economics review",
     "citations": 5,
     "url": "https://www.paecon.net/PAEReview/issue81/whole81.pdf#page=76"
@@ -1488,7 +1488,7 @@
       "F Pinto Hernández",
       "MJ Delgado Rodríguez"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "Land",
     "citations": 1,
     "url": "https://www.mdpi.com/2073-445X/12/10/1827"
@@ -1501,7 +1501,7 @@
     "authors": [
       "S Fischer"
     ],
-    "year": null,
+    "year": 1993,
     "venue": "Journal of monetary economics",
     "citations": 5160,
     "url": "https://www.sciencedirect.com/science/article/pii/030439329390027D"
@@ -1516,7 +1516,7 @@
       "M Kalai",
       "K Helali"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "Journal of Economic Structures",
     "citations": 17,
     "url": "https://link.springer.com/article/10.1186/s40008-023-00308-9"
@@ -1529,7 +1529,7 @@
     "authors": [
       "J De Gregorio"
     ],
-    "year": null,
+    "year": 1992,
     "venue": "European Economic Review",
     "citations": 400,
     "url": "https://ideas.repec.org/a/eee/eecrev/v36y1992i2-3p417-425.html"
@@ -1542,7 +1542,7 @@
     "authors": [
       "F Cingano"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "NA",
     "citations": 1959,
     "url": "https://www.oecd-ilibrary.org/trends-in-income-inequality-and-its-impact-on-economic-growth_5jxrjncwxv6j.pdf"
@@ -1555,7 +1555,7 @@
     "authors": [
       "SG Topuz"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "Social Indicators Research",
     "citations": 126,
     "url": "https://link.springer.com/article/10.1007/s11205-022-02882-0"
@@ -1571,7 +1571,7 @@
       "NP Tran",
       "AT Vo"
     ],
-    "year": null,
+    "year": 1911,
     "venue": "Journal of Risk and Financial …",
     "citations": 132,
     "url": "https://www.mdpi.com/1911-8074/12/1/40"
@@ -1585,7 +1585,7 @@
       "Y Huang",
       "Q Zhu"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "Dynamic Games and Applications",
     "citations": 87,
     "url": "https://link.springer.com/article/10.1007/s13235-022-00428-0"
@@ -1602,7 +1602,7 @@
       "C Young",
       "S Aryal"
     ],
-    "year": null,
+    "year": 2021,
     "venue": "Artificial Intelligence",
     "citations": 168,
     "url": "https://www.sciencedirect.com/science/article/pii/S000437022100076X"
@@ -1618,7 +1618,7 @@
       "B Enke",
       "TL Griffiths"
     ],
-    "year": null,
+    "year": 2025,
     "venue": "Nature Human Behaviour",
     "citations": 17,
     "url": "https://www.nature.com/articles/s41562-025-02230-5"
@@ -1631,7 +1631,7 @@
     "authors": [
       "P Mwita"
     ],
-    "year": null,
+    "year": 2017,
     "venue": "Journal of Mathematical Finance",
     "citations": 26,
     "url": "https://www.academia.edu/download/110411244/7050278b203410f02517f46f9d17b45d216f.pdf"
@@ -1645,7 +1645,7 @@
       "AA Drakos",
       "GP Kouretas"
     ],
-    "year": null,
+    "year": 2015,
     "venue": "… of Financial Risk …",
     "citations": 10,
     "url": null
@@ -1661,7 +1661,7 @@
       "Z Zhang",
       "Y Zhu"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "2022 7th International …",
     "citations": 18,
     "url": "https://www.atlantis-press.com/proceedings/icfied-22/125972019"
@@ -1674,7 +1674,7 @@
     "authors": [
       "W Kristjanpoller"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "Financial Innovation",
     "citations": 15,
     "url": "https://link.springer.com/article/10.1186/s40854-023-00577-0"
@@ -1689,7 +1689,7 @@
       "IA DIAH",
       "YRP MARIA"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "… : INTERNATIONAL JOURNAL OF …",
     "citations": 0,
     "url": "https://elibrary.ru/item.asp?id=79237285"
@@ -1704,7 +1704,7 @@
       "PVSR Adapa",
       "YEVPK Kuchi"
     ],
-    "year": null,
+    "year": 1999,
     "venue": "Future Internet",
     "citations": 760,
     "url": "https://www.mdpi.com/1999-5903/15/8/260"
@@ -1720,7 +1720,7 @@
       "J Hellings",
       "M Sadoghi"
     ],
-    "year": null,
+    "year": 2002,
     "venue": "arXiv preprint arXiv …",
     "citations": 194,
     "url": "https://arxiv.org/abs/2002.00160"
@@ -1772,7 +1772,7 @@
     "authors": [
       "A Moir"
     ],
-    "year": null,
+    "year": 2006,
     "venue": "Journal of applied microbiology",
     "citations": 388,
     "url": "https://academic.oup.com/jambio/article-abstract/101/3/526/6718633",
@@ -1809,7 +1809,7 @@
     "authors": [
       "KA Fisher"
     ],
-    "year": null,
+    "year": 1935,
     "venue": "Nature",
     "citations": 103,
     "url": "https://www.nature.com/articles/136474b0",
@@ -1882,7 +1882,7 @@
     "authors": [
       "NS Nayak"
     ],
-    "year": null,
+    "year": 2025,
     "venue": "arXiv preprint arXiv:2504.03175",
     "citations": 0,
     "url": "https://arxiv.org/abs/2504.03175",
@@ -1907,7 +1907,7 @@
     "authors": [
       "MN Couch"
     ],
-    "year": null,
+    "year": 2020,
     "venue": "NA",
     "citations": 0,
     "url": "https://ucalgary.scholaris.ca/items/f6670e72-ba35-4230-b338-ef305b58d50b",
@@ -1921,7 +1921,7 @@
       "M Lekhal",
       "A El Oubani"
     ],
-    "year": null,
+    "year": 2020,
     "venue": "Heliyon",
     "citations": 63,
     "url": "https://www.cell.com/heliyon/fulltext/S2405-8440(20)31273-1",
@@ -1935,7 +1935,7 @@
       "WJ Xu",
       "LX Zhong"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "Plos one",
     "citations": 3,
     "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260373",
@@ -1949,7 +1949,7 @@
       "C Tudor",
       "A Anghel"
     ],
-    "year": null,
+    "year": 1996,
     "venue": "Energies",
     "citations": 24,
     "url": "https://www.mdpi.com/1996-1073/14/15/4485",
@@ -1963,7 +1963,7 @@
       "T Iversen",
       "D Soskice"
     ],
-    "year": null,
+    "year": 2008,
     "venue": "American political science review",
     "citations": 1802,
     "url": "https://www.cambridge.org/core/journals/american-political-science-review/article/electoral-institutions-and-the-politics-of-coalitions-why-some-democracies-redistribute-more-than-others/F30F0B252475D90BFF365C2410FA23DB",
@@ -1977,7 +1977,7 @@
       "J Maedgen",
       "C Wlezien"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "Political Research Quarterly",
     "citations": 5,
     "url": "https://journals.sagepub.com/doi/abs/10.1177/10659129241263481",
@@ -1991,7 +1991,7 @@
       "I Lago",
       "F Martinez i Coma"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "Party Politics",
     "citations": 8,
     "url": "https://journals.sagepub.com/doi/abs/10.1177/13540688221106293",
@@ -2004,7 +2004,7 @@
     "authors": [
       "BP Boyle"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "Political Studies",
     "citations": 12,
     "url": "https://journals.sagepub.com/doi/abs/10.1177/00323217221096563",
@@ -2017,7 +2017,7 @@
     "authors": [
       "GB Powell Jr"
     ],
-    "year": null,
+    "year": 1986,
     "venue": "American political science review",
     "citations": 1693,
     "url": "https://www.cambridge.org/core/journals/american-political-science-review/article/american-voter-turnout-in-comparative-perspective/5A8E10796141C4C4AF5B204984E5322E",
@@ -2031,7 +2031,7 @@
       "A Blais",
       "A Dobrzynska"
     ],
-    "year": null,
+    "year": 1998,
     "venue": "European journal of political research",
     "citations": 1113,
     "url": "https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.00382",
@@ -2044,7 +2044,7 @@
     "authors": [
       "V Chlouba"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "Democratization",
     "citations": 6,
     "url": "https://www.tandfonline.com/doi/abs/10.1080/13510347.2023.2298365",
@@ -2057,7 +2057,7 @@
     "authors": [
       "A Johansson"
     ],
-    "year": null,
+    "year": 2025,
     "venue": "Environmental Policy and Governance",
     "citations": 0,
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/eet.2159",
@@ -2070,7 +2070,7 @@
     "authors": [
       "TOM Aroyehun"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "European Journal of Political Science Studies",
     "citations": 2,
     "url": "https://oapub.org/soc/index.php/EJPSS/article/view/1867",
@@ -2088,7 +2088,7 @@
       "S Iyengar",
       "S Klar"
     ],
-    "year": null,
+    "year": 2020,
     "venue": "Science",
     "citations": 1173,
     "url": "https://www.science.org/doi/abs/10.1126/science.abe1715",
@@ -2115,7 +2115,7 @@
       "L Martin",
       "GH Brennan"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "American Political Science Review",
     "citations": 13,
     "url": "https://www.cambridge.org/core/journals/american-political-science-review/article/moving-toward-the-median-compulsory-voting-and-political-polarization/339B3C1760F1FD7D833B44BCB2D39781",
@@ -2128,7 +2128,7 @@
     "authors": [
       "M McCombs"
     ],
-    "year": null,
+    "year": 1977,
     "venue": "Public relations review",
     "citations": 236,
     "url": "https://www.sciencedirect.com/science/article/pii/S0363811177800088",
@@ -2180,7 +2180,7 @@
       "T Kuchler",
       "J Stroebel"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "Nature",
     "citations": 372,
     "url": "https://www.nature.com/articles/s41586-022-04997-3",
@@ -2193,7 +2193,7 @@
     "authors": [
       "MO Jackson"
     ],
-    "year": null,
+    "year": 2025,
     "venue": "arXiv preprint arXiv:2506.13016",
     "citations": 108,
     "url": "https://arxiv.org/abs/2506.13016",
@@ -2206,7 +2206,7 @@
     "authors": [
       "N Zdanowska"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "arXiv preprint arXiv:2307.09251",
     "citations": 0,
     "url": "https://arxiv.org/abs/2307.09251",
@@ -2219,7 +2219,7 @@
     "authors": [
       "C Segura-Carrillo"
     ],
-    "year": null,
+    "year": 2025,
     "venue": "Social Indicators Research",
     "citations": 1,
     "url": "https://link.springer.com/article/10.1007/s11205-025-03568-z",
@@ -2232,7 +2232,7 @@
     "authors": [
       "J Schnabel"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "Policy Studies Journal",
     "citations": 3,
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/psj.12565",
@@ -2245,7 +2245,7 @@
     "authors": [
       "D Centola"
     ],
-    "year": null,
+    "year": 2010,
     "venue": "science",
     "citations": 3372,
     "url": "https://www.science.org/doi/abs/10.1126/science.1185231",
@@ -2259,7 +2259,7 @@
       "M Papachristou",
       "Y Yuan"
     ],
-    "year": null,
+    "year": 1967,
     "venue": "PNAS nexus",
     "citations": 33,
     "url": "https://academic.oup.com/pnasnexus/article-abstract/4/12/pgaf317/8361967",
@@ -2275,7 +2275,7 @@
       "C Marlow",
       "L Adamic"
     ],
-    "year": null,
+    "year": 2012,
     "venue": "Proceedings of the 21st …",
     "citations": 2374,
     "url": "https://dl.acm.org/doi/abs/10.1145/2187836.2187907",
@@ -2288,7 +2288,7 @@
     "authors": [
       "S Marginson"
     ],
-    "year": null,
+    "year": 2016,
     "venue": "Higher education",
     "citations": 1274,
     "url": "https://link.springer.com/article/10.1007/s10734-016-0016-x",
@@ -2316,7 +2316,7 @@
       "A Antonioni",
       "M Paolucci"
     ],
-    "year": null,
+    "year": 2021,
     "venue": "Nature …",
     "citations": 126,
     "url": "https://www.nature.com/articles/s41467-021-25734-w",
@@ -2329,7 +2329,7 @@
     "authors": [
       "S Gavrilets"
     ],
-    "year": null,
+    "year": 2020,
     "venue": "Evolutionary Human Sciences",
     "citations": 67,
     "url": "https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/dynamics-of-injunctive-social-norms/DED2545EE037BC8AB7BB1D2542AD3D17",
@@ -2343,7 +2343,7 @@
       "NJ Goldstein",
       "RB Cialdini"
     ],
-    "year": null,
+    "year": 2008,
     "venue": "Journal of consumer …",
     "citations": 4823,
     "url": "https://academic.oup.com/jcr/article-abstract/35/3/472/1856257",
@@ -2358,7 +2358,7 @@
       "Y Liu",
       "A Alessa"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "Findings of the …",
     "citations": 135,
     "url": "https://aclanthology.org/2024.findings-emnlp.739/",
@@ -2373,7 +2373,7 @@
       "S Franconeri",
       "C Plaisant"
     ],
-    "year": null,
+    "year": 2020,
     "venue": "IEEE transactions on …",
     "citations": 267,
     "url": "https://ieeexplore.ieee.org/abstract/document/8476234/",
@@ -2388,7 +2388,7 @@
       "R Belloum",
       "JR Eagan"
     ],
-    "year": null,
+    "year": 2022,
     "venue": "Proceedings of the 2022 …",
     "citations": 232,
     "url": "https://dl.acm.org/doi/abs/10.1145/3514094.3534164",
@@ -2402,7 +2402,7 @@
       "SA Josselyn",
       "S Tonegawa"
     ],
-    "year": null,
+    "year": 2020,
     "venue": "Science",
     "citations": 1192,
     "url": "https://www.science.org/doi/abs/10.1126/science.aaw4325",
@@ -2411,26 +2411,34 @@
   {
     "input_title": "Cognitive neuroscience perspective on memory: overview and summary",
     "cache_key": "cognitive neuroscience perspective on memory overview and summary",
-    "title": null,
-    "authors": [],
-    "year": null,
-    "venue": null,
-    "citations": null,
-    "url": null,
-    "source": "ASTA",
-    "error": "no_result"
+    "title": "Cognitive neuroscience perspective on memory: overview and summary",
+    "authors": [
+      "S Sridhar",
+      "A Khamaj",
+      "MK Asthana"
+    ],
+    "year": 2023,
+    "venue": "Frontiers in human neuroscience",
+    "citations": 106,
+    "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1217093/full",
+    "source": "ASTA"
   },
   {
     "input_title": "Dynamic brain states during encoding and their post-encoding reinstatement predicts episodic memory in children",
     "cache_key": "dynamic brain states during encoding and their post encoding reinstatement predicts episodic memory in children",
-    "title": null,
-    "authors": [],
-    "year": null,
-    "venue": null,
-    "citations": null,
-    "url": null,
-    "source": "ASTA",
-    "error": "no_result"
+    "title": "Dynamic brain states during encoding and their post-encoding reinstatement predicts episodic memory in children",
+    "authors": [
+      "Y Zeng",
+      "SP Chakravartti",
+      "S Ryali",
+      "S Qin",
+      "V Menon"
+    ],
+    "year": 2025,
+    "venue": "bioRxiv",
+    "citations": 0,
+    "url": "https://www.biorxiv.org/content/10.1101/2025.11.25.690570.abstract",
+    "source": "ASTA"
   },
   {
     "input_title": "Stress",
@@ -2440,7 +2448,7 @@
       "RS Lazarus",
       "S Folkman"
     ],
-    "year": null,
+    "year": 2025,
     "venue": "Appraisal, and coping",
     "citations": 1480,
     "url": "http://depts.washington.edu/mbwc/content/page-files/Wellness_Weds_talk_2-3-21.pdf",
@@ -2449,14 +2457,18 @@
   {
     "input_title": "I’m going to fail! Acute cognitive performance anxiety increases threat-interference and impairs WM performance",
     "cache_key": "i m going to fail acute cognitive performance anxiety increases threat interference and impairs wm performance",
-    "title": null,
-    "authors": [],
-    "year": null,
-    "venue": null,
-    "citations": null,
-    "url": null,
-    "source": "ASTA",
-    "error": "no_result"
+    "title": "I'm going to fail! Acute cognitive performance anxiety increases threat-interference and impairs WM performance",
+    "authors": [
+      "A Angelidis",
+      "E Solis",
+      "F Lautenbach",
+      "W van der Does"
+    ],
+    "year": 2019,
+    "venue": "PloS one",
+    "citations": 148,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210824",
+    "source": "ASTA"
   },
   {
     "input_title": "The effects of acute stress on core executive functions: A meta-analysis and comparison with cortisol",
@@ -2467,7 +2479,7 @@
       "MA Sazma",
       "AP Yonelinas"
     ],
-    "year": null,
+    "year": 2016,
     "venue": "Neuroscience & Biobehavioral …",
     "citations": 1126,
     "url": "https://www.sciencedirect.com/science/article/pii/S0149763416302755",
@@ -2480,7 +2492,7 @@
     "authors": [
       "RJ Vallerand"
     ],
-    "year": null,
+    "year": 1997,
     "venue": "Advances in experimental social psychology",
     "citations": 6481,
     "url": "https://www.sciencedirect.com/science/article/pii/S0065260108600192",
@@ -2496,7 +2508,7 @@
       "RC Jalagat Jr",
       "NT Truc"
     ],
-    "year": null,
+    "year": 2021,
     "venue": "Management Science …",
     "citations": 37,
     "url": "https://www.researchgate.net/profile/Revenio-Jalagat/publication/346569818_Factors_Affecting_Employee's_Motivation/links/5ffcb422a6fdccdcb84a3214/Factors-Affecting-Employees-Motivation.pdf",
@@ -2510,7 +2522,7 @@
       "P Chawla",
       "N Kumari"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "NA",
     "citations": 3,
     "url": null,
@@ -2519,26 +2531,28 @@
   {
     "input_title": "Psychometrics in experimental psychology: A case for calibration",
     "cache_key": "psychometrics in experimental psychology a case for calibration",
-    "title": null,
-    "authors": [],
-    "year": null,
-    "venue": null,
-    "citations": null,
-    "url": null,
-    "source": "ASTA",
-    "error": "no_result"
+    "title": "Psychometrics in experimental psychology: A case for calibration",
+    "authors": [
+      "DR Bach"
+    ],
+    "year": 2023,
+    "venue": "Psychonomic Bulletin & Review",
+    "citations": 7,
+    "url": "https://link.springer.com/article/10.3758/s13423-023-02421-z",
+    "source": "ASTA"
   },
   {
     "input_title": "Behavioural tests for learning and cognition in humans and animals.",
     "cache_key": "behavioural tests for learning and cognition in humans and animals",
-    "title": null,
-    "authors": [],
-    "year": null,
-    "venue": null,
-    "citations": null,
-    "url": null,
-    "source": "ASTA",
-    "error": "no_result"
+    "title": "Behavioural tests for learning and cognition in humans and animals",
+    "authors": [
+      "RE Nordquist"
+    ],
+    "year": 2021,
+    "venue": "… to Advance Animal Welfare Science: A …",
+    "citations": 2,
+    "url": "https://www.cabidigitallibrary.org/doi/abs/10.1079/9781789247886.0009",
+    "source": "ASTA"
   },
   {
     "input_title": "The complexity of measuring reliability in learning tasks: An illustration using the Alternating Serial Reaction Time Task",
@@ -2550,7 +2564,7 @@
       "K Janacsek",
       "D Nemeth"
     ],
-    "year": null,
+    "year": 2023,
     "venue": "Behavior Research Methods",
     "citations": 53,
     "url": "https://link.springer.com/article/10.3758/s13428-022-02038-5",
@@ -2571,14 +2585,18 @@
   {
     "input_title": "Increased Structure and Active Learning Reduce the Achievement Gap in Introductory Biology",
     "cache_key": "increased structure and active learning reduce the achievement gap in introductory biology",
-    "title": null,
-    "authors": [],
-    "year": null,
-    "venue": null,
-    "citations": null,
-    "url": null,
-    "source": "ASTA",
-    "error": "no_result"
+    "title": "Increased structure and active learning reduce the achievement gap in introductory biology",
+    "authors": [
+      "DC Haak",
+      "J HilleRisLambers",
+      "E Pitre",
+      "S Freeman"
+    ],
+    "year": 2011,
+    "venue": "Science",
+    "citations": 1333,
+    "url": "https://www.science.org/doi/abs/10.1126/science.1204820",
+    "source": "ASTA"
   },
   {
     "input_title": "Perception of Students Towards Active Learning in HEIs of Oman and Its Impact on Academic Performance",
@@ -2589,7 +2607,7 @@
       "M Al-Haziazi",
       "R Rasheed"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "NA",
     "citations": 2,
     "url": null,
@@ -2605,10 +2623,1655 @@
       "E Fahle",
       "H Jang"
     ],
-    "year": null,
+    "year": 2024,
     "venue": "NA",
     "citations": 285,
     "url": "https://vtechworks.lib.vt.edu/items/3f19a828-6961-4fe8-b73c-8de18371049f",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "The Impact of Socio-economic Status on Academic Achievement",
+    "cache_key": "the impact of socio economic status on academic achievement",
+    "title": "The impact of socio-economic status on academic achievement",
+    "authors": [
+      "J Munir",
+      "M Faiza",
+      "B Jamal",
+      "S Daud"
+    ],
+    "year": 2023,
+    "venue": "Journal of Social Sciences …",
+    "citations": 202,
+    "url": "https://jssr.com.pk/index.php/jssr/article/view/308",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Exploring Student Achievement Gaps in School Districts Across the United States",
+    "cache_key": "exploring student achievement gaps in school districts across the united states",
+    "title": "Exploring student achievement gaps in school districts across the United States",
+    "authors": [
+      "M Hung",
+      "WA Smith",
+      "MW Voss"
+    ],
+    "year": 1983,
+    "venue": "… and Urban Society",
+    "citations": 487,
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/0013124519833442",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "A Survey of Smart Classroom Literature",
+    "cache_key": "a survey of smart classroom literature",
+    "title": "A survey of smart classroom literature",
+    "authors": [
+      "A Kaur",
+      "M Bhatia",
+      "G Stea"
+    ],
+    "year": 2022,
+    "venue": "Education Sciences",
+    "citations": 119,
+    "url": "https://www.mdpi.com/2227-7102/12/2/86",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Enhancement or Impediment? How University Teachers’ Use of Smart Classrooms Might Impact Interaction Quality",
+    "cache_key": "enhancement or impediment how university teachers use of smart classrooms might impact interaction quality",
+    "title": "Enhancement or Impediment? How University Teachers' Use of Smart Classrooms Might Impact Interaction Quality",
+    "authors": [
+      "Q Mao",
+      "X Fang",
+      "L Jiang",
+      "L Zhu"
+    ],
+    "year": 2023,
+    "venue": "Sustainability",
+    "citations": 5,
+    "url": "https://www.mdpi.com/2071-1050/15/22/15826",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Technology in the classroom: Banking education or opportunities to learn?",
+    "cache_key": "technology in the classroom banking education or opportunities to learn",
+    "title": "Technology in the classroom: Banking education or opportunities to learn?",
+    "authors": [
+      "A Appova",
+      "HJ Lee",
+      "T Bucci"
+    ],
+    "year": 2022,
+    "venue": "Theory Into Practice",
+    "citations": 28,
+    "url": "https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096372",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Test",
+    "cache_key": "test",
+    "title": "The logrank test",
+    "authors": [
+      "JM Bland",
+      "DG Altman"
+    ],
+    "year": 2008,
+    "venue": "Bmj",
+    "citations": 1349,
+    "url": "https://www.bmj.com/content/328/7447/1073.short",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Outcome-Based Assessment in The Evaluation of Education Programs Through a Systematic Literature Review",
+    "cache_key": "outcome based assessment in the evaluation of education programs through a systematic literature review",
+    "title": "Outcome-based assessment in the evaluation of education programs through a systematic literature review",
+    "authors": [
+      "N Agir",
+      "M Effendi",
+      "EM Matore"
+    ],
+    "year": 2023,
+    "venue": "International …",
+    "citations": 10,
+    "url": "https://pdfs.semanticscholar.org/127b/84a17568ff08c76724a30a5c5ffcffb2f1f7.pdf",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Measuring learning outcomes: bridging accreditation requirements and LMS functionalities",
+    "cache_key": "measuring learning outcomes bridging accreditation requirements and lms functionalities",
+    "title": "Measuring learning outcomes: bridging accreditation requirements and LMS functionalities",
+    "authors": [
+      "H El Marsafawy",
+      "R Roy",
+      "F Ali"
+    ],
+    "year": 2021,
+    "venue": "Quality Assurance in Education",
+    "citations": 25,
+    "url": "https://www.emerald.com/insight/content/doi/10.1108/QAE-11-2021-0186/full/html",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "The development of student feedback literacy: enabling uptake of feedback",
+    "cache_key": "the development of student feedback literacy enabling uptake of feedback",
+    "title": "The development of student feedback literacy: enabling uptake of feedback",
+    "authors": [
+      "D Carless",
+      "D Boud"
+    ],
+    "year": 2018,
+    "venue": "Assessment & Evaluation in Higher Education",
+    "citations": 3038,
+    "url": "https://www.tandfonline.com/doi/abs/10.1080/02602938.2018.1463354",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "The power of feedback.",
+    "cache_key": "the power of feedback",
+    "title": "The power of feedback",
+    "authors": [
+      "J Hattie",
+      "H Timperley"
+    ],
+    "year": 2008,
+    "venue": "Review of educational research",
+    "citations": 27155,
+    "url": "https://journals.sagepub.com/doi/abs/10.3102/003465430298487",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Formative assessment and the design of instructional systems",
+    "cache_key": "formative assessment and the design of instructional systems",
+    "title": "Formative assessment and the design of instructional systems",
+    "authors": [
+      "DR Sadler"
+    ],
+    "year": 1989,
+    "venue": "Instructional science",
+    "citations": 8408,
+    "url": "https://link.springer.com/article/10.1007/BF00117714",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Context-theoretic Semantics for Natural Language: an Algebraic Framework",
+    "cache_key": "context theoretic semantics for natural language an algebraic framework",
+    "title": "Context-theoretic semantics for natural language: an algebraic framework",
+    "authors": [
+      "D Clarke"
+    ],
+    "year": 2009,
+    "venue": "arXiv preprint arXiv:2009.10542",
+    "citations": 21,
+    "url": "https://arxiv.org/abs/2009.10542",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Concepts",
+    "cache_key": "concepts",
+    "title": "Concepts",
+    "authors": [
+      "E Margolis",
+      "S Laurence"
+    ],
+    "year": 2025,
+    "venue": "NA",
+    "citations": 277,
+    "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470998762#page=202",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Distributional Formal Semantics",
+    "cache_key": "distributional formal semantics",
+    "title": "Distributional formal semantics",
+    "authors": [
+      "NJ Venhuizen",
+      "P Hendriks",
+      "MW Crocker"
+    ],
+    "year": 2022,
+    "venue": "Information and …",
+    "citations": 17,
+    "url": "https://www.sciencedirect.com/science/article/pii/S089054012100078X",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Schrödinger's tree—On syntax and neural language models",
+    "cache_key": "schr dinger s tree on syntax and neural language models",
+    "title": "Schrödinger's tree—On syntax and neural language models",
+    "authors": [
+      "A Kulmizev",
+      "J Nivre"
+    ],
+    "year": 2022,
+    "venue": "Frontiers in Artificial Intelligence",
+    "citations": 27,
+    "url": "https://www.frontiersin.org/articles/10.3389/frai.2022.796788/full",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Psychomatics—A Multidisciplinary Framework for Understanding Artificial Minds",
+    "cache_key": "psychomatics a multidisciplinary framework for understanding artificial minds",
+    "title": "Psychomatics—A multidisciplinary framework for understanding artificial minds",
+    "authors": [
+      "G Riva",
+      "F Mantovani",
+      "BK Wiederhold"
+    ],
+    "year": 2024,
+    "venue": "… , Behavior, and Social …",
+    "citations": 10,
+    "url": "https://www.liebertpub.com/doi/abs/10.1089/cyber.2024.0409",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Animal linguistics: a primer",
+    "cache_key": "animal linguistics a primer",
+    "title": "Animal linguistics: a primer",
+    "authors": [
+      "M Berthet",
+      "C Coye",
+      "G Dezecache",
+      "J Kuhn"
+    ],
+    "year": 2021,
+    "venue": "Biological reviews",
+    "citations": 52,
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/brv.12897",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "How individuals change language",
+    "cache_key": "how individuals change language",
+    "title": "How individuals change language",
+    "authors": [
+      "RA Blythe",
+      "W Croft"
+    ],
+    "year": 2021,
+    "venue": "Plos one",
+    "citations": 53,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252582",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Diachronic word embeddings and semantic shifts: a survey",
+    "cache_key": "diachronic word embeddings and semantic shifts a survey",
+    "title": "Diachronic word embeddings and semantic shifts: a survey",
+    "authors": [
+      "A Kutuzov",
+      "L Øvrelid",
+      "T Szymanski",
+      "E Velldal"
+    ],
+    "year": 2022,
+    "venue": "arXiv preprint arXiv …",
+    "citations": 475,
+    "url": "https://arxiv.org/abs/1806.03537",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change",
+    "cache_key": "diachronic word embeddings reveal statistical laws of semantic change",
+    "title": "Diachronic word embeddings reveal statistical laws of semantic change",
+    "authors": [
+      "WL Hamilton",
+      "J Leskovec",
+      "D Jurafsky"
+    ],
+    "year": 2016,
+    "venue": "arXiv preprint arXiv:1605.09096",
+    "citations": 1463,
+    "url": "https://arxiv.org/abs/1605.09096",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Saglik Bilimleri Turkce Derlemi(Turkish Corpus on Health Sciences)",
+    "cache_key": "saglik bilimleri turkce derlemi turkish corpus on health sciences",
+    "title": "Saglik Bilimleri Turkce Derlemi (Turkish Corpus on Health Sciences).",
+    "authors": [
+      "MC Demir",
+      "MK Sulubulut",
+      "A Aral"
+    ],
+    "year": null,
+    "venue": "NA",
+    "citations": 0,
+    "url": null,
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Corpus Linguistics in Legal Discourse",
+    "cache_key": "corpus linguistics in legal discourse",
+    "title": "Corpus linguistics in legal discourse",
+    "authors": [
+      "S Goźdź-Roszkowski"
+    ],
+    "year": 2021,
+    "venue": "International Journal for the Semiotics of Law …",
+    "citations": 91,
+    "url": "https://link.springer.com/article/10.1007/s11196-021-09860-8",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Corpus Linguistics Methods in the Study of (Meta)Argumentation",
+    "cache_key": "corpus linguistics methods in the study of meta argumentation",
+    "title": "Corpus linguistics methods in the study of (meta) argumentation",
+    "authors": [
+      "M Hinton"
+    ],
+    "year": 2020,
+    "venue": "Argumentation",
+    "citations": 34,
+    "url": "https://link.springer.com/article/10.1007/s10503-020-09533-z",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "On the phantom-like appearance of bilingualism effects on neurocognition: (How) should we proceed?",
+    "cache_key": "on the phantom like appearance of bilingualism effects on neurocognition how should we proceed",
+    "title": "On the phantom-like appearance of bilingualism effects on neurocognition:(How) should we proceed?",
+    "authors": [
+      "E Leivada",
+      "M Westergaard",
+      "JA Duñabeitia"
+    ],
+    "year": 2020,
+    "venue": "Bilingualism …",
+    "citations": 156,
+    "url": "https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/on-the-phantomlike-appearance-of-bilingualism-effects-on-neurocognition-how-should-we-proceed/8BDFD5A406C9B58FA081CF17F69C2E82",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "How does bilingualism modify cognitive function? Attention to the mechanism",
+    "cache_key": "how does bilingualism modify cognitive function attention to the mechanism",
+    "title": "How does bilingualism modify cognitive function? Attention to the mechanism",
+    "authors": [
+      "E Bialystok",
+      "FIM Craik"
+    ],
+    "year": 2022,
+    "venue": "Psychonomic bulletin & review",
+    "citations": 262,
+    "url": "https://link.springer.com/article/10.3758/s13423-022-02057-5",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Redefining bilingualism as a spectrum of experiences that differentially affects brain structure and function",
+    "cache_key": "redefining bilingualism as a spectrum of experiences that differentially affects brain structure and function",
+    "title": "Redefining bilingualism as a spectrum of experiences that differentially affects brain structure and function",
+    "authors": [
+      "V DeLuca",
+      "J Rothman",
+      "E Bialystok"
+    ],
+    "year": 2019,
+    "venue": "Proceedings of the …",
+    "citations": 502,
+    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.1811513116",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "The material solution to the problem of induction: Costs and benefits",
+    "cache_key": "the material solution to the problem of induction costs and benefits",
+    "title": "The material solution to the problem of induction: Costs and benefits",
+    "authors": [
+      "N Filipović"
+    ],
+    "year": 2024,
+    "venue": "Theoria, Beograd",
+    "citations": 0,
+    "url": "https://doiserbia.nb.rs/Article.aspx?id=0351-22742403017F",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Varieties of Justification—How (Not) to Solve the Problem of Induction",
+    "cache_key": "varieties of justification how not to solve the problem of induction",
+    "title": "Varieties of Justification—How (Not) to Solve the Problem of Induction",
+    "authors": [
+      "M Backmann"
+    ],
+    "year": 2018,
+    "venue": "Acta Analytica",
+    "citations": 3,
+    "url": "https://link.springer.com/article/10.1007/s12136-018-0371-6",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Induction With and Without Natural Properties: a New Approach to the New Riddle of Induction",
+    "cache_key": "induction with and without natural properties a new approach to the new riddle of induction",
+    "title": "Induction with and without natural properties: A new approach to the new riddle of induction",
+    "authors": [
+      "PD Thorn",
+      "G Schurz"
+    ],
+    "year": 2024,
+    "venue": "Philosophia",
+    "citations": 2,
+    "url": "https://link.springer.com/article/10.1007/s11406-024-00768-8",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "A critique of the traditional and the post-gettier theories of justification: an intervention with epistemological functionalism",
+    "cache_key": "a critique of the traditional and the post gettier theories of justification an intervention with epistemological functionalism",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "citations": null,
+    "url": null,
+    "source": "ASTA",
+    "error": "no_result"
+  },
+  {
+    "input_title": "Justified belief",
+    "cache_key": "justified belief",
+    "title": "What is justified belief?",
+    "authors": [
+      "AI Goldman"
+    ],
+    "year": 1979,
+    "venue": "Justification and knowledge: New studies in …",
+    "citations": 2772,
+    "url": "https://link.springer.com/chapter/10.1007/978-94-009-9493-5_1",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Justification and the knowledge-connection",
+    "cache_key": "justification and the knowledge connection",
+    "title": "Justification and the knowledge-connection",
+    "authors": [
+      "J Hirvelä"
+    ],
+    "year": 2021,
+    "venue": "Philosophical Studies",
+    "citations": 13,
+    "url": "https://link.springer.com/article/10.1007/s11098-021-01741-x",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "An Overview of Artificial Intelligence Ethics",
+    "cache_key": "an overview of artificial intelligence ethics",
+    "title": "An overview of artificial intelligence ethics",
+    "authors": [
+      "C Huang",
+      "Z Zhang",
+      "B Mao",
+      "X Yao"
+    ],
+    "year": 2023,
+    "venue": "IEEE Transactions on …",
+    "citations": 651,
+    "url": "https://ieeexplore.ieee.org/abstract/document/9844014/",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Artificial Intelligence in Education: AIEd for Personalised Learning Pathways",
+    "cache_key": "artificial intelligence in education aied for personalised learning pathways",
+    "title": "Artificial intelligence in education: AIEd for personalised learning pathways.",
+    "authors": [
+      "O Tapalova",
+      "N Zhiyenbayeva"
+    ],
+    "year": 2022,
+    "venue": "Electronic Journal of e-Learning",
+    "citations": 919,
+    "url": "https://eric.ed.gov/?id=EJ1373006",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "AI Ethics Issues in Real World: Evidence from AI Incident Database",
+    "cache_key": "ai ethics issues in real world evidence from ai incident database",
+    "title": "Ai ethics issues in real world: Evidence from ai incident database",
+    "authors": [
+      "M Wei",
+      "Z Zhou"
+    ],
+    "year": 2022,
+    "venue": "arXiv preprint arXiv:2206.07635",
+    "citations": 83,
+    "url": "https://arxiv.org/abs/2206.07635",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Reframing the Free Will Debate: The Universe is Not Deterministic",
+    "cache_key": "reframing the free will debate the universe is not deterministic",
+    "title": "Reframing the Free Will Debate: The Universe is Not Deterministic",
+    "authors": [
+      "HD Potter",
+      "GFR Ellis",
+      "KJ Mitchell"
+    ],
+    "year": 1967,
+    "venue": "arXiv preprint arXiv:2503.19672",
+    "citations": 4,
+    "url": "https://arxiv.org/abs/2503.19672",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "John Searle and Richard Swinburne on the Nature of the Problem of Free Will and its Relation with Consciousness",
+    "cache_key": "john searle and richard swinburne on the nature of the problem of free will and its relation with consciousness",
+    "title": "John Searle and Richard Swinburne on the Nature of the Problem of Free Will and its Relation with Consciousness",
+    "authors": [
+      "E Ahmed"
+    ],
+    "year": 2022,
+    "venue": "Pakistan Journal of Humanities and Social Sciences",
+    "citations": 0,
+    "url": "https://pu.edu.pk/images/journal/phill/pdf_files/4_v42_22.pdf",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Do free will skeptics swallow their own medicine?",
+    "cache_key": "do free will skeptics swallow their own medicine",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "citations": null,
+    "url": null,
+    "source": "ASTA",
+    "error": "no_result"
+  },
+  {
+    "input_title": "Improving alignment of dialogue agents via targeted human judgements",
+    "cache_key": "improving alignment of dialogue agents via targeted human judgements",
+    "title": "Improving alignment of dialogue agents via targeted human judgements",
+    "authors": [
+      "A Glaese",
+      "N McAleese",
+      "M Trębacz",
+      "J Aslanides"
+    ],
+    "year": 2025,
+    "venue": "arXiv preprint arXiv …",
+    "citations": 663,
+    "url": "https://arxiv.org/abs/2209.14375",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Ethical Frameworks and Computer Security Trolley Problems: Foundations for Conversations",
+    "cache_key": "ethical frameworks and computer security trolley problems foundations for conversations",
+    "title": "Ethical frameworks and computer security trolley problems: Foundations for conversations",
+    "authors": [
+      "T Kohno",
+      "Y Acar",
+      "W Loh"
+    ],
+    "year": 2012,
+    "venue": "32nd USENIX Security Symposium (USENIX …",
+    "citations": 53,
+    "url": "https://www.usenix.org/conference/usenixsecurity23/presentation/kohno",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Industrialization and Social Stratification",
+    "cache_key": "industrialization and social stratification",
+    "title": "Industrialization and social stratification",
+    "authors": [
+      "DJ Treiman"
+    ],
+    "year": 1970,
+    "venue": "Sociological inquiry",
+    "citations": 1665,
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-682X.1970.tb01009.x",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Industrial policy for sustainable human development in the post-Covid19 era",
+    "cache_key": "industrial policy for sustainable human development in the post covid19 era",
+    "title": "Industrial policy for sustainable human development in the post-Covid19 era",
+    "authors": [
+      "A Ferrannini",
+      "E Barbieri",
+      "M Biggeri",
+      "MR Di Tommaso"
+    ],
+    "year": 2030,
+    "venue": "World development",
+    "citations": 182,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0305750X20303429",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Industrialization: The Transition of the Community of Agrarists Toward the Gresik Wringinanom Industry",
+    "cache_key": "industrialization the transition of the community of agrarists toward the gresik wringinanom industry",
+    "title": "Industrialization: The Transition of the Community of Agrarists Toward the Gresik Wringinanom Industry",
+    "authors": [
+      "K Saadah",
+      "R Anggraini",
+      "VA Medida"
+    ],
+    "year": 2020,
+    "venue": "… Conference on Social …",
+    "citations": 0,
+    "url": "https://www.atlantis-press.com/proceedings/icossei-19/125934655",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "The Role of Structural Contexts of the Pahlavi Government and Shiite Political Islam in the Formation of the Iran Revolution in 1979",
+    "cache_key": "the role of structural contexts of the pahlavi government and shiite political islam in the formation of the iran revolution in 1979",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "citations": null,
+    "url": null,
+    "source": "ASTA",
+    "error": "no_result"
+  },
+  {
+    "input_title": "Social Revolutions",
+    "cache_key": "social revolutions",
+    "title": "Social revolutions in the modern world",
+    "authors": [
+      "T Skocpol"
+    ],
+    "year": 1994,
+    "venue": "NA",
+    "citations": 983,
+    "url": "https://books.google.com/books?hl=en&lr=&id=1E-sb3d-DegC&oi=fnd&pg=PA1&dq=%22Social+Revolutions%22&ots=Fr3SLrGDUI&sig=GRlCdihhkSU7McRSQIUFFr6WSls",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Incumbent policy",
+    "cache_key": "incumbent policy",
+    "title": "Incumbent policy strategy and the value of winning",
+    "authors": [
+      "C Cox",
+      "I Shapiro"
+    ],
+    "year": 1995,
+    "venue": "Available at SSRN 4149902",
+    "citations": 1,
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4149902",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Analysing Historical Enquiry in School History Textbooks.",
+    "cache_key": "analysing historical enquiry in school history textbooks",
+    "title": "Analysing historical enquiry in school history textbooks",
+    "authors": [
+      "P Bharath",
+      "C Bertram"
+    ],
+    "year": 1959,
+    "venue": "Perspectives in Education",
+    "citations": 13,
+    "url": "https://journals.co.za/doi/pdf/10.18820/2519593X/pie.v36i1.10",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Annales Sect in Islamic Historical Research",
+    "cache_key": "annales sect in islamic historical research",
+    "title": "Annales Sect in Islamic Historical Research",
+    "authors": [
+      "ANS Rizal",
+      "V Lutfiani"
+    ],
+    "year": 2020,
+    "venue": "Jurnal Indo-Islamika",
+    "citations": 3,
+    "url": "https://pdfs.semanticscholar.org/a042/edb69bd737650dd1e1f9ef22538c6971d199.pdf",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Writing ‘Anniversary’ in Historical Perspective: A Way to Find Identity",
+    "cache_key": "writing anniversary in historical perspective a way to find identity",
+    "title": "Writing 'Anniversary'in Historical Perspective: A Way to Find Identity",
+    "authors": [
+      "ST Sulistiyono",
+      "RJ Amaruli"
+    ],
+    "year": 2023,
+    "venue": "Indonesian Historical …",
+    "citations": 0,
+    "url": "https://ejournal2.undip.ac.id/index.php/ihis/article/view/17935",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Implementation of Revolution in Military Affairs in the Russian and Ukrainian Wars",
+    "cache_key": "implementation of revolution in military affairs in the russian and ukrainian wars",
+    "title": "Implementation of Revolution in Military Affairs in the Russian and Ukrainian Wars,‖",
+    "authors": [
+      "N Nazirah",
+      "A Zaini",
+      "B Suseto"
+    ],
+    "year": 2024,
+    "venue": "FORMOSA JOURNAL OF APPLIED …",
+    "citations": 1,
+    "url": "https://elibrary.ru/item.asp?id=79790552",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "THE IMPACT OF TECHNOLOGY ON THE PROCESS OF PLANNING AND DECISION MAKING",
+    "cache_key": "the impact of technology on the process of planning and decision making",
+    "title": "THE IMPACT OF TECHNOLOGY ON THE PROCESS OF PLANNING AND DECISION MAKING",
+    "authors": [
+      "SI Gimiga"
+    ],
+    "year": 2021,
+    "venue": "Bulletin of\" Carol I\" National Defence University (EN)",
+    "citations": 0,
+    "url": "https://www.ceeol.com/search/article-detail?id=1007472",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Turnkey Technology: A Powerful Tool for Cyber Warfare",
+    "cache_key": "turnkey technology a powerful tool for cyber warfare",
+    "title": "Turnkey Technology: A Powerful Tool for Cyber Warfare",
+    "authors": [
+      "MA Bouke",
+      "A Abdullah"
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint arXiv:2308.14576",
+    "citations": 2,
+    "url": "https://arxiv.org/abs/2308.14576",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Community of human destiny of exploring the patway",
+    "cache_key": "community of human destiny of exploring the patway",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "citations": null,
+    "url": null,
+    "source": "ASTA",
+    "error": "no_result"
+  },
+  {
+    "input_title": "Globalization And Transfer Of Technology: The Implications For Nigeria's Economic Development",
+    "cache_key": "globalization and transfer of technology the implications for nigeria s economic development",
+    "title": "Globalization and transfer of technology: The implications for Nigeria's economic development",
+    "authors": [
+      "MO JOHNSON"
+    ],
+    "year": 2024,
+    "venue": "International Journal of Public Administration …",
+    "citations": 5,
+    "url": "https://ojs.unimal.ac.id/ijpas/article/view/15427",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Sticking Together or Falling Apart?: Solidarity in an Era of Individualization and Globalization",
+    "cache_key": "sticking together or falling apart solidarity in an era of individualization and globalization",
+    "title": "Sticking together or falling apart?: Solidarity in an era of individualization and globalization",
+    "authors": [
+      "P De Beer",
+      "F Koster"
+    ],
+    "year": 2009,
+    "venue": "NA",
+    "citations": 252,
+    "url": "https://library.oapen.org/handle/20.500.12657/34965",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback",
+    "cache_key": "test time preference optimization on the fly alignment via iterative textual feedback",
+    "title": "Test-time preference optimization: On-the-fly alignment via iterative textual feedback",
+    "authors": [
+      "Y Li",
+      "X Hu",
+      "X Qu",
+      "L Li",
+      "Y Cheng"
+    ],
+    "year": 2025,
+    "venue": "arXiv preprint arXiv:2501.12895",
+    "citations": 31,
+    "url": "https://arxiv.org/abs/2501.12895",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Microbiome composition shapes rapid genomic adaptation of Drosophila melanogaster",
+    "cache_key": "microbiome composition shapes rapid genomic adaptation of drosophila melanogaster",
+    "title": "Microbiome composition shapes rapid genomic adaptation of Drosophila melanogaster",
+    "authors": [
+      "SM Rudman",
+      "S Greenblum",
+      "RC Hughes"
+    ],
+    "year": 1907,
+    "venue": "Proceedings of the …",
+    "citations": 157,
+    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.1907787116",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "A generalised approach to the study and understanding of adaptive evolution",
+    "cache_key": "a generalised approach to the study and understanding of adaptive evolution",
+    "title": "A generalised approach to the study and understanding of adaptive evolution",
+    "authors": [
+      "P Edelaar",
+      "J Otsuka",
+      "VJ Luque"
+    ],
+    "year": 2022,
+    "venue": "Biological Reviews",
+    "citations": 28,
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/brv.12910",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Transcription factors and evolution: An integral part of gene expression (Review)",
+    "cache_key": "transcription factors and evolution an integral part of gene expression review",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "citations": null,
+    "url": null,
+    "source": "ASTA",
+    "error": "no_result"
+  },
+  {
+    "input_title": "Advances in Diversity",
+    "cache_key": "advances in diversity",
+    "title": "Recent advances in diversity oriented synthesis through isatin‐based multicomponent reactions",
+    "authors": [
+      "Y Liu",
+      "H Wang",
+      "J Wan"
+    ],
+    "year": 2012,
+    "venue": "Asian Journal of Organic Chemistry",
+    "citations": 242,
+    "url": "https://aces.onlinelibrary.wiley.com/doi/abs/10.1002/ajoc.201200180",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "The Obesity–Epigenetics–Microbiome Axis: Strategies for Therapeutic Intervention",
+    "cache_key": "the obesity epigenetics microbiome axis strategies for therapeutic intervention",
+    "title": "The Obesity–Epigenetics–Microbiome Axis: Strategies for Therapeutic Intervention",
+    "authors": [
+      "S Nohesara",
+      "H Mostafavi Abdolmaleky",
+      "A Pirani"
+    ],
+    "year": 2025,
+    "venue": "Nutrients",
+    "citations": 7,
+    "url": "https://www.mdpi.com/2072-6643/17/9/1564",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Coupling of green and brown food webs and ecosystem stability",
+    "cache_key": "coupling of green and brown food webs and ecosystem stability",
+    "title": "Coupling of green and brown food webs and ecosystem stability",
+    "authors": [
+      "A Mougi"
+    ],
+    "year": 2020,
+    "venue": "Ecology and Evolution",
+    "citations": 38,
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.6586",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Exploring the Dynamics of Ecosystem Balance Research: A Bibliometric Analysis to Uncover Research Focus and Disciplinary Contributions",
+    "cache_key": "exploring the dynamics of ecosystem balance research a bibliometric analysis to uncover research focus and disciplinary contributions",
+    "title": "Exploring the Dynamics of Ecosystem Balance Research: A Bibliometric Analysis to Uncover Research Focus and Disciplinary Contributions",
+    "authors": [
+      "D Anurogo",
+      "EK Devi",
+      "S Sarwono",
+      "L Nurina"
+    ],
+    "year": 2023,
+    "venue": "NA",
+    "citations": 4,
+    "url": null,
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Rethinking Competition as a Non-Beneficial Mechanism in Economic Systems",
+    "cache_key": "rethinking competition as a non beneficial mechanism in economic systems",
+    "title": "Rethinking Competition as a Non-Beneficial Mechanism in Economic Systems",
+    "authors": [
+      "MS Tedesco",
+      "G Marquez"
+    ],
+    "year": 2025,
+    "venue": "arXiv preprint arXiv:2506.11405",
+    "citations": 1,
+    "url": "https://arxiv.org/abs/2506.11405",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "The principal factors responsible for biodiversity loss",
+    "cache_key": "the principal factors responsible for biodiversity loss",
+    "title": "The principal factors responsible for biodiversity loss",
+    "authors": [
+      "V Singh",
+      "S Shukla",
+      "A Singh"
+    ],
+    "year": 2021,
+    "venue": "Open Journal of Plant Science",
+    "citations": 124,
+    "url": "https://www.academia.edu/download/101397970/OJPS-6-126.pdf",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Student teachers’ conceptual understanding of biodiversity loss in a multiple-source learning environment",
+    "cache_key": "student teachers conceptual understanding of biodiversity loss in a multiple source learning environment",
+    "title": "Student teachers' conceptual understanding of biodiversity loss in a multiple-source learning environment",
+    "authors": [
+      "M Heikkilä",
+      "M Häkkinen",
+      "A Vidbäck"
+    ],
+    "year": 2024,
+    "venue": "Environmental …",
+    "citations": 1,
+    "url": "https://www.tandfonline.com/doi/abs/10.1080/13504622.2024.2436110",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Legally binding and ambitious biodiversity protection under the CBD",
+    "cache_key": "legally binding and ambitious biodiversity protection under the cbd",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "citations": null,
+    "url": null,
+    "source": "ASTA",
+    "error": "no_result"
+  },
+  {
+    "input_title": "Unbiased population heterozygosity estimates from genome-wide sequence data",
+    "cache_key": "unbiased population heterozygosity estimates from genome wide sequence data",
+    "title": "Unbiased population heterozygosity estimates from genome‐wide sequence data",
+    "authors": [
+      "TL Schmidt",
+      "ME Jasper",
+      "AR Weeks"
+    ],
+    "year": 2021,
+    "venue": "Methods in Ecology …",
+    "citations": 193,
+    "url": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13659",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Rescued back from extinction in the wild: past",
+    "cache_key": "rescued back from extinction in the wild past",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "citations": null,
+    "url": null,
+    "source": "ASTA",
+    "error": "no_result"
+  },
+  {
+    "input_title": "k-mer-based approaches to bridging pangenomics and population genetics",
+    "cache_key": "k mer based approaches to bridging pangenomics and population genetics",
+    "title": "K-mer-based Approaches to Bridging Pangenomics and Population Genetics",
+    "authors": [
+      "MD Roberts",
+      "O Davis",
+      "EB Josephs"
+    ],
+    "year": 2025,
+    "venue": "Molecular biology and …",
+    "citations": 10,
+    "url": "https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaf047/8052716",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Randomized Controlled Trials",
+    "cache_key": "randomized controlled trials",
+    "title": "Randomized controlled trials",
+    "authors": [
+      "EC Zabor",
+      "AM Kaizer",
+      "BP Hobbs"
+    ],
+    "year": 2030,
+    "venue": "Chest",
+    "citations": 326,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0012369220304633",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Randomized Controlled Trials and Challenge Trials: Design and Criterion for Validity",
+    "cache_key": "randomized controlled trials and challenge trials design and criterion for validity",
+    "title": "Randomized controlled trials and challenge trials: design and criterion for validity",
+    "authors": [
+      "JM Sargeant",
+      "DF Kelton"
+    ],
+    "year": 2014,
+    "venue": "Zoonoses and Public …",
+    "citations": 32,
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/zph.12126",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Primer of Epidemiology IV. Study designs II: Interventional or experimental designs.",
+    "cache_key": "primer of epidemiology iv study designs ii interventional or experimental designs",
+    "title": "Primer of Epidemiology IV: Study designs II: Interventional or experimental designs",
+    "authors": [
+      "K Singh",
+      "P Gupta"
+    ],
+    "year": 2022,
+    "venue": "The National medical …",
+    "citations": 3,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9005330/",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "The influence of social and spatial processes on the epidemiology of environmentally transmitted pathogens in wildlife: implications for management",
+    "cache_key": "the influence of social and spatial processes on the epidemiology of environmentally transmitted pathogens in wildlife implications for management",
+    "title": "The influence of social and spatial processes on the epidemiology of environmentally transmitted pathogens in wildlife: implications for management",
+    "authors": [
+      "A Pandey",
+      "C Wojan",
+      "A Feuka"
+    ],
+    "year": 2022,
+    "venue": "Philosophical …",
+    "citations": 7,
+    "url": "https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2022.0532",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "A Taxonomy for Agent-Based Models in Human Infectious Disease Epidemiology",
+    "cache_key": "a taxonomy for agent based models in human infectious disease epidemiology",
+    "title": "A taxonomy for agent-based models in human infectious disease epidemiology",
+    "authors": [
+      "E Hunter",
+      "B Mac Namee"
+    ],
+    "year": 2017,
+    "venue": "Journal of Artificial …",
+    "citations": 196,
+    "url": "http://jasss.soc.surrey.ac.uk/20/3/2.html",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "The potential health impacts of climate variability and change for the United States: executive summary of the report of the health sector of the U.S. National Assessment.",
+    "cache_key": "the potential health impacts of climate variability and change for the united states executive summary of the report of the health sector of the u s national assessment",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "citations": null,
+    "url": null,
+    "source": "ASTA",
+    "error": "no_result"
+  },
+  {
+    "input_title": "Estimating the health impact of vaccination against ten pathogens in 98 low-income and middle-income countries from 2000 to 2030: a modelling study",
+    "cache_key": "estimating the health impact of vaccination against ten pathogens in 98 low income and middle income countries from 2000 to 2030 a modelling study",
+    "title": "Estimating the health impact of vaccination against ten pathogens in 98 low-income and middle-income countries from 2000 to 2030: a modelling study",
+    "authors": [
+      "X Li",
+      "C Mukandavire",
+      "ZM Cucunubá",
+      "SE Londono"
+    ],
+    "year": 2000,
+    "venue": "The Lancet",
+    "citations": 315,
+    "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32657-X/fulltext?from=article_link",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Access to Vaccination among Disadvantaged",
+    "cache_key": "access to vaccination among disadvantaged",
+    "title": "Access to vaccination among disadvantaged, isolated and difficult-to-reach communities in the WHO European region: a systematic review",
+    "authors": [
+      "W Ekezie",
+      "S Awwad",
+      "A Krauchenberg",
+      "N Karara"
+    ],
+    "year": 2022,
+    "venue": "Vaccines",
+    "citations": 102,
+    "url": "https://www.mdpi.com/2076-393X/10/7/1038",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Drivers of inappropriate antibiotic use in low- and middle-income countries",
+    "cache_key": "drivers of inappropriate antibiotic use in low and middle income countries",
+    "title": "Drivers of inappropriate antibiotic use in low-and middle-income countries",
+    "authors": [
+      "II Otaigbe",
+      "CJ Elikwu"
+    ],
+    "year": 2023,
+    "venue": "JAC-Antimicrobial Resistance",
+    "citations": 152,
+    "url": "https://academic.oup.com/jacamr/article-abstract/5/3/dlad062/7187015",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "What makes clinical research ethical?",
+    "cache_key": "what makes clinical research ethical",
+    "title": "What makes clinical research ethical?",
+    "authors": [
+      "EJ Emanuel",
+      "D Wendler",
+      "C Grady"
+    ],
+    "year": 2000,
+    "venue": "Research Ethics",
+    "citations": 3945,
+    "url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781315244426-23&type=chapterpdf",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Ethical Consideration in Clinical Trials",
+    "cache_key": "ethical consideration in clinical trials",
+    "title": "Clinical Trial Ethical Challenges in Low-and Middle-Income Countries: A Review of Systematic Review",
+    "authors": [
+      "KH Ooi",
+      "PB Ooi",
+      "HJJ Teng",
+      "CW Phan"
+    ],
+    "year": 2025,
+    "venue": "NA",
+    "citations": 0,
+    "url": "https://www.researchsquare.com/article/rs-8292062/latest",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Medical Ethics of Pediatric Care",
+    "cache_key": "medical ethics of pediatric care",
+    "title": "Medical Ethics of Pediatric Care",
+    "authors": [
+      "SY Alwaddah",
+      "OI Alhaidari"
+    ],
+    "year": 2023,
+    "venue": "Saudi J Med Pharm Sci",
+    "citations": 0,
+    "url": "https://saudijournals.com/media/articles/SJMPS_94_231-236_FT.pdf",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Discounting Health Grades for Disparity: The 2021 Wisconsin Population Health and Equity Report Card",
+    "cache_key": "discounting health grades for disparity the 2021 wisconsin population health and equity report card",
+    "title": "Discounting Health Grades for Disparity: The 2021 Wisconsin Population Health and Equity Report Card",
+    "authors": [
+      "H Olson-Williams",
+      "KP Gennuso"
+    ],
+    "year": 2021,
+    "venue": "Preventing Chronic …",
+    "citations": 0,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10109478/",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Addressing inequities in medical care",
+    "cache_key": "addressing inequities in medical care",
+    "title": "Addressing Inequities in Medical Care: A Comprehensive Examination of Global Health Disparities",
+    "authors": [
+      "ES Alenizi",
+      "MN Alharbi",
+      "HF Alanazi",
+      "BK Aldhahawi"
+    ],
+    "year": 2024,
+    "venue": "International journal of …",
+    "citations": 1,
+    "url": "https://www.neliti.com/publications/580847/addressing-inequities-in-medical-care-a-comprehensive-examination-of-global-heal",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "A Summary Measure of Health Disparity",
+    "cache_key": "a summary measure of health disparity",
+    "title": "A summary measure of health disparity",
+    "authors": [
+      "JN Pearcy",
+      "KG Keppel"
+    ],
+    "year": 2002,
+    "venue": "Public health reports",
+    "citations": 245,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1497430/",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Climate change reshuffles northern species within their niches",
+    "cache_key": "climate change reshuffles northern species within their niches",
+    "title": "Climate change reshuffles northern species within their niches",
+    "authors": [
+      "LH Antão",
+      "B Weigel",
+      "G Strona",
+      "M Hällfors"
+    ],
+    "year": 2022,
+    "venue": "Nature Climate …",
+    "citations": 190,
+    "url": "https://www.nature.com/articles/s41558-022-01381-x",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Assessing the impacts of climate change on biodiversity: is below 2 °C enough?",
+    "cache_key": "assessing the impacts of climate change on biodiversity is below 2 c enough",
+    "title": "Assessing the impacts of climate change on biodiversity: is below 2° C enough?",
+    "authors": [
+      "S Nunez",
+      "E Arets",
+      "R Alkemade",
+      "C Verwer",
+      "R Leemans"
+    ],
+    "year": 2019,
+    "venue": "Climatic Change",
+    "citations": 331,
+    "url": "https://link.springer.com/article/10.1007/s10584-019-02420-x",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Future effects of climate and land-use change on terrestrial vertebrate community diversity under different scenarios",
+    "cache_key": "future effects of climate and land use change on terrestrial vertebrate community diversity under different scenarios",
+    "title": "Future effects of climate and land-use change on terrestrial vertebrate community diversity under different scenarios",
+    "authors": [
+      "T Newbold"
+    ],
+    "year": 2018,
+    "venue": "Proceedings of the Royal Society b",
+    "citations": 570,
+    "url": "https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2018.0792",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "A novel carbon emission monitoring method for power generation enterprises based on hybrid transformer model",
+    "cache_key": "a novel carbon emission monitoring method for power generation enterprises based on hybrid transformer model",
+    "title": "A novel carbon emission monitoring method for power generation enterprises based on hybrid transformer model",
+    "authors": [
+      "Y Jiang",
+      "Z Mao"
+    ],
+    "year": 2025,
+    "venue": "Scientific Reports",
+    "citations": 7,
+    "url": "https://www.nature.com/articles/s41598-024-82188-y",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "An Accurate Carbon Accounting Model Based on the Micro-level Process Principles for the Lean Carbon Management in the Blast Furnace Ironmaking",
+    "cache_key": "an accurate carbon accounting model based on the micro level process principles for the lean carbon management in the blast furnace ironmaking",
+    "title": "An Accurate Carbon Accounting Model Based on the Micro-level Process Principles for the Lean Carbon Management in the Blast Furnace Ironmaking",
+    "authors": [
+      "S Yu",
+      "F Lin",
+      "G Zhao",
+      "Z Zhang",
+      "H Zhang"
+    ],
+    "year": 2021,
+    "venue": "NA",
+    "citations": 0,
+    "url": "https://www.researchsquare.com/article/rs-435039/latest",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "State-of-the-art carbon metering: Continuous emission monitoring systems for industrial applications",
+    "cache_key": "state of the art carbon metering continuous emission monitoring systems for industrial applications",
+    "title": "State-of-the-art carbon metering: Continuous emission monitoring systems for industrial applications",
+    "authors": [
+      "N Ding",
+      "Y Xi",
+      "W Jiang",
+      "H Li",
+      "J Su",
+      "S Yang",
+      "TT Lie"
+    ],
+    "year": 2025,
+    "venue": "Heliyon",
+    "citations": 14,
+    "url": "https://www.cell.com/heliyon/fulltext/S2405-8440(25)00688-7",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "A function-based typology for Earth’s ecosystems",
+    "cache_key": "a function based typology for earth s ecosystems",
+    "title": "A function-based typology for Earth's ecosystems",
+    "authors": [
+      "DA Keith",
+      "JR Ferrer-Paris",
+      "E Nicholson",
+      "MJ Bishop"
+    ],
+    "year": 2022,
+    "venue": "Nature",
+    "citations": 357,
+    "url": "https://www.nature.com/articles/s41586-022-05318-4",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Recent pace of change in human impact on the world’s ocean",
+    "cache_key": "recent pace of change in human impact on the world s ocean",
+    "title": "Recent pace of change in human impact on the world's ocean",
+    "authors": [
+      "BS Halpern",
+      "M Frazier",
+      "J Afflerbach",
+      "JS Lowndes"
+    ],
+    "year": 2019,
+    "venue": "Scientific reports",
+    "citations": 984,
+    "url": "https://www.nature.com/articles/s41598-019-47201-9",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Exploring variability in environmental impact risk from human activities across aquatic ecosystems.",
+    "cache_key": "exploring variability in environmental impact risk from human activities across aquatic ecosystems",
+    "title": "Exploring variability in environmental impact risk from human activities across aquatic ecosystems",
+    "authors": [
+      "F Borgwardt",
+      "L Robinson",
+      "D Trauner",
+      "H Teixeira"
+    ],
+    "year": 2019,
+    "venue": "Science of the total …",
+    "citations": 188,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0048969718342396",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "The PESERA-DESMICE Modeling Framework for Spatial Assessment of the Physical Impact and Economic Viability of Land Degradation Mitigation Technologies",
+    "cache_key": "the pesera desmice modeling framework for spatial assessment of the physical impact and economic viability of land degradation mitigation technologies",
+    "title": "The PESERA-DESMICE modeling framework for spatial assessment of the physical impact and economic viability of land degradation mitigation technologies",
+    "authors": [
+      "L Fleskens",
+      "MJ Kirkby",
+      "BJ Irvine"
+    ],
+    "year": 2016,
+    "venue": "Frontiers in Environmental Science",
+    "citations": 12,
+    "url": "https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2016.00031/full",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Analysing the influence of foreign direct investment and urbanization on the development of private financial system and its ecological footprint",
+    "cache_key": "analysing the influence of foreign direct investment and urbanization on the development of private financial system and its ecological footprint",
+    "title": "Analysing the influence of foreign direct investment and urbanization on the development of private financial system and its ecological footprint",
+    "authors": [
+      "P Ponce",
+      "J Álvarez-García",
+      "V Álvarez"
+    ],
+    "year": 2022,
+    "venue": "Environmental Science and …",
+    "citations": 50,
+    "url": "https://link.springer.com/article/10.1007/s11356-022-22772-9",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Dynamic impacts of energy use",
+    "cache_key": "dynamic impacts of energy use",
+    "title": "Dynamic impacts of energy use, agricultural land expansion, and deforestation on CO2 emissions in Malaysia",
+    "authors": [
+      "A Raihan",
+      "RA Begum",
+      "M Nizam",
+      "M Said"
+    ],
+    "year": 2022,
+    "venue": "… and Ecological Statistics",
+    "citations": 220,
+    "url": "https://link.springer.com/article/10.1007/s10651-022-00532-9",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "The ‘European Green Deal’ – a paradigm shift? Transformations in the European Union’s sustainability meta-discourse",
+    "cache_key": "the european green deal a paradigm shift transformations in the european union s sustainability meta discourse",
+    "title": "The 'European Green Deal'–a paradigm shift? Transformations in the European Union's sustainability meta-discourse",
+    "authors": [
+      "S Schunz"
+    ],
+    "year": 2022,
+    "venue": "Political Research Exchange",
+    "citations": 124,
+    "url": "https://www.tandfonline.com/doi/abs/10.1080/2474736X.2022.2085121",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Operationalising sustainability? Why sustainability fails as an investment criterion for safeguarding the future",
+    "cache_key": "operationalising sustainability why sustainability fails as an investment criterion for safeguarding the future",
+    "title": "Operationalising sustainability? Why sustainability fails as an investment criterion for safeguarding the future",
+    "authors": [
+      "S Friederich",
+      "J Symons"
+    ],
+    "year": 2022,
+    "venue": "Global Policy",
+    "citations": 6,
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1758-5899.13160",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Assessment of the Development of Professional Skills in University Students: Sustainability and Serious Games",
+    "cache_key": "assessment of the development of professional skills in university students sustainability and serious games",
+    "title": "Assessment of the development of professional skills in university students: Sustainability and serious games",
+    "authors": [
+      "N Peña Miguel",
+      "J Corral Lage",
+      "A Mata Galindez"
+    ],
+    "year": 2020,
+    "venue": "Sustainability",
+    "citations": 67,
+    "url": "https://www.mdpi.com/2071-1050/12/3/1014",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "STARE DECISIS AND INFORMATION ABUNDANCE IN A COMMON LAW JURISDICTION",
+    "cache_key": "stare decisis and information abundance in a common law jurisdiction",
+    "title": "Stare decisis and information abundance in a common law jurisdiction",
+    "authors": [
+      "E Roscoe",
+      "C Szypszak"
+    ],
+    "year": 2022,
+    "venue": "Rev. Eur. & Comp. L.",
+    "citations": 0,
+    "url": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/recol49&section=4",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "CONSTITUTIONAL PRECEDENT IN THE US SUPREME COURT REASONING",
+    "cache_key": "constitutional precedent in the us supreme court reasoning",
+    "title": "Constitutional Precedent in the US Supreme Court Reasoning",
+    "authors": [
+      "D Schultz"
+    ],
+    "year": 2022,
+    "venue": "FACTA UNIVERSITATIS-Law and Politics",
+    "citations": 1,
+    "url": "https://www.ceeol.com/search/article-detail?id=1301431",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "The Authority of Precedents in Civil Law Systems",
+    "cache_key": "the authority of precedents in civil law systems",
+    "title": "The Authority of Precedents in Civil Law Systems",
+    "authors": [
+      "B Spaić"
+    ],
+    "year": 2018,
+    "venue": "Studia Iuridica Lublinensia",
+    "citations": 10,
+    "url": "https://www.ceeol.com/search/article-detail?id=722794",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Constitutional Interpretation and Foreign Law: A Comparative Analysis between the U.S. Supreme Court and the German Federal Constitutional Court",
+    "cache_key": "constitutional interpretation and foreign law a comparative analysis between the u s supreme court and the german federal constitutional court",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "citations": null,
+    "url": null,
+    "source": "ASTA",
+    "error": "no_result"
+  },
+  {
+    "input_title": "JUDICIAL APPROACHES TO CONSTITUTIONAL INTERPRETATION IN KENYA",
+    "cache_key": "judicial approaches to constitutional interpretation in kenya",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "citations": null,
+    "url": null,
+    "source": "ASTA",
+    "error": "no_result"
+  },
+  {
+    "input_title": "Antonin Scalia’s Textualism in philosophy",
+    "cache_key": "antonin scalia s textualism in philosophy",
+    "title": "Antonin Scalia's Textualism in Philosophy",
+    "authors": [
+      "H Philipse"
+    ],
+    "year": 2009,
+    "venue": "NA",
+    "citations": 2,
+    "url": null,
+    "source": "ASTA"
+  },
+  {
+    "input_title": "The Study of Foreign Policy in International Relations",
+    "cache_key": "the study of foreign policy in international relations",
+    "title": "The study of foreign policy in international relations",
+    "authors": [
+      "AS Bojang"
+    ],
+    "year": 2018,
+    "venue": "NA",
+    "citations": 216,
+    "url": null,
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Sovereignty in the Age of Cyber",
+    "cache_key": "sovereignty in the age of cyber",
+    "title": "Sovereignty in the Age of Cyber",
+    "authors": [
+      "GP Corn",
+      "R Taylor"
+    ],
+    "year": 2017,
+    "venue": "NA",
+    "citations": 77,
+    "url": "https://www.cambridge.org/core/journals/american-journal-of-international-law/article/sovereignty-in-the-age-of-cyber/02314DFCFE00BC901C95FA6036F8CC70",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Hume’s Dynamic Coordination and International Law",
+    "cache_key": "hume s dynamic coordination and international law",
+    "title": "Hume's Dynamic Coordination and International Law",
+    "authors": [
+      "CE Pavel"
+    ],
+    "year": 2021,
+    "venue": "Political Theory",
+    "citations": 5,
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/0090591720921831",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "The technology triad: disruptive AI",
+    "cache_key": "the technology triad disruptive ai",
+    "title": "The technology triad: disruptive AI, regulatory gaps and value change",
+    "authors": [
+      "JKG Hopster",
+      "MM Maas"
+    ],
+    "year": 2023,
+    "venue": "AI and Ethics",
+    "citations": 29,
+    "url": "https://link.springer.com/article/10.1007/s43681-023-00305-5",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Copyright Law and the Lifecycle of Machine Learning Models",
+    "cache_key": "copyright law and the lifecycle of machine learning models",
+    "title": "Copyright law and the lifecycle of machine learning models",
+    "authors": [
+      "M Kretschmer",
+      "T Margoni",
+      "P Oruç"
+    ],
+    "year": 2023,
+    "venue": "IIC-International Review of Intellectual …",
+    "citations": 62,
+    "url": "https://link.springer.com/article/10.1007/s40319-023-01419-3",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "The interaction of emerging technologies with the legal field",
+    "cache_key": "the interaction of emerging technologies with the legal field",
+    "title": "The interaction of emerging technologies with the legal field",
+    "authors": [
+      "S Topor"
+    ],
+    "year": 2023,
+    "venue": "International Journal of Legal and Social Order",
+    "citations": 0,
+    "url": "https://www.ceeol.com/search/article-detail?id=1210852",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Balancing Security and Liberty: Examining Contemporary Counterterrorism Laws",
+    "cache_key": "balancing security and liberty examining contemporary counterterrorism laws",
+    "title": "Balancing Security and Liberty: Examining Contemporary Counterterrorism Laws",
+    "authors": [
+      "A Masyhar",
+      "R Arifin",
+      "AZSA Sabri"
+    ],
+    "year": 2023,
+    "venue": "NA",
+    "citations": 0,
+    "url": null,
+    "source": "ASTA"
+  },
+  {
+    "input_title": "What about fundamental rights? Security and fundamental rights in the midst of a rule of law breakdown",
+    "cache_key": "what about fundamental rights security and fundamental rights in the midst of a rule of law breakdown",
+    "title": "What about fundamental rights? Security and fundamental rights in the midst of a rule of law breakdown",
+    "authors": [
+      "C Saenz Perez"
+    ],
+    "year": 2022,
+    "venue": "New Journal of European Criminal Law",
+    "citations": 4,
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/20322844221140871",
+    "source": "ASTA"
+  },
+  {
+    "input_title": "Inter Arma",
+    "cache_key": "inter arma",
+    "title": "Inter arma: being essays written in time of war",
+    "authors": [
+      "E Gosse"
+    ],
+    "year": 1974,
+    "venue": "NA",
+    "citations": 12,
+    "url": "https://books.google.com/books?hl=en&lr=&id=xRD92dZ2UyAC&oi=fnd&pg=PR9&dq=%22Inter+Arma%22&ots=-sNiqvKH8i&sig=Yti6FLtlDCYd5a9zrk20_17h9XE",
     "source": "ASTA"
   }
 ]

@@ -1,0 +1,3756 @@
+{
+  "What are the limitations of large language models in reasoning tasks?": [
+    {
+      "question": "What are the limitations of large language models in reasoning tasks?",
+      "title": "Limitations of large language models in clinical problem-solving arising from inflexible reasoning",
+      "authors": [
+        "J Kim",
+        "A Podlasek",
+        "K Shidara",
+        "F Liu",
+        "A Alaa"
+      ],
+      "year": 2025,
+      "venue": "Scientific reports",
+      "citations": 19,
+      "url": "https://www.nature.com/articles/s41598-025-22940-0"
+    },
+    {
+      "question": "What are the limitations of large language models in reasoning tasks?",
+      "title": "On the self-verification limitations of large language models on reasoning and planning tasks",
+      "authors": [
+        "K Stechly",
+        "K Valmeekam",
+        "S Kambhampati"
+      ],
+      "year": 2024,
+      "venue": "arXiv preprint arXiv …",
+      "citations": 104,
+      "url": "https://arxiv.org/abs/2402.08115"
+    },
+    {
+      "question": "What are the limitations of large language models in reasoning tasks?",
+      "title": "Reasoning or reciting? exploring the capabilities and limitations of language models through counterfactual tasks",
+      "authors": [
+        "Z Wu",
+        "L Qiu",
+        "A Ross",
+        "E Akyürek",
+        "B Chen",
+        "B Wang"
+      ],
+      "year": 2024,
+      "venue": "NA",
+      "citations": 308,
+      "url": "https://open.bu.edu/bitstreams/8faf03b2-0aa7-4d11-96a9-5c59f92235b7/download"
+    }
+  ],
+  "How does transformer architecture compare to recurrent neural networks?": [
+    {
+      "question": "How does transformer architecture compare to recurrent neural networks?",
+      "title": "A comparison of transformer and recurrent neural networks on multilingual neural machine translation",
+      "authors": [
+        "SM Lakew",
+        "M Cettolo",
+        "M Federico"
+      ],
+      "year": 2021,
+      "venue": "Proceedings of the 27th …",
+      "citations": 202,
+      "url": "https://aclanthology.org/C18-1054/"
+    },
+    {
+      "question": "How does transformer architecture compare to recurrent neural networks?",
+      "title": "A comparative study on transformer vs rnn in speech applications",
+      "authors": [
+        "S Karita",
+        "N Chen",
+        "T Hayashi",
+        "T Hori"
+      ],
+      "year": 2019,
+      "venue": "2019 IEEE automatic …",
+      "citations": 1016,
+      "url": "https://ieeexplore.ieee.org/abstract/document/9003750/"
+    },
+    {
+      "question": "How does transformer architecture compare to recurrent neural networks?",
+      "title": "R-transformer: Recurrent neural network enhanced transformer",
+      "authors": [
+        "Z Wang",
+        "Y Ma",
+        "Z Liu",
+        "J Tang"
+      ],
+      "year": 1907,
+      "venue": "arXiv preprint arXiv:1907.05572",
+      "citations": 173,
+      "url": "https://arxiv.org/abs/1907.05572"
+    }
+  ],
+  "What biases emerge in large-scale machine learning models?": [
+    {
+      "question": "What biases emerge in large-scale machine learning models?",
+      "title": "Should chatgpt be biased? challenges and risks of bias in large language models",
+      "authors": [
+        "E Ferrara"
+      ],
+      "year": 2023,
+      "venue": "arXiv preprint arXiv:2304.03738",
+      "citations": 670,
+      "url": "https://arxiv.org/abs/2304.03738"
+    },
+    {
+      "question": "What biases emerge in large-scale machine learning models?",
+      "title": "Biases in large language models: origins, inventory, and discussion",
+      "authors": [
+        "R Navigli",
+        "S Conia",
+        "B Ross"
+      ],
+      "year": 2023,
+      "venue": "ACM Journal of Data and Information …",
+      "citations": 576,
+      "url": "https://dl.acm.org/doi/abs/10.1145/3597307"
+    },
+    {
+      "question": "What biases emerge in large-scale machine learning models?",
+      "title": "A survey on bias and fairness in machine learning",
+      "authors": [
+        "N Mehrabi",
+        "F Morstatter",
+        "N Saxena",
+        "K Lerman"
+      ],
+      "year": 2021,
+      "venue": "ACM computing …",
+      "citations": 8474,
+      "url": "https://dl.acm.org/doi/abs/10.1145/3457607"
+    }
+  ],
+  "How does model size affect generalization performance?": [
+    {
+      "question": "How does model size affect generalization performance?",
+      "title": "On the size of convolutional neural networks and generalization performance",
+      "authors": [
+        "M Kabkab",
+        "E Hand",
+        "R Chellappa"
+      ],
+      "year": 2016,
+      "venue": "2016 23rd International …",
+      "citations": 21,
+      "url": "https://ieeexplore.ieee.org/abstract/document/7900188/"
+    },
+    {
+      "question": "How does model size affect generalization performance?",
+      "title": "How initial conditions affect generalization performance in large networks",
+      "authors": [
+        "A Atiya",
+        "C Ji"
+      ],
+      "year": 1997,
+      "venue": "IEEE transactions on neural networks",
+      "citations": 102,
+      "url": "https://ieeexplore.ieee.org/abstract/document/557701/"
+    },
+    {
+      "question": "How does model size affect generalization performance?",
+      "title": "Train longer, generalize better: closing the generalization gap in large batch training of neural networks",
+      "authors": [
+        "E Hoffer",
+        "I Hubara",
+        "D Soudry"
+      ],
+      "year": 2017,
+      "venue": "Advances in neural …",
+      "citations": 1117,
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2017/hash/a5e0ff62be0b08456fc7f1e88812af3d-Abstract.html"
+    }
+  ],
+  "What evaluation methods are used for generative AI systems?": [
+    {
+      "question": "What evaluation methods are used for generative AI systems?",
+      "title": "The power of generative ai: A review of requirements, models, input–output formats, evaluation metrics, and challenges",
+      "authors": [
+        "A Bandi",
+        "PVSR Adapa",
+        "YEVPK Kuchi"
+      ],
+      "year": 1999,
+      "venue": "Future Internet",
+      "citations": 756,
+      "url": "https://www.mdpi.com/1999-5903/15/8/260"
+    },
+    {
+      "question": "What evaluation methods are used for generative AI systems?",
+      "title": "Toward an evaluation science for generative ai systems",
+      "authors": [
+        "L Weidinger",
+        "ID Raji",
+        "H Wallach",
+        "M Mitchell"
+      ],
+      "year": 2024,
+      "venue": "arXiv preprint arXiv …",
+      "citations": 31,
+      "url": "https://arxiv.org/abs/2503.05336"
+    },
+    {
+      "question": "What evaluation methods are used for generative AI systems?",
+      "title": "Evaluating generative AI applications",
+      "authors": [
+        "R Modake",
+        "D Patil"
+      ],
+      "year": 2024,
+      "venue": "Available at SSRN 5032389",
+      "citations": 3,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5032389"
+    }
+  ],
+  "How do academic search engines rank scholarly articles?": [
+    {
+      "question": "How do academic search engines rank scholarly articles?",
+      "title": "Google's PageRank and beyond: The science of search engine rankings",
+      "authors": [
+        "AN Langville",
+        "CD Meyer"
+      ],
+      "year": 2008,
+      "venue": "NA",
+      "citations": 2601,
+      "url": "https://www.torrossa.com/gs/resourceProxy?an=5642515&publisher=FZO137"
+    },
+    {
+      "question": "How do academic search engines rank scholarly articles?",
+      "title": "Search engines and the production of academic knowledge",
+      "authors": [
+        "J Van Dijck"
+      ],
+      "year": 2010,
+      "venue": "International journal of cultural studies",
+      "citations": 122,
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/1367877910376582"
+    },
+    {
+      "question": "How do academic search engines rank scholarly articles?",
+      "title": "Academic search engines: A quantitative outlook",
+      "authors": [
+        "JL Ortega"
+      ],
+      "year": 2015,
+      "venue": "NA",
+      "citations": 117,
+      "url": "https://books.google.com/books?hl=en&lr=&id=uelfAwAAQBAJ&oi=fnd&pg=PP1&dq=How+do+academic+search+engines+rank+scholarly+articles%3F&ots=uoTu51m_7X&sig=o0lp-J-2LtAeGbs-AxlEzWp8FJo"
+    }
+  ],
+  "What role do citations play in information retrieval systems?": [
+    {
+      "question": "What role do citations play in information retrieval systems?",
+      "title": "Comparing citation contexts for information retrieval",
+      "authors": [
+        "A Ritchie",
+        "S Robertson",
+        "S Teufel"
+      ],
+      "year": 2008,
+      "venue": "… 17th ACM conference on Information …",
+      "citations": 138,
+      "url": "https://dl.acm.org/doi/abs/10.1145/1458082.1458113"
+    },
+    {
+      "question": "What role do citations play in information retrieval systems?",
+      "title": "From research to application: The CITE natural language information retrieval system",
+      "authors": [
+        "TE Doszkoos"
+      ],
+      "year": null,
+      "venue": "… on Research and Development in Information Retrieval",
+      "citations": 50,
+      "url": "https://link.springer.com/chapter/10.1007/bfb0036350"
+    },
+    {
+      "question": "What role do citations play in information retrieval systems?",
+      "title": "How many relevances in information retrieval?",
+      "authors": [
+        "S Mizzaro"
+      ],
+      "year": 1998,
+      "venue": "Interacting with computers",
+      "citations": 435,
+      "url": "https://ieeexplore.ieee.org/abstract/document/8160827/"
+    }
+  ],
+  "How does semantic search improve document retrieval?": [
+    {
+      "question": "How does semantic search improve document retrieval?",
+      "title": "Using BM25F for semantic search",
+      "authors": [
+        "JR Pérez-Agüera",
+        "J Arroyo",
+        "J Greenberg"
+      ],
+      "year": 2010,
+      "venue": "… semantic search …",
+      "citations": 120,
+      "url": "https://dl.acm.org/doi/abs/10.1145/1863879.1863881"
+    },
+    {
+      "question": "How does semantic search improve document retrieval?",
+      "title": "Semantic search",
+      "authors": [
+        "J Davies",
+        "A Duke",
+        "A Kiryakov"
+      ],
+      "year": 2007,
+      "venue": "Information Retrieval: Searching …",
+      "citations": 11,
+      "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470033647#page=192"
+    },
+    {
+      "question": "How does semantic search improve document retrieval?",
+      "title": "A semantic document retrieval system with semantic search technique based on knowledge base and graph representation",
+      "authors": [
+        "TTT Huynh",
+        "NV Do",
+        "TAN Pham"
+      ],
+      "year": 2018,
+      "venue": "New Trends in Intelligent …",
+      "citations": 11,
+      "url": "https://ebooks.iospress.nl/doi/10.3233/978-1-61499-900-3-870"
+    }
+  ],
+  "What are common evaluation metrics for search relevance?": [
+    {
+      "question": "What are common evaluation metrics for search relevance?",
+      "title": "On search engine evaluation metrics",
+      "authors": [
+        "P Sirotkin"
+      ],
+      "year": 2013,
+      "venue": "arXiv preprint arXiv:1302.2318",
+      "citations": 26,
+      "url": "https://arxiv.org/abs/1302.2318"
+    },
+    {
+      "question": "What are common evaluation metrics for search relevance?",
+      "title": "Types of Metrics for Search Evaluation",
+      "authors": [
+        "M Stone"
+      ],
+      "year": 2022,
+      "venue": "Understanding and Evaluating Search Experience",
+      "citations": 1,
+      "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-79216-8_7?pdf=chapter%20toc"
+    },
+    {
+      "question": "What are common evaluation metrics for search relevance?",
+      "title": "Beyond independent relevance: methods and evaluation metrics for subtopic retrieval",
+      "authors": [
+        "CX Zhai",
+        "WW Cohen",
+        "J Lafferty"
+      ],
+      "year": 2003,
+      "venue": "Acm sigir forum",
+      "citations": 801,
+      "url": "https://dl.acm.org/doi/abs/10.1145/2795403.2795405"
+    }
+  ],
+  "How do citation networks influence search rankings?": [
+    {
+      "question": "How do citation networks influence search rankings?",
+      "title": "PageRank for ranking authors in co‐citation networks",
+      "authors": [
+        "Y Ding",
+        "E Yan",
+        "A Frazho"
+      ],
+      "year": 2009,
+      "venue": "Journal of the American …",
+      "citations": 606,
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.21171"
+    },
+    {
+      "question": "How do citation networks influence search rankings?",
+      "title": "Measuring the academic reputation through citation networks via PageRank",
+      "authors": [
+        "FA Massucci",
+        "D Docampo"
+      ],
+      "year": 2019,
+      "venue": "Journal of Informetrics",
+      "citations": 111,
+      "url": "https://www.sciencedirect.com/science/article/pii/S175115771830110X"
+    },
+    {
+      "question": "How do citation networks influence search rankings?",
+      "title": "CiteRank: A method to evaluate researchers influence based on citation and collaboration networks",
+      "authors": [
+        "F Angiulli",
+        "F Fassetti",
+        "C Serrao"
+      ],
+      "year": 2022,
+      "venue": "European Conference on Advances in …",
+      "citations": 1,
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-15743-1_37"
+    }
+  ],
+  "How does distributed consensus work in fault-tolerant systems?": [
+    {
+      "question": "How does distributed consensus work in fault-tolerant systems?",
+      "title": "Understanding fault-tolerant distributed systems",
+      "authors": [
+        "F Cristian"
+      ],
+      "year": 1991,
+      "venue": "Communications of the ACM",
+      "citations": 1271,
+      "url": "https://dl.acm.org/doi/abs/10.1145/102792.102801"
+    },
+    {
+      "question": "How does distributed consensus work in fault-tolerant systems?",
+      "title": "Distributed consensus protocols and algorithms",
+      "authors": [
+        "Y Xiao",
+        "N Zhang",
+        "J Li",
+        "W Lou"
+      ],
+      "year": 2019,
+      "venue": "… for Distributed Systems …",
+      "citations": 103,
+      "url": "https://books.google.com/books?hl=en&lr=&id=cOaLDwAAQBAJ&oi=fnd&pg=PA25&dq=How+does+distributed+consensus+work+in+fault-tolerant+systems%3F&ots=AMrYQPiqg0&sig=fAn0VylkFF6xBelv8xmy0hG4CEQ"
+    },
+    {
+      "question": "How does distributed consensus work in fault-tolerant systems?",
+      "title": "Fault-tolerant distributed consensus",
+      "authors": [
+        "L Kesteloot"
+      ],
+      "year": 2025,
+      "venue": "JACM: Journal of the ACM",
+      "citations": 2,
+      "url": "https://www.teamten.com/lawrence/290.paper/290.paper.pdf"
+    }
+  ],
+  "What are the scalability limits of distributed databases?": [
+    {
+      "question": "What are the scalability limits of distributed databases?",
+      "title": "On the design and scalability of distributed shared-data databases",
+      "authors": [
+        "S Loesing",
+        "M Pilman",
+        "T Etter",
+        "D Kossmann"
+      ],
+      "year": 2015,
+      "venue": "Proceedings of the 2015 …",
+      "citations": 92,
+      "url": "https://dl.acm.org/doi/abs/10.1145/2723372.2751519"
+    },
+    {
+      "question": "What are the scalability limits of distributed databases?",
+      "title": "Databases: towards performance and scalability",
+      "authors": [
+        "S Moldovan"
+      ],
+      "year": 2008,
+      "venue": "NA",
+      "citations": 1,
+      "url": "ftp://131.254.254.45/local/caps/DEPOTS/BIBLIO2008/biblio_Moldovan_Silviu-Marius.pdf"
+    },
+    {
+      "question": "What are the scalability limits of distributed databases?",
+      "title": "Benchmarking scalability and elasticity of distributed database systems",
+      "authors": [
+        "J Kuhlenkamp",
+        "M Klems",
+        "O Röss"
+      ],
+      "year": 2014,
+      "venue": "Proceedings of the VLDB Endowment",
+      "citations": 164,
+      "url": "https://dl.acm.org/doi/abs/10.14778/2732977.2732995"
+    }
+  ],
+  "How does network latency affect cloud performance?": [
+    {
+      "question": "How does network latency affect cloud performance?",
+      "title": "Characterizing the impact of network latency on cloud-based applications' performance",
+      "authors": [
+        "DA Popescu",
+        "N Zilberman",
+        "A Moore"
+      ],
+      "year": 2013,
+      "venue": "NA",
+      "citations": 65,
+      "url": "https://www.repository.cam.ac.uk/items/dd468f08-3460-49d7-9ed7-1a4762e090e9"
+    },
+    {
+      "question": "How does network latency affect cloud performance?",
+      "title": "What we talk about when we talk about cloud network performance",
+      "authors": [
+        "JC Mogul",
+        "L Popa"
+      ],
+      "year": 2012,
+      "venue": "ACM SIGCOMM Computer Communication Review",
+      "citations": 185,
+      "url": "https://dl.acm.org/doi/abs/10.1145/2378956.2378964"
+    },
+    {
+      "question": "How does network latency affect cloud performance?",
+      "title": "Network latency impact on performance of software deployed across multiple clouds.",
+      "authors": [
+        "A Faisal",
+        "DC Petriu",
+        "CM Woodside"
+      ],
+      "year": 2015,
+      "venue": "CASCON",
+      "citations": 17,
+      "url": "https://www.academia.edu/download/79930438/CASCON13-prepub.pdf"
+    }
+  ],
+  "What are common security vulnerabilities in distributed systems?": [
+    {
+      "question": "What are common security vulnerabilities in distributed systems?",
+      "title": "Distributed systems security: issues, processes and solutions",
+      "authors": [
+        "A Belapurkar",
+        "A Chakrabarti",
+        "H Ponnapalli"
+      ],
+      "year": 2004,
+      "venue": "NA",
+      "citations": 112,
+      "url": "https://books.google.com/books?hl=en&lr=&id=7mx1zhZqfmEC&oi=fnd&pg=PR7&dq=What+are+common+security+vulnerabilities+in+distributed+systems%3F&ots=3QuOEtgdPG&sig=LtwH-WMLkTEZMWSFoQza4oaqEAk"
+    },
+    {
+      "question": "What are common security vulnerabilities in distributed systems?",
+      "title": "An extensible pattern-based library and taxonomy of security threats for distributed systems",
+      "authors": [
+        "AV Uzunov",
+        "EB Fernandez"
+      ],
+      "year": 2014,
+      "venue": "Computer Standards & Interfaces",
+      "citations": 138,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0920548913001827"
+    },
+    {
+      "question": "What are common security vulnerabilities in distributed systems?",
+      "title": "Assessing and improving the quality of security methodologies for distributed systems",
+      "authors": [
+        "AV Uzunov",
+        "EB Fernandez"
+      ],
+      "year": 1980,
+      "venue": "Journal of Software …",
+      "citations": 14,
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.1980"
+    }
+  ],
+  "How does load balancing improve system reliability?": [
+    {
+      "question": "How does load balancing improve system reliability?",
+      "title": "Load balancing to improve dependability and performance for program objects in distributed real-time co-operation over the Internet",
+      "authors": [
+        "AKY Wong",
+        "TS Dillon"
+      ],
+      "year": null,
+      "venue": "Proceedings Third IEEE International …",
+      "citations": 17,
+      "url": "https://ieeexplore.ieee.org/abstract/document/839520/"
+    },
+    {
+      "question": "How does load balancing improve system reliability?",
+      "title": "Different technique of load balancing in distributed system: A review paper",
+      "authors": [
+        "R Khan",
+        "M Haroon",
+        "MS Husain"
+      ],
+      "year": 2015,
+      "venue": "2015 Global Conference on …",
+      "citations": 29,
+      "url": "https://ieeexplore.ieee.org/abstract/document/7342686/"
+    },
+    {
+      "question": "How does load balancing improve system reliability?",
+      "title": "Load balancing and stability issues in algorithms for service composition",
+      "authors": [
+        "B Raman",
+        "RH Katz"
+      ],
+      "year": 2003,
+      "venue": "… Joint Conference of the IEEE Computer …",
+      "citations": 109,
+      "url": "https://ieeexplore.ieee.org/abstract/document/1208983/"
+    }
+  ],
+  "How do type systems prevent runtime errors?": [
+    {
+      "question": "How do type systems prevent runtime errors?",
+      "title": "Finding and preventing run-time error handling mistakes",
+      "authors": [
+        "W Weimer",
+        "GC Necula"
+      ],
+      "year": 2004,
+      "venue": "… on Object-oriented programming, systems …",
+      "citations": 190,
+      "url": "https://dl.acm.org/doi/abs/10.1145/1028976.1029011"
+    },
+    {
+      "question": "How do type systems prevent runtime errors?",
+      "title": "Debugging via run-time type checking",
+      "authors": [
+        "A Loginov",
+        "SH Yong",
+        "S Horwitz",
+        "T Reps"
+      ],
+      "year": 2001,
+      "venue": "… on Fundamental Approaches to …",
+      "citations": 105,
+      "url": "https://link.springer.com/chapter/10.1007/3-540-45314-8_16"
+    },
+    {
+      "question": "How do type systems prevent runtime errors?",
+      "title": "Runtime prevention of concurrency related type-state violations in multithreaded applications",
+      "authors": [
+        "L Zhang",
+        "C Wang"
+      ],
+      "year": 2014,
+      "venue": "Proceedings of the 2014 International Symposium on …",
+      "citations": 23,
+      "url": "https://dl.acm.org/doi/abs/10.1145/2610384.2610405"
+    }
+  ],
+  "What tradeoffs exist between static and dynamic typing?": [
+    {
+      "question": "What tradeoffs exist between static and dynamic typing?",
+      "title": "The security of static typing with dynamic linking",
+      "authors": [
+        "D Dean"
+      ],
+      "year": 1997,
+      "venue": "Proceedings of the 4th ACM Conference on Computer …",
+      "citations": 143,
+      "url": "https://dl.acm.org/doi/pdf/10.1145/266420.266428"
+    },
+    {
+      "question": "What tradeoffs exist between static and dynamic typing?",
+      "title": "Typing dynamic typing",
+      "authors": [
+        "AI Baars",
+        "SD Swierstra"
+      ],
+      "year": 2002,
+      "venue": "Proceedings of the seventh ACM SIGPLAN …",
+      "citations": 139,
+      "url": "https://dl.acm.org/doi/abs/10.1145/581478.581494"
+    },
+    {
+      "question": "What tradeoffs exist between static and dynamic typing?",
+      "title": "Dynamic typing in a statically typed language",
+      "authors": [
+        "M Abadi",
+        "L Cardelli",
+        "B Pierce",
+        "G Plotkin"
+      ],
+      "year": 1991,
+      "venue": "ACM transactions on …",
+      "citations": 561,
+      "url": "https://dl.acm.org/doi/abs/10.1145/103135.103138"
+    }
+  ],
+  "How are functional programming languages optimized?": [
+    {
+      "question": "How are functional programming languages optimized?",
+      "title": "The optimal implementation of functional programming languages",
+      "authors": [
+        "A Asperti",
+        "S Guerrini"
+      ],
+      "year": 2000,
+      "venue": "NA",
+      "citations": 239,
+      "url": "https://books.google.com/books?hl=en&lr=&id=Bod5HbPh-WwC&oi=fnd&pg=PR9&dq=How+are+functional+programming+languages+optimized%3F&ots=ajmm7jKEZD&sig=sQYwAGiEYNs0X63KTfs0YH11z_E"
+    },
+    {
+      "question": "How are functional programming languages optimized?",
+      "title": "Conception, evolution, and application of functional programming languages",
+      "authors": [
+        "P Hudak"
+      ],
+      "year": 1989,
+      "venue": "ACM Computing Surveys (CSUR)",
+      "citations": 816,
+      "url": "https://dl.acm.org/doi/abs/10.1145/72551.72554"
+    },
+    {
+      "question": "How are functional programming languages optimized?",
+      "title": "Why functional programming matters",
+      "authors": [
+        "J Hughes"
+      ],
+      "year": 1989,
+      "venue": "The computer journal",
+      "citations": 1612,
+      "url": "https://academic.oup.com/comjnl/article-abstract/32/2/98/543535"
+    }
+  ],
+  "What role do compilers play in program performance?": [
+    {
+      "question": "What role do compilers play in program performance?",
+      "title": "Compiler transformations for high-performance computing",
+      "authors": [
+        "DF Bacon",
+        "SL Graham",
+        "OJ Sharp"
+      ],
+      "year": 1974,
+      "venue": "ACM Computing Surveys (CSUR)",
+      "citations": 1565,
+      "url": "https://dl.acm.org/doi/abs/10.1145/197405.197406"
+    },
+    {
+      "question": "What role do compilers play in program performance?",
+      "title": "A survey of compiler testing",
+      "authors": [
+        "J Chen",
+        "J Patra",
+        "M Pradel",
+        "Y Xiong",
+        "H Zhang"
+      ],
+      "year": 2005,
+      "venue": "ACM Computing …",
+      "citations": 321,
+      "url": "https://dl.acm.org/doi/abs/10.1145/3363562"
+    },
+    {
+      "question": "What role do compilers play in program performance?",
+      "title": "Engineering a compiler",
+      "authors": [
+        "KD Cooper",
+        "L Torczon"
+      ],
+      "year": 2012,
+      "venue": "NA",
+      "citations": 885,
+      "url": "https://books.google.com/books?hl=en&lr=&id=xcJrEAAAQBAJ&oi=fnd&pg=PP1&dq=What+role+do+compilers+play+in+program+performance%3F&ots=OoaPPFLHP2&sig=aN8dDdPBt8E4lK2LOvcQKb62fco"
+    }
+  ],
+  "How does garbage collection impact execution efficiency?": [
+    {
+      "question": "How does garbage collection impact execution efficiency?",
+      "title": "Myths and realities: The performance impact of garbage collection",
+      "authors": [
+        "SM Blackburn",
+        "P Cheng",
+        "KS McKinley"
+      ],
+      "year": 2003,
+      "venue": "ACM SIGMETRICS Performance …",
+      "citations": 339,
+      "url": "https://dl.acm.org/doi/abs/10.1145/1012888.1005693"
+    },
+    {
+      "question": "How does garbage collection impact execution efficiency?",
+      "title": "Quantifying the performance of garbage collection vs. explicit memory management",
+      "authors": [
+        "M Hertz",
+        "ED Berger"
+      ],
+      "year": 2005,
+      "venue": "Proceedings of the 20th annual ACM SIGPLAN …",
+      "citations": 194,
+      "url": "https://dl.acm.org/doi/abs/10.1145/1094811.1094836"
+    },
+    {
+      "question": "How does garbage collection impact execution efficiency?",
+      "title": "Controlling garbage collection and heap growth to reduce the execution time of Java applications",
+      "authors": [
+        "T Brecht",
+        "E Arjomandi",
+        "C Li",
+        "H Pham"
+      ],
+      "year": 2006,
+      "venue": "ACM Transactions on …",
+      "citations": 31,
+      "url": "https://dl.acm.org/doi/abs/10.1145/1152649.1152652"
+    }
+  ],
+  "What factors influence software maintainability?": [
+    {
+      "question": "What factors influence software maintainability?",
+      "title": "A survey of key factors affecting software maintainability",
+      "authors": [
+        "B Kumar"
+      ],
+      "year": 2012,
+      "venue": "2012 International Conference on Computing …",
+      "citations": 18,
+      "url": "https://ieeexplore.ieee.org/abstract/document/6391686/"
+    },
+    {
+      "question": "What factors influence software maintainability?",
+      "title": "An empirical analysis of the impact of software development problem factors on software maintainability",
+      "authors": [
+        "JC Chen",
+        "SJ Huang"
+      ],
+      "year": 2009,
+      "venue": "Journal of Systems and Software",
+      "citations": 254,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0164121208002793"
+    },
+    {
+      "question": "What factors influence software maintainability?",
+      "title": "How does context affect the distribution of software maintainability metrics?",
+      "authors": [
+        "F Zhang",
+        "A Mockus",
+        "Y Zou",
+        "F Khomh"
+      ],
+      "year": 2013,
+      "venue": "… on Software …",
+      "citations": 87,
+      "url": "https://ieeexplore.ieee.org/abstract/document/6676906/"
+    }
+  ],
+  "How effective are code reviews in reducing defects?": [
+    {
+      "question": "How effective are code reviews in reducing defects?",
+      "title": "What types of defects are really discovered in code reviews?",
+      "authors": [
+        "MV Mäntylä",
+        "C Lassenius"
+      ],
+      "year": 2009,
+      "venue": "IEEE Transactions on Software …",
+      "citations": 328,
+      "url": "https://ieeexplore.ieee.org/abstract/document/4604671/"
+    },
+    {
+      "question": "How effective are code reviews in reducing defects?",
+      "title": "Improving the effectiveness of peer code review in identifying security defects",
+      "authors": [
+        "R Paul"
+      ],
+      "year": 2021,
+      "venue": "Proceedings of the 29th ACM Joint Meeting on …",
+      "citations": 4,
+      "url": "https://dl.acm.org/doi/abs/10.1145/3468264.3473107"
+    },
+    {
+      "question": "How effective are code reviews in reducing defects?",
+      "title": "The impact of design and code reviews on software quality: An empirical study based on psp data",
+      "authors": [
+        "CF Kemerer",
+        "MC Paulk"
+      ],
+      "year": 2009,
+      "venue": "IEEE transactions on software …",
+      "citations": 200,
+      "url": "https://ieeexplore.ieee.org/abstract/document/4815279/"
+    }
+  ],
+  "What are common causes of technical debt?": [
+    {
+      "question": "What are common causes of technical debt?",
+      "title": "An exploration of technical debt",
+      "authors": [
+        "E Tom",
+        "A Aurum",
+        "R Vidgen"
+      ],
+      "year": 2013,
+      "venue": "Journal of Systems and Software",
+      "citations": 728,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0164121213000022"
+    },
+    {
+      "question": "What are common causes of technical debt?",
+      "title": "Identification and management of technical debt: A systematic mapping study",
+      "authors": [
+        "NSR Alves",
+        "TS Mendes",
+        "MG De Mendonça"
+      ],
+      "year": 2016,
+      "venue": "… Software Technology",
+      "citations": 472,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950584915001743"
+    },
+    {
+      "question": "What are common causes of technical debt?",
+      "title": "Measuring and monitoring technical debt",
+      "authors": [
+        "C Seaman",
+        "Y Guo"
+      ],
+      "year": 2011,
+      "venue": "Advances in Computers",
+      "citations": 345,
+      "url": "https://www.sciencedirect.com/science/article/pii/B9780123855121000025"
+    }
+  ],
+  "How do agile methodologies affect project outcomes?": [
+    {
+      "question": "How do agile methodologies affect project outcomes?",
+      "title": "Does Agile work?—A quantitative analysis of agile project success",
+      "authors": [
+        "P Serrador",
+        "JK Pinto"
+      ],
+      "year": 2015,
+      "venue": "International journal of project management",
+      "citations": 1733,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0263786315000071"
+    },
+    {
+      "question": "How do agile methodologies affect project outcomes?",
+      "title": "How project management approach impact project success? From traditional to agile",
+      "authors": [
+        "D Ciric Lalic",
+        "B Lalic",
+        "M Delić",
+        "D Gracanin"
+      ],
+      "year": 2021,
+      "venue": "… of Managing Projects …",
+      "citations": 223,
+      "url": "https://www.emerald.com/insight/content/doi/10.1108/IJMPB-04-2021-0108/full/html"
+    },
+    {
+      "question": "How do agile methodologies affect project outcomes?",
+      "title": "The impact of Agile development practices on project outcomes",
+      "authors": [
+        "D Ghimire",
+        "S Charters"
+      ],
+      "year": 2022,
+      "venue": "Software",
+      "citations": 49,
+      "url": "https://www.mdpi.com/2674-113X/1/3/12"
+    }
+  ],
+  "What metrics are used to measure software quality?": [
+    {
+      "question": "What metrics are used to measure software quality?",
+      "title": "A study on software metrics and its impact on software quality",
+      "authors": [
+        "J Rashid",
+        "T Mahmood",
+        "MW Nisar"
+      ],
+      "year": 1905,
+      "venue": "arXiv preprint arXiv:1905.12922",
+      "citations": 33,
+      "url": "https://arxiv.org/abs/1905.12922"
+    },
+    {
+      "question": "What metrics are used to measure software quality?",
+      "title": "Metrics and models in software quality engineering",
+      "authors": [
+        "SH Kan"
+      ],
+      "year": 1996,
+      "venue": "NA",
+      "citations": 2624,
+      "url": "https://books.google.com/books?hl=en&lr=&id=EaefcL3pWJYC&oi=fnd&pg=PR15&dq=What+metrics+are+used+to+measure+software+quality%3F&ots=8Ggr0Tmi2F&sig=XcR5Tij1gnr5jnSqvVaMb0jB2Cc"
+    },
+    {
+      "question": "What metrics are used to measure software quality?",
+      "title": "Software quality factors and software quality metrics to enhance software quality assurance",
+      "authors": [
+        "MC Lee"
+      ],
+      "year": 2014,
+      "venue": "British Journal of Applied Science & Technology",
+      "citations": 121,
+      "url": "https://www.researchgate.net/profile/Ming-Chang-Lee-2/publication/263939913_Software_quality_factors_and_software_quality_metrics_to_enhance_software_quality_assurance_BJAST/data/00b4953c64d6e6be8b000000/Software-quality-factors-and-software-quality-metrics-to-enhance-software-quality-assurance-BJAST.pdf"
+    }
+  ],
+  "How is induction used in formal mathematical proofs?": [
+    {
+      "question": "How is induction used in formal mathematical proofs?",
+      "title": "Handbook of mathematical induction",
+      "authors": [
+        "DS Gunderson",
+        "KH Rosen"
+      ],
+      "year": 2014,
+      "venue": "NA",
+      "citations": 108,
+      "url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.1201/b16005&type=googlepdf"
+    },
+    {
+      "question": "How is induction used in formal mathematical proofs?",
+      "title": "Mathematical induction and induction in mathematics",
+      "authors": [
+        "LJ Rips",
+        "J Asmuth"
+      ],
+      "year": 2017,
+      "venue": "Inductive reasoning: Experimental …",
+      "citations": 19,
+      "url": "https://sites.northwestern.edu/ripslab/files/2017/05/mathinduct3a-1ph0lrp.pdf"
+    },
+    {
+      "question": "How is induction used in formal mathematical proofs?",
+      "title": "Preservice teachers' knowledge of proof by mathematical induction",
+      "authors": [
+        "GJ Stylianides",
+        "AJ Stylianides",
+        "GN Philippou"
+      ],
+      "year": 2007,
+      "venue": "Journal of Mathematics …",
+      "citations": 230,
+      "url": "https://link.springer.com/article/10.1007/s10857-007-9034-z"
+    }
+  ],
+  "What are applications of graph theory in computer science?": [
+    {
+      "question": "What are applications of graph theory in computer science?",
+      "title": "Graph theory with applications to engineering and computer science",
+      "authors": [
+        "N Deo"
+      ],
+      "year": 1975,
+      "venue": "NA",
+      "citations": 3800,
+      "url": "https://books.google.com/books?hl=en&lr=&id=uk1KDAAAQBAJ&oi=fnd&pg=PR13&dq=What+are+applications+of+graph+theory+in+computer+science%3F&ots=0Ve7qE742k&sig=U4PNZoDYA_o5QlwvUynLyz4oI6Y"
+    },
+    {
+      "question": "What are applications of graph theory in computer science?",
+      "title": "Applications of graph theory in computer science",
+      "authors": [
+        "F Riaz",
+        "KM Ali"
+      ],
+      "year": 2011,
+      "venue": "… third international conference on computational …",
+      "citations": 145,
+      "url": "https://ieeexplore.ieee.org/abstract/document/6005872/"
+    },
+    {
+      "question": "What are applications of graph theory in computer science?",
+      "title": "An overview of application of graph theory",
+      "authors": [
+        "A Prathik",
+        "K Uma",
+        "J Anuradha"
+      ],
+      "year": 1920,
+      "venue": "International Journal of ChemTech …",
+      "citations": 81,
+      "url": "https://www.researchgate.net/profile/Prathik-Anandhan/publication/301920836_An_overview_of_application_of_graph_theory/links/5f1fd5a1a6fdcc9626b9eedd/An-overview-of-application-of-graph-theory.pdf"
+    }
+  ],
+  "How does linear algebra support machine learning?": [
+    {
+      "question": "How does linear algebra support machine learning?",
+      "title": "The role of linear algebra in developing machine learning solutions",
+      "authors": [
+        "M Mhaske",
+        "B Gidhad",
+        "K Maniyar"
+      ],
+      "year": 2024,
+      "venue": "2024 3rd International …",
+      "citations": 14,
+      "url": "https://ieeexplore.ieee.org/abstract/document/10775140/"
+    },
+    {
+      "question": "How does linear algebra support machine learning?",
+      "title": "Linear algebra and optimization for machine learning",
+      "authors": [
+        "CC Aggarwal",
+        "LF Aggarwal",
+        "Lagerstrom-Fife"
+      ],
+      "year": 2020,
+      "venue": "NA",
+      "citations": 163,
+      "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-40344-7.pdf"
+    },
+    {
+      "question": "How does linear algebra support machine learning?",
+      "title": "Application of linear algebra in machine learning",
+      "authors": [
+        "S Halim"
+      ],
+      "year": 2021,
+      "venue": "Interface",
+      "citations": 5,
+      "url": "https://www.academia.edu/download/64414876/IRJET-V7I2687.pdf"
+    }
+  ],
+  "What are modern approaches to numerical optimization?": [
+    {
+      "question": "What are modern approaches to numerical optimization?",
+      "title": "Numerical optimization: theoretical and practical aspects",
+      "authors": [
+        "JF Bonnans",
+        "JC Gilbert",
+        "C Lemaréchal"
+      ],
+      "year": 2006,
+      "venue": "NA",
+      "citations": 2369,
+      "url": "https://link.springer.com/content/pdf/10.1007/978-3-540-35447-5_14.pdf"
+    },
+    {
+      "question": "What are modern approaches to numerical optimization?",
+      "title": "Numerical methods and optimization: An introduction",
+      "authors": [
+        "S Butenko",
+        "PM Pardalos"
+      ],
+      "year": 1979,
+      "venue": "NA",
+      "citations": 76,
+      "url": "https://books.google.com/books?hl=en&lr=&id=AxDlAgAAQBAJ&oi=fnd&pg=PP1&dq=What+are+modern+approaches+to+numerical+optimization%3F&ots=gAMSw6_Sbt&sig=2EmiAGKPgEsOMHIo0pcCnAONruo"
+    },
+    {
+      "question": "What are modern approaches to numerical optimization?",
+      "title": "Numerical optimization",
+      "authors": [
+        "S Wright",
+        "J Nocedal"
+      ],
+      "year": 2016,
+      "venue": "Springer Science",
+      "citations": 1853,
+      "url": "https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf"
+    }
+  ],
+  "How are probabilistic methods used in combinatorics?": [
+    {
+      "question": "How are probabilistic methods used in combinatorics?",
+      "title": "Probabilistic methods in combinatorial analysis",
+      "authors": [
+        "VN Sachkov"
+      ],
+      "year": 1997,
+      "venue": "NA",
+      "citations": 256,
+      "url": "https://books.google.com/books?hl=en&lr=&id=du0HNzn1i5gC&oi=fnd&pg=PP1&dq=How+are+probabilistic+methods+used+in+combinatorics%3F&ots=ExgPBnu1D_&sig=TAiGbVEolHdoIdyQHd5-rtfXAho"
+    },
+    {
+      "question": "How are probabilistic methods used in combinatorics?",
+      "title": "Probabilistic methods in combinatorics",
+      "authors": [
+        "J Spencer"
+      ],
+      "year": 1995,
+      "venue": "Proceedings of the International Congress of …",
+      "citations": 26,
+      "url": "https://link.springer.com/chapter/10.1007/978-3-0348-9078-6_132"
+    },
+    {
+      "question": "How are probabilistic methods used in combinatorics?",
+      "title": "The probabilistic method",
+      "authors": [
+        "N Alon",
+        "JH Spencer"
+      ],
+      "year": 2005,
+      "venue": "NA",
+      "citations": 9513,
+      "url": "https://books.google.com/books?hl=en&lr=&id=Iu5RCgAAQBAJ&oi=fnd&pg=PR13&dq=How+are+probabilistic+methods+used+in+combinatorics%3F&ots=OIkd8L-2dQ&sig=Hn89seZIMWuLf167rM6YSwpnoPk"
+    }
+  ],
+  "How do sampling methods affect statistical inference?": [
+    {
+      "question": "How do sampling methods affect statistical inference?",
+      "title": "Sampling and statistical inference",
+      "authors": [
+        "JW McLarty",
+        "SL Bahna"
+      ],
+      "year": 2009,
+      "venue": "Annals of Allergy, Asthma & Immunology",
+      "citations": 4,
+      "url": "https://www.annallergy.org/article/S1081-1206(10)60817-4/abstract"
+    },
+    {
+      "question": "How do sampling methods affect statistical inference?",
+      "title": "Statistical inference and nonrandom samples.",
+      "authors": [
+        "ES Edgington"
+      ],
+      "year": 1967,
+      "venue": "Psychological Bulletin",
+      "citations": 156,
+      "url": "https://psycnet.apa.org/record/1967-00962-001"
+    },
+    {
+      "question": "How do sampling methods affect statistical inference?",
+      "title": "Statistical inference",
+      "authors": [
+        "DV Lindley"
+      ],
+      "year": null,
+      "venue": "… Statistical Society Series B: Statistical Methodology",
+      "citations": 116,
+      "url": "https://academic.oup.com/jrsssb/article-abstract/15/1/30/7026679"
+    }
+  ],
+  "What assumptions underlie linear regression models?": [
+    {
+      "question": "What assumptions underlie linear regression models?",
+      "title": "The assumptions of the linear regression model",
+      "authors": [
+        "MA Poole",
+        "PN O'Farrell"
+      ],
+      "year": 2010,
+      "venue": "Transactions of the Institute of British Geographers",
+      "citations": 627,
+      "url": "https://www.jstor.org/stable/621706"
+    },
+    {
+      "question": "What assumptions underlie linear regression models?",
+      "title": "Assumptions Behind the Linear Regression Model",
+      "authors": [
+        "PE Pfeifer"
+      ],
+      "year": 2010,
+      "venue": "NA",
+      "citations": 1,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1584516"
+    },
+    {
+      "question": "What assumptions underlie linear regression models?",
+      "title": "The assumptions of linear regression",
+      "authors": [
+        "RGD Allen"
+      ],
+      "year": 2014,
+      "venue": "Economica",
+      "citations": 47,
+      "url": "https://www.jstor.org/stable/2548931"
+    }
+  ],
+  "How is bias quantified in statistical analysis?": [
+    {
+      "question": "How is bias quantified in statistical analysis?",
+      "title": "Good practices for quantitative bias analysis",
+      "authors": [
+        "TL Lash",
+        "MP Fox",
+        "RF MacLehose"
+      ],
+      "year": 1969,
+      "venue": "International journal …",
+      "citations": 732,
+      "url": "https://academic.oup.com/ije/article-abstract/43/6/1969/705764"
+    },
+    {
+      "question": "How is bias quantified in statistical analysis?",
+      "title": "Applying quantitative bias analysis to epidemiologic data",
+      "authors": [
+        "MP Fox",
+        "RF MacLehose",
+        "TL Lash"
+      ],
+      "year": 2021,
+      "venue": "NA",
+      "citations": 1152,
+      "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-82673-4.pdf"
+    },
+    {
+      "question": "How is bias quantified in statistical analysis?",
+      "title": "Quantifying possible bias in clinical and epidemiological studies with quantitative bias analysis: common approaches and limitations",
+      "authors": [
+        "JP Brown",
+        "JN Hunnicutt",
+        "MS Ali",
+        "K Bhaskaran",
+        "A Cole"
+      ],
+      "year": 2023,
+      "venue": "bmj",
+      "citations": 33,
+      "url": "https://www.bmj.com/content/385/bmj-2023-076365.full"
+    }
+  ],
+  "What methods handle missing data effectively?": [
+    {
+      "question": "What methods handle missing data effectively?",
+      "title": "How to handle missing data: A comparison of different approaches",
+      "authors": [
+        "M Peeters",
+        "M Zondervan-Zwijnenburg"
+      ],
+      "year": 2015,
+      "venue": "European journal of …",
+      "citations": 77,
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/17405629.2015.1049526"
+    },
+    {
+      "question": "What methods handle missing data effectively?",
+      "title": "A guide to handling missing data in cost-effectiveness analysis conducted within randomised controlled trials",
+      "authors": [
+        "R Faria",
+        "M Gomes",
+        "D Epstein",
+        "IR White"
+      ],
+      "year": 2014,
+      "venue": "Pharmacoeconomics",
+      "citations": 721,
+      "url": "https://link.springer.com/article/10.1007/s40273-014-0193-3?sa_campaign=email/event/articleAuthor/onlineFirst&error=cookies_not_supported&code=1520b87d-1814-474e-a209-2d5bdba9ad4a"
+    },
+    {
+      "question": "What methods handle missing data effectively?",
+      "title": "Handling missing data",
+      "authors": [
+        "TD Pigott"
+      ],
+      "year": 2025,
+      "venue": "The handbook of research synthesis and meta …",
+      "citations": 124,
+      "url": "https://books.google.com/books?hl=en&lr=&id=LUGd6B9eyc4C&oi=fnd&pg=PA399&dq=What+methods+handle+missing+data+effectively%3F&ots=5QDKrV1n5T&sig=zzLZ9cvRQKDkXRhAkhfsSafxeFs"
+    }
+  ],
+  "How do confidence intervals support hypothesis testing?": [
+    {
+      "question": "How do confidence intervals support hypothesis testing?",
+      "title": "Statistical tools in the quest for truth: hypothesis testing, confidence intervals, and the power of clinical studies",
+      "authors": [
+        "SD Smith"
+      ],
+      "year": 2008,
+      "venue": "Ophthalmology",
+      "citations": 11,
+      "url": "https://www.aaojournal.org/article/S0161-6420(07)01361-9/abstract"
+    },
+    {
+      "question": "How do confidence intervals support hypothesis testing?",
+      "title": "Hypothesis testing with confidence intervals and P values in PLS-SEM",
+      "authors": [
+        "N Kock"
+      ],
+      "year": 2016,
+      "venue": "International Journal of e-Collaboration (IJeC)",
+      "citations": 253,
+      "url": "https://www.igi-global.com/article/hypothesis-testing-with-confidence-intervals-and-p-values-in-pls-sem/163226"
+    },
+    {
+      "question": "How do confidence intervals support hypothesis testing?",
+      "title": "Confidence Intervals: From tests of statistical significance to confidence intervals, range hypotheses and substantial effects",
+      "authors": [
+        "D Beaulieu-Prévost"
+      ],
+      "year": 2006,
+      "venue": "Tutorials in Quantitative Methods for Psychology",
+      "citations": 30,
+      "url": "https://www.tqmp.org/RegularArticles/vol02-1/p011/p011.pdf"
+    }
+  ],
+  "How do incentives influence economic behavior?": [
+    {
+      "question": "How do incentives influence economic behavior?",
+      "title": "Changing health behaviors using financial incentives: a review from behavioral economics",
+      "authors": [
+        "I Vlaev",
+        "D King",
+        "A Darzi",
+        "P Dolan"
+      ],
+      "year": 2019,
+      "venue": "BMC public health",
+      "citations": 350,
+      "url": "https://link.springer.com/article/10.1186/s12889-019-7407-8"
+    },
+    {
+      "question": "How do incentives influence economic behavior?",
+      "title": "A structured review of the effect of economic incentives on consumers' preventive behavior",
+      "authors": [
+        "RL Kane",
+        "PE Johnson",
+        "RJ Town",
+        "M Butler"
+      ],
+      "year": 2004,
+      "venue": "American journal of preventive …",
+      "citations": 410,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0749379704001783"
+    },
+    {
+      "question": "How do incentives influence economic behavior?",
+      "title": "Positive economic incentives: New behavioral economics and successful economic transitions",
+      "authors": [
+        "JM Letiche"
+      ],
+      "year": 2006,
+      "venue": "Journal of Asian Economics",
+      "citations": 39,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1049007806001084"
+    }
+  ],
+  "What causes market failures in competitive economies?": [
+    {
+      "question": "What causes market failures in competitive economies?",
+      "title": "Markets, market failures, and development",
+      "authors": [
+        "JE Stiglitz"
+      ],
+      "year": 1999,
+      "venue": "The American economic review",
+      "citations": 1396,
+      "url": "https://www.jstor.org/stable/1827756"
+    },
+    {
+      "question": "What causes market failures in competitive economies?",
+      "title": "Market failure",
+      "authors": [
+        "JO Ledyard"
+      ],
+      "year": 1997,
+      "venue": "The new Palgrave dictionary of economics",
+      "citations": 140,
+      "url": "https://link.springer.com/rwe/10.1057/978-1-349-95121-5_1052-1"
+    },
+    {
+      "question": "What causes market failures in competitive economies?",
+      "title": "Market failure: An economic analysis of its causes and consequences",
+      "authors": [
+        "VK Borooah"
+      ],
+      "year": 1984,
+      "venue": "online] Research Gate. Available at: https://www …",
+      "citations": 27,
+      "url": "https://www.borooah.com/Teaching/Microeconomics/Market_%20Failure.pdf"
+    }
+  ],
+  "How does inflation affect long-term growth?": [
+    {
+      "question": "How does inflation affect long-term growth?",
+      "title": "Does inflation cause poor long-term growth performance?",
+      "authors": [
+        "F Guerrero"
+      ],
+      "year": 2006,
+      "venue": "Japan and the world economy",
+      "citations": 67,
+      "url": "https://www.sciencedirect.com/science/article/pii/S092214250400057X"
+    },
+    {
+      "question": "How does inflation affect long-term growth?",
+      "title": "Inflation and growth",
+      "authors": [
+        "RJ Barro"
+      ],
+      "year": 2001,
+      "venue": "Review-Federal Reserve Bank of Saint Louis",
+      "citations": 707,
+      "url": "https://www.researchgate.net/profile/Malte-Krueger/publication/227361093_Inflation_and_growth/links/573c436708ae298602e55654/Inflation-and-growth.pdf"
+    },
+    {
+      "question": "How does inflation affect long-term growth?",
+      "title": "Does inflation matter for growth?",
+      "authors": [
+        "T Gylfason",
+        "TT Herbertsson"
+      ],
+      "year": 2001,
+      "venue": "Japan and the world economy",
+      "citations": 343,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0922142501000731"
+    }
+  ],
+  "What are the economic effects of income inequality?": [
+    {
+      "question": "What are the economic effects of income inequality?",
+      "title": "Economic consequences of income inequality",
+      "authors": [
+        "J Furman",
+        "JE Stiglitz"
+      ],
+      "year": 1998,
+      "venue": "Income Inequality: Issues and Policy …",
+      "citations": 141,
+      "url": "https://www.kansascityfed.org/documents/3574/1998-S98stiglitz.pdf"
+    },
+    {
+      "question": "What are the economic effects of income inequality?",
+      "title": "From income inequality to economic inequality",
+      "authors": [
+        "AK Sen"
+      ],
+      "year": 1997,
+      "venue": "Southern Economic Journal",
+      "citations": 661,
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2325-8012.1997.tb00063.x"
+    },
+    {
+      "question": "What are the economic effects of income inequality?",
+      "title": "Trends in income inequality and its impact on economic growth",
+      "authors": [
+        "F Cingano"
+      ],
+      "year": 2023,
+      "venue": "NA",
+      "citations": 1956,
+      "url": "https://www.oecd-ilibrary.org/trends-in-income-inequality-and-its-impact-on-economic-growth_5jxrjncwxv6j.pdf"
+    }
+  ],
+  "How do game-theoretic models explain strategic behavior?": [
+    {
+      "question": "How do game-theoretic models explain strategic behavior?",
+      "title": "Game theory evolving: A problem-centered introduction to modeling strategic behavior",
+      "authors": [
+        "H Gintis"
+      ],
+      "year": 2001,
+      "venue": "NA",
+      "citations": 3253,
+      "url": "https://books.google.com/books?hl=en&lr=&id=XuqhzQb3pmgC&oi=fnd&pg=PR21&dq=How+do+game-theoretic+models+explain+strategic+behavior%3F&ots=Cn_uzWRCwr&sig=KI7FNdK-7UYIS8Mh2or01Jqc_rE"
+    },
+    {
+      "question": "How do game-theoretic models explain strategic behavior?",
+      "title": "Applied game theory and strategic behavior",
+      "authors": [
+        "IK Geckil",
+        "PL Anderson"
+      ],
+      "year": 2016,
+      "venue": "NA",
+      "citations": 121,
+      "url": "https://www.taylorfrancis.com/books/mono/10.1201/9781584888444/applied-game-theory-strategic-behavior-ilhan-geckil-patrick-anderson"
+    },
+    {
+      "question": "How do game-theoretic models explain strategic behavior?",
+      "title": "New directions for modelling strategic behavior: game-theoretic models of communication, coordination, and cooperation in economic relationships",
+      "authors": [
+        "VP Crawford"
+      ],
+      "year": 2016,
+      "venue": "Journal of Economic Perspectives",
+      "citations": 27,
+      "url": "https://www.aeaweb.org/articles?id=10.1257/jep.30.4.131"
+    }
+  ],
+  "How is risk quantified in financial markets?": [
+    {
+      "question": "How is risk quantified in financial markets?",
+      "title": "Market risk analysis, quantitative methods in finance",
+      "authors": [
+        "C Alexander"
+      ],
+      "year": 2025,
+      "venue": "NA",
+      "citations": 268,
+      "url": "https://books.google.com/books?hl=en&lr=&id=ZNszm4GBjfIC&oi=fnd&pg=PR7&dq=How+is+risk+quantified+in+financial+markets%3F&ots=TG8gMY4kUF&sig=V7BezeX4FnybLRbx3k5YDZFRBu0"
+    },
+    {
+      "question": "How is risk quantified in financial markets?",
+      "title": "Portfolio management and market risk quantification using neural networks",
+      "authors": [
+        "J Franke"
+      ],
+      "year": 2000,
+      "venue": "Statistics and finance: An interface",
+      "citations": 10,
+      "url": "https://www.worldscientific.com/doi/pdf/10.1142/p202#page=330"
+    },
+    {
+      "question": "How is risk quantified in financial markets?",
+      "title": "Can future systemic financial risks be quantified?: ergodic vs nonergodic stochastic processes",
+      "authors": [
+        "P Davidson"
+      ],
+      "year": 2009,
+      "venue": "Brazilian Journal of Political Economy",
+      "citations": 39,
+      "url": "https://www.scielo.br/j/rep/a/DXDDVxPMYBTZvsXwnvd4NJw/?lang=en"
+    }
+  ],
+  "What factors influence asset price volatility?": [
+    {
+      "question": "What factors influence asset price volatility?",
+      "title": "Asset price dynamics, volatility, and prediction",
+      "authors": [
+        "SJ Taylor"
+      ],
+      "year": 2011,
+      "venue": "NA",
+      "citations": 804,
+      "url": "https://books.google.com/books?hl=en&lr=&id=3wnvI0UnA0AC&oi=fnd&pg=PP1&dq=What+factors+influence+asset+price+volatility%3F&ots=F5MXHl7aDW&sig=zfa1idRgqQa6AB-RFC2DXsRDqOw"
+    },
+    {
+      "question": "What factors influence asset price volatility?",
+      "title": "Factors affecting recent and future price volatility of food commodities",
+      "authors": [
+        "A Sarris"
+      ],
+      "year": 2022,
+      "venue": "… “Schriften der Gesellschaft für Wirtschafts-und …",
+      "citations": 17,
+      "url": "https://ageconsearch.umn.edu/record/260021/files/Bd44Nr04.pdf"
+    },
+    {
+      "question": "What factors influence asset price volatility?",
+      "title": "Determinants of stock price volatility: A literature review",
+      "authors": [
+        "R Hewamana",
+        "D Siriwardhane"
+      ],
+      "year": 2022,
+      "venue": "South Asian Journal of …",
+      "citations": 15,
+      "url": "https://account.sajf.sljol.info/index.php/sljo-j-sajf/article/view/44"
+    }
+  ],
+  "How do interest rates affect investment decisions?": [
+    {
+      "question": "How do interest rates affect investment decisions?",
+      "title": "Interest rates and investment decisions",
+      "authors": [
+        "SF Frowen"
+      ],
+      "year": 1990,
+      "venue": "Unknowledge and Choice in Economics: Proceedings …",
+      "citations": 5,
+      "url": "https://link.springer.com/content/pdf/10.1007/978-1-349-08097-7_9?pdf=chapter%20toc"
+    },
+    {
+      "question": "How do interest rates affect investment decisions?",
+      "title": "Low interest rates and risk-taking: Evidence from individual investment decisions",
+      "authors": [
+        "C Lian",
+        "Y Ma",
+        "C Wang"
+      ],
+      "year": 2016,
+      "venue": "The Review of Financial Studies",
+      "citations": 310,
+      "url": "https://academic.oup.com/rfs/article-abstract/32/6/2107/5106044"
+    },
+    {
+      "question": "How do interest rates affect investment decisions?",
+      "title": "Investment decisions and negative interest rates",
+      "authors": [
+        "A Bracha"
+      ],
+      "year": 2019,
+      "venue": "Management Science",
+      "citations": 18,
+      "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2019.3464"
+    }
+  ],
+  "What models are used for option pricing?": [
+    {
+      "question": "What models are used for option pricing?",
+      "title": "What does an option pricing model tell us about option prices?",
+      "authors": [
+        "S Figlewski"
+      ],
+      "year": 2019,
+      "venue": "Financial Analysts Journal",
+      "citations": 58,
+      "url": "https://www.jstor.org/stable/4479251"
+    },
+    {
+      "question": "What models are used for option pricing?",
+      "title": "Option pricing: A simplified approach",
+      "authors": [
+        "JC Cox",
+        "SA Ross",
+        "M Rubinstein"
+      ],
+      "year": 1979,
+      "venue": "Journal of financial Economics",
+      "citations": 11202,
+      "url": "https://www.sciencedirect.com/science/article/pii/0304405X79900151"
+    },
+    {
+      "question": "What models are used for option pricing?",
+      "title": "Applications of option-pricing theory: twenty-five years later",
+      "authors": [
+        "RC Merton"
+      ],
+      "year": 1999,
+      "venue": "The American Economic Review",
+      "citations": 697,
+      "url": "https://www.jstor.org/stable/116838"
+    }
+  ],
+  "How does market efficiency impact trading strategies?": [
+    {
+      "question": "How does market efficiency impact trading strategies?",
+      "title": "How efficiency shapes market impact",
+      "authors": [
+        "JD Farmer",
+        "A Gerig",
+        "F Lillo",
+        "H Waelbroeck"
+      ],
+      "year": 2013,
+      "venue": "Quantitative Finance",
+      "citations": 125,
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/14697688.2013.848464"
+    },
+    {
+      "question": "How does market efficiency impact trading strategies?",
+      "title": "The mechanisms of market efficiency",
+      "authors": [
+        "RJ Gilson",
+        "RH Kraakman"
+      ],
+      "year": 1984,
+      "venue": "Va. L. Rev.",
+      "citations": 2165,
+      "url": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/valr70&section=30"
+    },
+    {
+      "question": "How does market efficiency impact trading strategies?",
+      "title": "The meaning of market efficiency",
+      "authors": [
+        "RA Jarrow",
+        "M Larsson"
+      ],
+      "year": 2011,
+      "venue": "Mathematical Finance: An International …",
+      "citations": 148,
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9965.2011.00497.x"
+    }
+  ],
+  "How do electoral systems affect political outcomes?": [
+    {
+      "question": "How do electoral systems affect political outcomes?",
+      "title": "The politics of electoral systems",
+      "authors": [
+        "M Gallagher",
+        "P Mitchell"
+      ],
+      "year": 2000,
+      "venue": "NA",
+      "citations": 1083,
+      "url": "https://books.google.com/books?hl=en&lr=&id=Igdj1P4vBwMC&oi=fnd&pg=PR7&dq=How+do+electoral+systems+affect+political+outcomes%3F&ots=h6j9bhVjNJ&sig=bW6uiSACSyaT3k7rFpcArOprhpQ"
+    },
+    {
+      "question": "How do electoral systems affect political outcomes?",
+      "title": "Electoral systems",
+      "authors": [
+        "A Blais",
+        "L Massicotte"
+      ],
+      "year": 2017,
+      "venue": "Comparing democracies",
+      "citations": 477,
+      "url": "https://www.academia.edu/download/52512151/w9_1_1.pdf"
+    },
+    {
+      "question": "How do electoral systems affect political outcomes?",
+      "title": "Political efficacy and participation in twenty-seven democracies: How electoral systems shape political behaviour",
+      "authors": [
+        "JA Karp",
+        "SA Banducci"
+      ],
+      "year": 2008,
+      "venue": "British journal of political science",
+      "citations": 601,
+      "url": "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/political-efficacy-and-participation-in-twentyseven-democracies-how-electoral-systems-shape-political-behaviour/0CFE1A0CEF61B5C45D06F5F8840A286F"
+    }
+  ],
+  "What factors influence voter turnout?": [
+    {
+      "question": "What factors influence voter turnout?",
+      "title": "What affects voter turnout?",
+      "authors": [
+        "A Blais"
+      ],
+      "year": 2006,
+      "venue": "Annu. Rev. Polit. Sci.",
+      "citations": 1308,
+      "url": "https://www.annualreviews.org/content/journals/10.1146/annurev.polisci.9.070204.105121"
+    },
+    {
+      "question": "What factors influence voter turnout?",
+      "title": "What affects voter turnout? A review article/meta-analysis of aggregate research",
+      "authors": [
+        "D Stockemer"
+      ],
+      "year": 2016,
+      "venue": "Government and Opposition",
+      "citations": 284,
+      "url": "https://www.cambridge.org/core/journals/government-and-opposition/article/what-affects-voter-turnouta-review-articlemetaanalysis-of-aggregate-research/2CCC1F9A8B742953B2D10C87C13D9F12"
+    },
+    {
+      "question": "What factors influence voter turnout?",
+      "title": "The institutional and political factors that influence voter turnout",
+      "authors": [
+        "J Merrifield"
+      ],
+      "year": 1993,
+      "venue": "Public Choice",
+      "citations": 87,
+      "url": "https://link.springer.com/article/10.1007/BF01047865"
+    }
+  ],
+  "How do institutions shape democratic governance?": [
+    {
+      "question": "How do institutions shape democratic governance?",
+      "title": "Making democratic governance work: How regimes shape prosperity, welfare, and peace",
+      "authors": [
+        "P Norris"
+      ],
+      "year": 2015,
+      "venue": "NA",
+      "citations": 394,
+      "url": "https://books.google.com/books?hl=en&lr=&id=AJBKHcK-nMQC&oi=fnd&pg=PR3&dq=How+do+institutions+shape+democratic+governance%3F&ots=tSwyn9f12x&sig=VeRme3f4BuhJdcRazcvT39CIgFE"
+    },
+    {
+      "question": "How do institutions shape democratic governance?",
+      "title": "Democratic governance",
+      "authors": [
+        "M Bevir"
+      ],
+      "year": 2013,
+      "venue": "NA",
+      "citations": 21,
+      "url": "https://escholarship.org/content/qt304704f2/qt304704f2.pdf"
+    },
+    {
+      "question": "How do institutions shape democratic governance?",
+      "title": "Local government institutions and democratic governance",
+      "authors": [
+        "H Wolman"
+      ],
+      "year": 2023,
+      "venue": "Theories of urban politics",
+      "citations": 143,
+      "url": "https://books.google.com/books?hl=en&lr=&id=thM5WOQxJlsC&oi=fnd&pg=PA135&dq=How+do+institutions+shape+democratic+governance%3F&ots=8KRRevNr5g&sig=YrmWnQvOHz5fqJlfVzRTSOwtNgM"
+    }
+  ],
+  "What causes political polarization?": [
+    {
+      "question": "What causes political polarization?",
+      "title": "Cause and effect in political polarization: A dynamic analysis",
+      "authors": [
+        "S Callander",
+        "JC Carbajal"
+      ],
+      "year": 2022,
+      "venue": "Journal of Political Economy",
+      "citations": 75,
+      "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/718200"
+    },
+    {
+      "question": "What causes political polarization?",
+      "title": "The dynamics of political polarization",
+      "authors": [
+        "SA Levin",
+        "HV Milner",
+        "C Perrings"
+      ],
+      "year": 2007,
+      "venue": "Proceedings of the National Academy of …",
+      "citations": 148,
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2116950118"
+    },
+    {
+      "question": "What causes political polarization?",
+      "title": "Polarization: what do we know and what can we do about it?",
+      "authors": [
+        "F Casal Bértoa",
+        "J Rama"
+      ],
+      "year": 2021,
+      "venue": "Frontiers in Political Science",
+      "citations": 131,
+      "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2021.687695/full"
+    }
+  ],
+  "How does media influence public opinion?": [
+    {
+      "question": "How does media influence public opinion?",
+      "title": "Setting the agenda: Mass media and public opinion",
+      "authors": [
+        "M McCombs",
+        "S Valenzuela"
+      ],
+      "year": 2005,
+      "venue": "NA",
+      "citations": 6057,
+      "url": "https://books.google.com/books?hl=en&lr=&id=E-UJEAAAQBAJ&oi=fnd&pg=PP5&dq=How+does+media+influence+public+opinion%3F&ots=Sr6mjJkPS8&sig=exTrmZ2ISC0IAfJFxBLLhL80RLM"
+    },
+    {
+      "question": "How does media influence public opinion?",
+      "title": "Can the media create public opinion? A social-identity approach",
+      "authors": [
+        "PA Anastasio",
+        "KC Rose"
+      ],
+      "year": 1999,
+      "venue": "Current Directions in …",
+      "citations": 135,
+      "url": "https://journals.sagepub.com/doi/abs/10.1111/1467-8721.00036"
+    },
+    {
+      "question": "How does media influence public opinion?",
+      "title": "Effects of the news media on public opinion",
+      "authors": [
+        "HM Kepplinger"
+      ],
+      "year": 2008,
+      "venue": "The SAGE handbook of public opinion research",
+      "citations": 61,
+      "url": "https://www.torrossa.com/gs/resourceProxy?an=4913728&publisher=FZ7200#page=213"
+    }
+  ],
+  "How does social capital influence economic mobility?": [
+    {
+      "question": "How does social capital influence economic mobility?",
+      "title": "Social capital I: measurement and associations with economic mobility",
+      "authors": [
+        "R Chetty",
+        "MO Jackson",
+        "T Kuchler",
+        "J Stroebel"
+      ],
+      "year": 2022,
+      "venue": "Nature",
+      "citations": 911,
+      "url": "https://www.nature.com/articles/s41586-022-04996-4"
+    },
+    {
+      "question": "How does social capital influence economic mobility?",
+      "title": "The role of social capital in supporting economic mobility",
+      "authors": [
+        "M Abbott",
+        "A Reilly"
+      ],
+      "year": 2008,
+      "venue": "Office of the Assistant Secretary for Planning and …",
+      "citations": 20,
+      "url": "https://www.aspe.hhs.gov/sites/default/files/private/aspe-files/261791/socialcapitalsupportingeconomicmobility.pdf"
+    },
+    {
+      "question": "How does social capital influence economic mobility?",
+      "title": "Social network capital, economic mobility and poverty traps",
+      "authors": [
+        "S Chantarat",
+        "CB Barrett"
+      ],
+      "year": 2008,
+      "venue": "The Journal of Economic Inequality",
+      "citations": 178,
+      "url": "https://link.springer.com/article/10.1007/s10888-011-9164-5"
+    }
+  ],
+  "What factors contribute to social inequality?": [
+    {
+      "question": "What factors contribute to social inequality?",
+      "title": "Social inequality",
+      "authors": [
+        "K Neckerman"
+      ],
+      "year": 2022,
+      "venue": "NA",
+      "citations": 221,
+      "url": "https://books.google.com/books?hl=en&lr=&id=jg-GAwAAQBAJ&oi=fnd&pg=PR5&dq=What+factors+contribute+to+social+inequality%3F&ots=WMNUUC7quO&sig=p2ixE4R3HV0OTWQTYaf2J1Mw9jw"
+    },
+    {
+      "question": "What factors contribute to social inequality?",
+      "title": "What is social inequality?",
+      "authors": [
+        "RM Blackburn"
+      ],
+      "year": 2013,
+      "venue": "International Journal of Sociology and Social Policy",
+      "citations": 76,
+      "url": "https://www.emerald.com/insight/content/doi/10.1108/01443330810890664/full/html"
+    },
+    {
+      "question": "What factors contribute to social inequality?",
+      "title": "Pathways to social inequality",
+      "authors": [
+        "HJ Haynie",
+        "PH Kavanagh",
+        "FM Jordan"
+      ],
+      "year": 2021,
+      "venue": "Evolutionary Human …",
+      "citations": 24,
+      "url": "https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/pathways-to-social-inequality/6639409D6A1E2B2CFA19EB55C7BAFECB"
+    }
+  ],
+  "How do networks shape social behavior?": [
+    {
+      "question": "How do networks shape social behavior?",
+      "title": "Sensing, understanding, and shaping social behavior",
+      "authors": [
+        "E Shmueli",
+        "VK Singh",
+        "B Lepri"
+      ],
+      "year": 2014,
+      "venue": "… on Computational Social …",
+      "citations": 110,
+      "url": "https://ieeexplore.ieee.org/abstract/document/6804686/"
+    },
+    {
+      "question": "How do networks shape social behavior?",
+      "title": "Networks in the understanding of economic behaviors",
+      "authors": [
+        "MO Jackson"
+      ],
+      "year": 2014,
+      "venue": "Journal of economic perspectives",
+      "citations": 385,
+      "url": "https://www.aeaweb.org/articles?id=10.1257/jep.28.4.3"
+    },
+    {
+      "question": "How do networks shape social behavior?",
+      "title": "How can social network analysis contribute to social behavior research in applied ethology?",
+      "authors": [
+        "MM Makagon",
+        "B McCowan",
+        "JA Mench"
+      ],
+      "year": 2000,
+      "venue": "Applied animal behaviour science",
+      "citations": 200,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168159112000354"
+    }
+  ],
+  "What role does education play in social stratification?": [
+    {
+      "question": "What role does education play in social stratification?",
+      "title": "Social stratification and higher education",
+      "authors": [
+        "C Jencks"
+      ],
+      "year": 1968,
+      "venue": "Harvard educational review",
+      "citations": 96,
+      "url": "https://meridian.allenpress.com/her/article-abstract/38/2/277/30771"
+    },
+    {
+      "question": "What role does education play in social stratification?",
+      "title": "What we have learned: RC28's contributions to knowledge about social stratification",
+      "authors": [
+        "M Hout",
+        "TA DiPrete"
+      ],
+      "year": 2006,
+      "venue": "Research in social stratification and mobility",
+      "citations": 800,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0276562405000028"
+    },
+    {
+      "question": "What role does education play in social stratification?",
+      "title": "Social stratification in higher education",
+      "authors": [
+        "E Grodsky",
+        "E Jackson"
+      ],
+      "year": 1968,
+      "venue": "Teachers College Record",
+      "citations": 181,
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/016146810911101003"
+    }
+  ],
+  "How do norms influence group behavior?": [
+    {
+      "question": "How do norms influence group behavior?",
+      "title": "Group norms and the attitude–behaviour relationship",
+      "authors": [
+        "JR Smith",
+        "WR Louis"
+      ],
+      "year": 2008,
+      "venue": "Social and personality psychology …",
+      "citations": 243,
+      "url": "https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2008.00161.x"
+    },
+    {
+      "question": "How do norms influence group behavior?",
+      "title": "How behaviors are influenced by perceived norms: A test of the theory of normative social behavior",
+      "authors": [
+        "RN Rimal",
+        "K Real"
+      ],
+      "year": 2005,
+      "venue": "Communication research",
+      "citations": 1351,
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/0093650205275385"
+    },
+    {
+      "question": "How do norms influence group behavior?",
+      "title": "Understanding the influence of perceived norms on behaviors",
+      "authors": [
+        "RN Rimal",
+        "K Real"
+      ],
+      "year": 2003,
+      "venue": "Communication Theory",
+      "citations": 950,
+      "url": "https://academic.oup.com/ct/article-abstract/13/2/184/4110437"
+    }
+  ],
+  "How does cognitive bias affect decision-making?": [
+    {
+      "question": "How does cognitive bias affect decision-making?",
+      "title": "Cognitive bias and how to improve sustainable decision making",
+      "authors": [
+        "JE Korteling",
+        "GL Paradies"
+      ],
+      "year": 2023,
+      "venue": "Frontiers in …",
+      "citations": 171,
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1129835/full"
+    },
+    {
+      "question": "How does cognitive bias affect decision-making?",
+      "title": "Cognitive bias affecting decision-making in the legal process",
+      "authors": [
+        "A Olaborede",
+        "L Meintjes-Van der Walt"
+      ],
+      "year": 2021,
+      "venue": "Obiter",
+      "citations": 21,
+      "url": "https://journals.co.za/doi/abs/10.10520/ejc-obiter-v41-n4-a7"
+    },
+    {
+      "question": "How does cognitive bias affect decision-making?",
+      "title": "Don't believe everything you think: Cognitive bias in legal decision making",
+      "authors": [
+        "I Weinstein"
+      ],
+      "year": 2015,
+      "venue": "Clinical L. Rev.",
+      "citations": 137,
+      "url": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/clinic9&section=24"
+    }
+  ],
+  "What neural mechanisms support memory formation?": [
+    {
+      "question": "What neural mechanisms support memory formation?",
+      "title": "Emotional tagging of memory formation—in the search for neural mechanisms",
+      "authors": [
+        "G Richter-Levin",
+        "I Akirav"
+      ],
+      "year": 2003,
+      "venue": "Brain Research Reviews",
+      "citations": 297,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0165017303002248"
+    },
+    {
+      "question": "What neural mechanisms support memory formation?",
+      "title": "The development of neural correlates for memory formation",
+      "authors": [
+        "N Ofen"
+      ],
+      "year": 2000,
+      "venue": "Neuroscience & Biobehavioral Reviews",
+      "citations": 123,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0149763412000425"
+    },
+    {
+      "question": "What neural mechanisms support memory formation?",
+      "title": "Aspects of the search for neural mechanisms of memory",
+      "authors": [
+        "MR Rosenzweig"
+      ],
+      "year": 1996,
+      "venue": "Annual review of psychology",
+      "citations": 220,
+      "url": "https://www.annualreviews.org/content/journals/10.1146/annurev.psych.47.1.1"
+    }
+  ],
+  "How does stress impact cognitive performance?": [
+    {
+      "question": "How does stress impact cognitive performance?",
+      "title": "Performing under pressure: stress and cognitive function",
+      "authors": [
+        "M Mendl"
+      ],
+      "year": 1990,
+      "venue": "Applied animal behaviour science",
+      "citations": 607,
+      "url": "https://www.sciencedirect.com/science/article/pii/S016815919900088X"
+    },
+    {
+      "question": "How does stress impact cognitive performance?",
+      "title": "Stress and cognition",
+      "authors": [
+        "C Sandi"
+      ],
+      "year": 2022,
+      "venue": "Wiley Interdisciplinary Reviews: Cognitive Science",
+      "citations": 795,
+      "url": "https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcs.1222"
+    },
+    {
+      "question": "How does stress impact cognitive performance?",
+      "title": "Stress and cognitive function",
+      "authors": [
+        "BS McEwen",
+        "RM Sapolsky"
+      ],
+      "year": 1995,
+      "venue": "Current opinion in neurobiology",
+      "citations": 2891,
+      "url": "https://www.sciencedirect.com/science/article/pii/095943889580028X"
+    }
+  ],
+  "What factors influence human motivation?": [
+    {
+      "question": "What factors influence human motivation?",
+      "title": "Human motivation",
+      "authors": [
+        "DC McClelland"
+      ],
+      "year": 1964,
+      "venue": "NA",
+      "citations": 10656,
+      "url": "https://books.google.com/books?hl=en&lr=&id=vic4AAAAIAAJ&oi=fnd&pg=PR3&dq=What+factors+influence+human+motivation%3F&ots=Au0X2M03b8&sig=aDwKdgCWZy4l11FepnTGHrpa3TQ"
+    },
+    {
+      "question": "What factors influence human motivation?",
+      "title": "Motivation: About the “why” and “what for” of human behavior",
+      "authors": [
+        "W Lens",
+        "M Vansteenkiste"
+      ],
+      "year": 2020,
+      "venue": "Psychological concepts",
+      "citations": 71,
+      "url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003076384-12/motivation-human-behavior-willy-lens-maarten-vansteenkiste"
+    },
+    {
+      "question": "What factors influence human motivation?",
+      "title": "Motivation and human behaviour",
+      "authors": [
+        "BS Frey"
+      ],
+      "year": 2021,
+      "venue": "Risk, trust and welfare",
+      "citations": 56,
+      "url": "https://www.bsfrey.ch/wp-content/uploads/2021/08/motivation-and-human-behaviour.pdf"
+    }
+  ],
+  "How is learning measured in experimental psychology?": [
+    {
+      "question": "How is learning measured in experimental psychology?",
+      "title": "Experimental psychology",
+      "authors": [
+        "BH Kantowitz",
+        "HL Roediger",
+        "DG Elmes"
+      ],
+      "year": 1962,
+      "venue": "NA",
+      "citations": 524,
+      "url": "http://ndl.ethernet.edu.et/bitstream/123456789/43088/1/3.pdf"
+    },
+    {
+      "question": "How is learning measured in experimental psychology?",
+      "title": "Experimental psychology: A manual of laboratory practice",
+      "authors": [
+        "EB Titchener"
+      ],
+      "year": 1906,
+      "venue": "Scientific Methodology in Nineteenth Century …",
+      "citations": 820,
+      "url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781003263838-20&type=chapterpdf"
+    },
+    {
+      "question": "How is learning measured in experimental psychology?",
+      "title": "Psychology of learning and motivation",
+      "authors": [
+        "KW Spence",
+        "JT Spence"
+      ],
+      "year": 2009,
+      "venue": "NA",
+      "citations": 245,
+      "url": "https://books.google.com/books?hl=en&lr=&id=49glphNe0bwC&oi=fnd&pg=PP1&dq=How+is+learning+measured+in+experimental+psychology%3F&ots=Vh86TAgDRM&sig=6JdYcQbNWz5wcuRiS7M-U2Sgf30"
+    }
+  ],
+  "How does active learning affect student performance?": [
+    {
+      "question": "How does active learning affect student performance?",
+      "title": "Active learning increases student performance in science, engineering, and mathematics",
+      "authors": [
+        "S Freeman",
+        "SL Eddy",
+        "M McDonough",
+        "MK Smith"
+      ],
+      "year": 1903,
+      "venue": "Proceedings of the …",
+      "citations": 14273,
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.1319030111"
+    },
+    {
+      "question": "How does active learning affect student performance?",
+      "title": "The impact of active learning on students' academic performance",
+      "authors": [
+        "CA Aji",
+        "MJ Khan"
+      ],
+      "year": 2019,
+      "venue": "Open Journal of Social Sciences",
+      "citations": 158,
+      "url": "https://par.nsf.gov/servlets/purl/10299278"
+    },
+    {
+      "question": "How does active learning affect student performance?",
+      "title": "Effects of Active Learning Variants on Student Performance and Learning Perceptions.",
+      "authors": [
+        "AR Mohamed"
+      ],
+      "year": 2008,
+      "venue": "… Journal for the Scholarship of Teaching and Learning",
+      "citations": 95,
+      "url": "https://eric.ed.gov/?id=EJ1146317"
+    }
+  ],
+  "What factors influence educational achievement gaps?": [
+    {
+      "question": "What factors influence educational achievement gaps?",
+      "title": "Social-emotional factors affecting achievement outcomes among disadvantaged students: Closing the achievement gap",
+      "authors": [
+        "BE Becker",
+        "SS Luthar"
+      ],
+      "year": 2002,
+      "venue": "Educational psychologist",
+      "citations": 1177,
+      "url": "https://www.tandfonline.com/doi/abs/10.1207/S15326985EP3704_1"
+    },
+    {
+      "question": "What factors influence educational achievement gaps?",
+      "title": "Social influences on the ethnic achievement gap",
+      "authors": [
+        "C McKown",
+        "MJ Strambler"
+      ],
+      "year": 2007,
+      "venue": "Handbook of race, racism, and the …",
+      "citations": 29,
+      "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118269930#page=375"
+    },
+    {
+      "question": "What factors influence educational achievement gaps?",
+      "title": "A meta-analysis on the factors that best reduce the achievement gap",
+      "authors": [
+        "WH Jeynes"
+      ],
+      "year": 2014,
+      "venue": "Education and Urban Society",
+      "citations": 299,
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/0013124514529155"
+    }
+  ],
+  "How does technology impact classroom learning?": [
+    {
+      "question": "How does technology impact classroom learning?",
+      "title": "Technology and its impact in the classroom",
+      "authors": [
+        "RG Muir-Herzig"
+      ],
+      "year": 2004,
+      "venue": "Computers & Education",
+      "citations": 651,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0360131503000678"
+    },
+    {
+      "question": "How does technology impact classroom learning?",
+      "title": "The impact of technology on the 21st century classroom",
+      "authors": [
+        "KE Irving"
+      ],
+      "year": 2010,
+      "venue": "Teaching science in the 21st century",
+      "citations": 86,
+      "url": "https://cmapsconverted.ihmc.us/rid=1JVHR9TKT-1VMCFZP-SHW/21st%20century.pdf"
+    },
+    {
+      "question": "How does technology impact classroom learning?",
+      "title": "How do technology‐enhanced inquiry science units impact classroom learning?",
+      "authors": [
+        "HS Lee",
+        "MC Linn",
+        "K Varma"
+      ],
+      "year": 2030,
+      "venue": "Journal of Research in …",
+      "citations": 299,
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/tea.20304"
+    }
+  ],
+  "What assessment methods best measure learning outcomes?": [
+    {
+      "question": "What assessment methods best measure learning outcomes?",
+      "title": "Measuring learning outcomes",
+      "authors": [
+        "J Caspersen",
+        "JC Smeby"
+      ],
+      "year": 2005,
+      "venue": "… journal of education",
+      "citations": 175,
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ejed.12205"
+    },
+    {
+      "question": "What assessment methods best measure learning outcomes?",
+      "title": "The assessment of learning outcomes",
+      "authors": [
+        "R Lile",
+        "C Bran"
+      ],
+      "year": 2023,
+      "venue": "Procedia-Social and Behavioral Sciences",
+      "citations": 131,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877042814063988"
+    },
+    {
+      "question": "What assessment methods best measure learning outcomes?",
+      "title": "What do they measure? Comparing three learning outcomes assessments",
+      "authors": [
+        "J Steedle",
+        "H Kugelmass",
+        "A Nemeth"
+      ],
+      "year": 2010,
+      "venue": "… Magazine of Higher Learning",
+      "citations": 42,
+      "url": "https://www.tandfonline.com/doi/full/10.1080/00091383.2010.490491"
+    }
+  ],
+  "How does feedback improve student understanding?": [
+    {
+      "question": "How does feedback improve student understanding?",
+      "title": "Using student feedback to improve teaching",
+      "authors": [
+        "L Mandouit"
+      ],
+      "year": 2018,
+      "venue": "Educational action research",
+      "citations": 191,
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/09650792.2018.1426470"
+    },
+    {
+      "question": "How does feedback improve student understanding?",
+      "title": "Using an understanding of feedback processes to improve student learning",
+      "authors": [
+        "JA Rossiter"
+      ],
+      "year": 2016,
+      "venue": "IFAC-PapersOnLine",
+      "citations": 13,
+      "url": "https://www.sciencedirect.com/science/article/pii/S2405896316303585"
+    },
+    {
+      "question": "How does feedback improve student understanding?",
+      "title": "Reconceptualising assessment feedback: a key to improving student learning?",
+      "authors": [
+        "C Beaumont",
+        "M O'Doherty"
+      ],
+      "year": 2011,
+      "venue": "Studies in higher education",
+      "citations": 517,
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/03075071003731135"
+    }
+  ],
+  "How is meaning represented in natural language?": [
+    {
+      "question": "How is meaning represented in natural language?",
+      "title": "PRUF—a meaning representation language for natural languages",
+      "authors": [
+        "LA Zadeh"
+      ],
+      "year": 1978,
+      "venue": "International Journal of man-machine studies",
+      "citations": 1115,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0020737378800030"
+    },
+    {
+      "question": "How is meaning represented in natural language?",
+      "title": "Designing a uniform meaning representation for natural language processing",
+      "authors": [
+        "JEL Van Gysel",
+        "M Vigus",
+        "J Chun",
+        "K Lai",
+        "S Moeller"
+      ],
+      "year": 2021,
+      "venue": "KI-Künstliche …",
+      "citations": 109,
+      "url": "https://link.springer.com/article/10.1007/s13218-021-00722-w"
+    },
+    {
+      "question": "How is meaning represented in natural language?",
+      "title": "Knowledge representation and the semantics of natural language",
+      "authors": [
+        "H Helbig"
+      ],
+      "year": 1983,
+      "venue": "NA",
+      "citations": 386,
+      "url": "https://books.google.com/books?hl=en&lr=&id=bcdEAAAAQBAJ&oi=fnd&pg=PA1&dq=How+is+meaning+represented+in+natural+language%3F&ots=i4LxOsKOWq&sig=yCo6Py-JG6Hk1kRnxvxSdYaJTUI"
+    }
+  ],
+  "What distinguishes syntax from semantics?": [
+    {
+      "question": "What distinguishes syntax from semantics?",
+      "title": "Same and different: Some consequences for syntax and semantics",
+      "authors": [
+        "GN Carlson"
+      ],
+      "year": 1987,
+      "venue": "Linguistics and Philosophy",
+      "citations": 297,
+      "url": "https://www.jstor.org/stable/25001289"
+    },
+    {
+      "question": "What distinguishes syntax from semantics?",
+      "title": "Syntax vs. semantics",
+      "authors": [
+        "A Wierzbicka"
+      ],
+      "year": 1978,
+      "venue": "NA",
+      "citations": 22,
+      "url": "https://www.degruyterbrill.com/document/doi/10.1515/thli.1978.5.1-3.115/html"
+    },
+    {
+      "question": "What distinguishes syntax from semantics?",
+      "title": "Syntax and semantics: an overview",
+      "authors": [
+        "A von Stechow"
+      ],
+      "year": 2012,
+      "venue": "Semantics-Interfaces",
+      "citations": 31,
+      "url": "https://books.google.com/books?hl=en&lr=&id=h3acDwAAQBAJ&oi=fnd&pg=PA169&dq=What+distinguishes+syntax+from+semantics%3F&ots=C46d0do_AM&sig=LOaBZG1iHRlX8rPJANrB4D8Cat4"
+    }
+  ],
+  "How do languages change over time?": [
+    {
+      "question": "How do languages change over time?",
+      "title": "Understanding language change",
+      "authors": [
+        "AMS McMahon"
+      ],
+      "year": 1995,
+      "venue": "NA",
+      "citations": 1881,
+      "url": "https://books.google.com/books?hl=en&lr=&id=8vqm1zozD18C&oi=fnd&pg=PP13&dq=How+do+languages+change+over+time%3F&ots=JEefhAa62c&sig=_rPO0kKNpG53BoA1xBbkhVZB1mc"
+    },
+    {
+      "question": "How do languages change over time?",
+      "title": "How and why do people change their languages?",
+      "authors": [
+        "J Bradshaw"
+      ],
+      "year": 1995,
+      "venue": "NA",
+      "citations": 13,
+      "url": "https://www.jstor.org/stable/3623118"
+    },
+    {
+      "question": "How do languages change over time?",
+      "title": "How do languages change?(More on\" aberrant\" languages)",
+      "authors": [
+        "GW Grace"
+      ],
+      "year": 1992,
+      "venue": "Oceanic Linguistics",
+      "citations": 53,
+      "url": "https://www.jstor.org/stable/3622968"
+    }
+  ],
+  "What methods are used in corpus linguistics?": [
+    {
+      "question": "What methods are used in corpus linguistics?",
+      "title": "What is corpus linguistics?",
+      "authors": [
+        "ST Gries"
+      ],
+      "year": 2009,
+      "venue": "Language and linguistics compass",
+      "citations": 317,
+      "url": "https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/j.1749-818X.2009.00149.x"
+    },
+    {
+      "question": "What methods are used in corpus linguistics?",
+      "title": "What is corpus linguistics? What the data says",
+      "authors": [
+        "C Taylor"
+      ],
+      "year": 2017,
+      "venue": "NA",
+      "citations": 177,
+      "url": "https://sussex.figshare.com/articles/journal_contribution/What_is_corpus_linguistics_What_the_data_says/23415062"
+    },
+    {
+      "question": "What methods are used in corpus linguistics?",
+      "title": "Corpus linguistics: Method, theory and practice",
+      "authors": [
+        "T McEnery",
+        "A Hardie"
+      ],
+      "year": 2017,
+      "venue": "NA",
+      "citations": 6455,
+      "url": "https://books.google.com/books?hl=en&lr=&id=3j3Wn_ZT1qwC&oi=fnd&pg=PR7&dq=What+methods+are+used+in+corpus+linguistics%3F&ots=UIuCT7s_Vx&sig=-4ZzEBnyndVP7FqkpEEl1BIUGlA"
+    }
+  ],
+  "How does bilingualism affect cognition?": [
+    {
+      "question": "How does bilingualism affect cognition?",
+      "title": "How does bilingualism modify cognitive function? Attention to the mechanism",
+      "authors": [
+        "E Bialystok",
+        "FIM Craik"
+      ],
+      "year": 2022,
+      "venue": "Psychonomic bulletin & review",
+      "citations": 262,
+      "url": "https://link.springer.com/article/10.3758/s13423-022-02057-5"
+    },
+    {
+      "question": "How does bilingualism affect cognition?",
+      "title": "Bilingualism",
+      "authors": [
+        "E Bialystok"
+      ],
+      "year": 2017,
+      "venue": "Wiley interdisciplinary reviews: Cognitive science",
+      "citations": 399,
+      "url": "https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcs.43"
+    },
+    {
+      "question": "How does bilingualism affect cognition?",
+      "title": "Bilingualism and cognition",
+      "authors": [
+        "V Valian"
+      ],
+      "year": 2022,
+      "venue": "Bilingualism: language and cognition",
+      "citations": 628,
+      "url": "https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/bilingualism-and-cognition/CCC95B8238C4CDDD92B3ABFFCD0CF2AE"
+    }
+  ],
+  "What is the problem of induction?": [
+    {
+      "question": "What is the problem of induction?",
+      "title": "What is the 'problem of induction'?",
+      "authors": [
+        "EJ Lowe"
+      ],
+      "year": 1987,
+      "venue": "Philosophy",
+      "citations": 29,
+      "url": "https://www.cambridge.org/core/journals/philosophy/article/what-is-the-problem-of-induction/328CCCE8C37D7FD747AC967027D90D03"
+    },
+    {
+      "question": "What is the problem of induction?",
+      "title": "The problem of induction",
+      "authors": [
+        "SA Sloman",
+        "D Lagnado"
+      ],
+      "year": 1950,
+      "venue": "The Cambridge handbook of thinking and …",
+      "citations": 158,
+      "url": "https://www.academia.edu/download/46261485/The_Cambridge_Handbook_of_Thinking_and_Reasoning.pdf#page=102"
+    },
+    {
+      "question": "What is the problem of induction?",
+      "title": "The problem of induction",
+      "authors": [
+        "L Henderson"
+      ],
+      "year": 1950,
+      "venue": "NA",
+      "citations": 263,
+      "url": "https://plato.stanford.edu/entries/induction-problem/?level=1"
+    }
+  ],
+  "How do theories of knowledge define justification?": [
+    {
+      "question": "How do theories of knowledge define justification?",
+      "title": "Knowledge and justification",
+      "authors": [
+        "JL Pollock"
+      ],
+      "year": 2013,
+      "venue": "NA",
+      "citations": 867,
+      "url": "https://books.google.com/books?hl=en&lr=&id=2JJ9BgAAQBAJ&oi=fnd&pg=PP1&dq=How+do+theories+of+knowledge+define+justification%3F&ots=LpQrWnAYvk&sig=A83Ph8RqUEg2Y3F8vXY6OMa7dT8"
+    },
+    {
+      "question": "How do theories of knowledge define justification?",
+      "title": "The justification of knowledge",
+      "authors": [
+        "RL Reymond"
+      ],
+      "year": 2014,
+      "venue": "NA",
+      "citations": 20,
+      "url": "https://involutedgenealogies.wordpress.com/wp-content/uploads/2014/01/justificationofknowledge.pdf"
+    },
+    {
+      "question": "How do theories of knowledge define justification?",
+      "title": "Knowledge, justification, and reliability",
+      "authors": [
+        "FF Schmitt"
+      ],
+      "year": 1983,
+      "venue": "Synthese",
+      "citations": 21,
+      "url": "https://link.springer.com/article/10.1007/BF00485069"
+    }
+  ],
+  "What ethical issues arise from artificial intelligence?": [
+    {
+      "question": "What ethical issues arise from artificial intelligence?",
+      "title": "Ethical issues in advanced artificial intelligence",
+      "authors": [
+        "N Bostrom"
+      ],
+      "year": 2020,
+      "venue": "Machine Ethics and Robot Ethics",
+      "citations": 644,
+      "url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003074991-7/ethical-issues-advanced-artificial-intelligence-nick-bostrom"
+    },
+    {
+      "question": "What ethical issues arise from artificial intelligence?",
+      "title": "Ethical issues in the development of artificial intelligence: recognizing the risks",
+      "authors": [
+        "MK Kamila",
+        "SS Jasrotia"
+      ],
+      "year": 2023,
+      "venue": "International Journal of Ethics and Systems",
+      "citations": 125,
+      "url": "https://www.emerald.com/ijoes/article-abstract/41/1/45/1240986"
+    },
+    {
+      "question": "What ethical issues arise from artificial intelligence?",
+      "title": "Organisational responses to the ethical issues of artificial intelligence",
+      "authors": [
+        "BC Stahl",
+        "J Antoniou",
+        "M Ryan",
+        "K Macnish",
+        "T Jiya"
+      ],
+      "year": 2021,
+      "venue": "Ai & Society",
+      "citations": 208,
+      "url": "https://link.springer.com/article/10.1007/s00146-021-01148-6"
+    }
+  ],
+  "How is free will addressed in modern philosophy?": [
+    {
+      "question": "How is free will addressed in modern philosophy?",
+      "title": "Free will: An historical and philosophical introduction",
+      "authors": [
+        "I Dilman"
+      ],
+      "year": 2030,
+      "venue": "NA",
+      "citations": 186,
+      "url": "https://www.taylorfrancis.com/books/mono/10.4324/9780203002384/free-ilham-dilman"
+    },
+    {
+      "question": "How is free will addressed in modern philosophy?",
+      "title": "Free will in context: a contemporary philosophical perspective",
+      "authors": [
+        "P Grim"
+      ],
+      "year": 2007,
+      "venue": "Behavioral sciences & the law",
+      "citations": 29,
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.747"
+    },
+    {
+      "question": "How is free will addressed in modern philosophy?",
+      "title": "Free will: A contemporary introduction",
+      "authors": [
+        "M McKenna",
+        "D Pereboom"
+      ],
+      "year": 2005,
+      "venue": "NA",
+      "citations": 279,
+      "url": "https://www.taylorfrancis.com/books/mono/10.4324/9781315621548/free-michael-mckenna-derk-pereboom"
+    }
+  ],
+  "What distinguishes consequentialist from deontological ethics?": [
+    {
+      "question": "What distinguishes consequentialist from deontological ethics?",
+      "title": "Consequentialism or deontology?",
+      "authors": [
+        "G Spielthenner"
+      ],
+      "year": 1998,
+      "venue": "Philosophia",
+      "citations": 32,
+      "url": "https://link.springer.com/article/10.1007/BF02652653"
+    },
+    {
+      "question": "What distinguishes consequentialist from deontological ethics?",
+      "title": "Virtue ethics, deontology, and consequentialism",
+      "authors": [
+        "B Roby"
+      ],
+      "year": 2006,
+      "venue": "NA",
+      "citations": 19,
+      "url": "https://scholar.umw.edu/student_research/292/"
+    },
+    {
+      "question": "What distinguishes consequentialist from deontological ethics?",
+      "title": "What is consequentialism?",
+      "authors": [
+        "E Mason"
+      ],
+      "year": 2009,
+      "venue": "Think",
+      "citations": 16,
+      "url": "https://www.cambridge.org/core/journals/think/article/what-is-consequentialism/D92CA69C7426CDB1BC27A1D4DBCB8BAE"
+    }
+  ],
+  "How did industrialization transform social structures?": [
+    {
+      "question": "How did industrialization transform social structures?",
+      "title": "Industrialization as an agent of social change: A critical analysis",
+      "authors": [
+        "H Blumer"
+      ],
+      "year": 1991,
+      "venue": "NA",
+      "citations": 257,
+      "url": "https://www.taylorfrancis.com/books/mono/10.4324/9781351328760/industrialization-agent-social-change-herbert-blumer"
+    },
+    {
+      "question": "How did industrialization transform social structures?",
+      "title": "Industrialization, ideologies, and social structure",
+      "authors": [
+        "R Bendix"
+      ],
+      "year": 1959,
+      "venue": "American Sociological Review",
+      "citations": 93,
+      "url": "https://www.jstor.org/stable/2096152"
+    },
+    {
+      "question": "How did industrialization transform social structures?",
+      "title": "Industrialization and family change",
+      "authors": [
+        "WJ Goode"
+      ],
+      "year": 2016,
+      "venue": "NA",
+      "citations": 134,
+      "url": "https://books.google.com/books?hl=en&lr=&id=QyTdmDIlKxwC&oi=fnd&pg=PA21&dq=How+did+industrialization+transform+social+structures%3F&ots=gSYUY8RiJx&sig=KVMmRqgbJj88WNEmmrXPxfg49ms"
+    }
+  ],
+  "What causes major political revolutions?": [
+    {
+      "question": "What causes major political revolutions?",
+      "title": "A discourse on the causes of political revolutions",
+      "authors": [
+        "T Bailey"
+      ],
+      "year": 1974,
+      "venue": "NA",
+      "citations": 17,
+      "url": "https://qspace.library.queensu.ca/bitstream/1974/2537/1/discourseoncause00bailuoft.pdf"
+    },
+    {
+      "question": "What causes major political revolutions?",
+      "title": "Modern revolutions: an introduction to the analysis of a political phenomenon",
+      "authors": [
+        "J Dunn"
+      ],
+      "year": 1990,
+      "venue": "NA",
+      "citations": 542,
+      "url": "https://books.google.com/books?hl=en&lr=&id=P_RGhbDaE0MC&oi=fnd&pg=PR9&dq=What+causes+major+political+revolutions%3F&ots=5FkRyRZW69&sig=aJuToXsvaAN0116vSPoG5NkW4l8"
+    },
+    {
+      "question": "What causes major political revolutions?",
+      "title": "The comparative and historical study of revolutions",
+      "authors": [
+        "JA Goldstone"
+      ],
+      "year": 1982,
+      "venue": "Annual Review of Sociology",
+      "citations": 281,
+      "url": "https://www.jstor.org/stable/2945993"
+    }
+  ],
+  "How do historians evaluate primary sources?": [
+    {
+      "question": "How do historians evaluate primary sources?",
+      "title": "Primarily history: historians and the search for primary source materials",
+      "authors": [
+        "HR Tibbo"
+      ],
+      "year": 2003,
+      "venue": "Proceedings of the 2nd ACM/IEEE-CS joint conference …",
+      "citations": 92,
+      "url": "https://dl.acm.org/doi/abs/10.1145/544220.544222"
+    },
+    {
+      "question": "How do historians evaluate primary sources?",
+      "title": "Are you being served? Historians and the search for primary sources",
+      "authors": [
+        "IG Anderson"
+      ],
+      "year": 1988,
+      "venue": "Archivaria",
+      "citations": 145,
+      "url": "https://archivaria.ca/index.php/archivaria/article/view/12479"
+    },
+    {
+      "question": "How do historians evaluate primary sources?",
+      "title": "Historians and the use of primary source materials in the digital age",
+      "authors": [
+        "A Chassanoff"
+      ],
+      "year": 2013,
+      "venue": "The American Archivist",
+      "citations": 114,
+      "url": "https://meridian.allenpress.com/american-archivist/article-abstract/76/2/458/24276"
+    }
+  ],
+  "What role did technology play in modern warfare?": [
+    {
+      "question": "What role did technology play in modern warfare?",
+      "title": "Technology and warfare",
+      "authors": [
+        "EA Cohen"
+      ],
+      "year": 2012,
+      "venue": "New to this edition",
+      "citations": 85,
+      "url": "https://www.biknotes.com/_files/ugd/b8b6dc_372237fe415e47ab8fd0e1b2cf82914f.pdf#page=150"
+    },
+    {
+      "question": "What role did technology play in modern warfare?",
+      "title": "Disruptive and game changing technologies in modern warfare",
+      "authors": [
+        "ME Kosal"
+      ],
+      "year": 2020,
+      "venue": "NA",
+      "citations": 21,
+      "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-28342-1.pdf"
+    },
+    {
+      "question": "What role did technology play in modern warfare?",
+      "title": "Modern warfare, intelligence and deterrence: The technologies that are transforming them",
+      "authors": [
+        "B Sutherland"
+      ],
+      "year": 2023,
+      "venue": "NA",
+      "citations": 38,
+      "url": "https://books.google.com/books?hl=en&lr=&id=2uoeAwAAQBAJ&oi=fnd&pg=PT10&dq=What+role+did+technology+play+in+modern+warfare%3F&ots=e8Eg34nmSZ&sig=E2sQtRXJs3Qq7DQhmGvHJolBy1w"
+    }
+  ],
+  "How has globalization evolved historically?": [
+    {
+      "question": "How has globalization evolved historically?",
+      "title": "Globalization in historical perspective",
+      "authors": [
+        "MD Bordo",
+        "AM Taylor",
+        "JG Williamson"
+      ],
+      "year": 2009,
+      "venue": "NA",
+      "citations": 621,
+      "url": "https://books.google.com/books?hl=en&lr=&id=O2m5ARhXICEC&oi=fnd&pg=PR7&dq=How+has+globalization+evolved+historically%3F&ots=LxpDVe6lFx&sig=qvbJVVcAKWw6NP-NZx1EjaKBsD0"
+    },
+    {
+      "question": "How has globalization evolved historically?",
+      "title": "Thinking History Globally, Thinking Globalization Historically",
+      "authors": [
+        "D Olstein"
+      ],
+      "year": 2015,
+      "venue": "Thinking History Globally",
+      "citations": 1,
+      "url": "https://link.springer.com/content/pdf/10.1057/9781137318145_8?pdf=chapter%20toc"
+    },
+    {
+      "question": "How has globalization evolved historically?",
+      "title": "Globalization and its history",
+      "authors": [
+        "M Lang"
+      ],
+      "year": 2006,
+      "venue": "The Journal of Modern History",
+      "citations": 135,
+      "url": "https://www.journals.uchicago.edu/doi/full/10.1086/511251"
+    }
+  ],
+  "How does natural selection drive evolution?": [
+    {
+      "question": "How does natural selection drive evolution?",
+      "title": "The evolution of complexity by means of natural selection",
+      "authors": [
+        "JT Bonner"
+      ],
+      "year": 1988,
+      "venue": "NA",
+      "citations": 1300,
+      "url": "https://books.google.com/books?hl=en&lr=&id=1n2Hv6BQHYQC&oi=fnd&pg=PR7&dq=How+does+natural+selection+drive+evolution%3F&ots=EvyE5PXtci&sig=yoXDCJJm3-9NOXeXYZBY9VKcEOk"
+    },
+    {
+      "question": "How does natural selection drive evolution?",
+      "title": "The evolution of gene collectives: How natural selection drives chemical innovation",
+      "authors": [
+        "MA Fischbach",
+        "CT Walsh",
+        "J Clardy"
+      ],
+      "year": 2008,
+      "venue": "… of the National Academy of Sciences",
+      "citations": 389,
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.0709132105"
+    },
+    {
+      "question": "How does natural selection drive evolution?",
+      "title": "Hard and soft selection revisited: how evolution by natural selection works in the real world",
+      "authors": [
+        "D Reznick"
+      ],
+      "year": 2015,
+      "venue": "Journal of Heredity",
+      "citations": 73,
+      "url": "https://academic.oup.com/jhered/article-abstract/107/1/3/2622832"
+    }
+  ],
+  "What mechanisms regulate gene expression?": [
+    {
+      "question": "What mechanisms regulate gene expression?",
+      "title": "How do microRNAs regulate gene expression?",
+      "authors": [
+        "RJ Jackson",
+        "N Standart"
+      ],
+      "year": 2007,
+      "venue": "Science's STKE",
+      "citations": 638,
+      "url": "https://www.science.org/doi/abs/10.1126/stke.3672007re1"
+    },
+    {
+      "question": "What mechanisms regulate gene expression?",
+      "title": "How do microRNAs regulate gene expression?",
+      "authors": [
+        "IG Cannell",
+        "YW Kong",
+        "M Bushell"
+      ],
+      "year": 2007,
+      "venue": "Biochemical Society …",
+      "citations": 524,
+      "url": "https://portlandpress.com/biochemsoctrans/article-abstract/36/6/1224/66536"
+    },
+    {
+      "question": "What mechanisms regulate gene expression?",
+      "title": "Regulation of gene expression",
+      "authors": [
+        "W Epstein",
+        "JR Beckwith"
+      ],
+      "year": 2004,
+      "venue": "Annual review of biochemistry",
+      "citations": 184,
+      "url": "https://www.annualreviews.org/content/journals/10.1146/annurev.bi.37.070168.002211"
+    }
+  ],
+  "How do ecosystems maintain stability?": [
+    {
+      "question": "How do ecosystems maintain stability?",
+      "title": "Stability and diversity of ecosystems",
+      "authors": [
+        "AR Ives",
+        "SR Carpenter"
+      ],
+      "year": 2005,
+      "venue": "science",
+      "citations": 1942,
+      "url": "https://www.science.org/doi/abs/10.1126/science.1133258"
+    },
+    {
+      "question": "How do ecosystems maintain stability?",
+      "title": "Biodiversity and the productivity and stability of ecosystems",
+      "authors": [
+        "KH Johnson",
+        "KA Vogt",
+        "HJ Clark",
+        "OJ Schmitz"
+      ],
+      "year": 1996,
+      "venue": "Trends in Ecology & …",
+      "citations": 594,
+      "url": "https://www.cell.com/trends/ecology-evolution/pdf/0169-5347(96)10040-9.pdf"
+    },
+    {
+      "question": "How do ecosystems maintain stability?",
+      "title": "Stability and complexity in model ecosystems",
+      "authors": [
+        "RM May"
+      ],
+      "year": 1978,
+      "venue": "NA",
+      "citations": 10935,
+      "url": "https://books.google.com/books?hl=en&lr=&id=BDA5-ipCLt4C&oi=fnd&pg=PR7&dq=How+do+ecosystems+maintain+stability%3F&ots=-yodzNPln4&sig=1nbNm4sZQg9GZ2EwACkrbUukgAU"
+    }
+  ],
+  "What factors influence biodiversity loss?": [
+    {
+      "question": "What factors influence biodiversity loss?",
+      "title": "Modeling human factors that affect the loss of biodiversity",
+      "authors": [
+        "DJ Forester",
+        "GE Machlist"
+      ],
+      "year": 1996,
+      "venue": "Conservation Biology",
+      "citations": 224,
+      "url": "https://conbio.onlinelibrary.wiley.com/doi/abs/10.1046/j.1523-1739.1996.10041253.x"
+    },
+    {
+      "question": "What factors influence biodiversity loss?",
+      "title": "How biodiversity loss affects society",
+      "authors": [
+        "R Ebel",
+        "F Menalled",
+        "S Ahmed",
+        "S Gingrich"
+      ],
+      "year": 2021,
+      "venue": "Handbook on the …",
+      "citations": 12,
+      "url": "https://www.elgaronline.com/edcollchap/edcoll/9781839101731/9781839101731.00030.xml"
+    },
+    {
+      "question": "What factors influence biodiversity loss?",
+      "title": "Economic factors underlying biodiversity loss",
+      "authors": [
+        "P Dasgupta",
+        "S Levin"
+      ],
+      "year": 2022,
+      "venue": "Philosophical Transactions of the …",
+      "citations": 69,
+      "url": "https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2022.0197"
+    }
+  ],
+  "How is genetic variation measured in populations?": [
+    {
+      "question": "How is genetic variation measured in populations?",
+      "title": "Effective population size, genetic variation, and their use in population",
+      "authors": [
+        "R Lande",
+        "G Barrowclough"
+      ],
+      "year": 1987,
+      "venue": "Viable populations for conservation",
+      "citations": 1588,
+      "url": "https://books.google.com/books?hl=en&lr=&id=pjo5FP5gpFIC&oi=fnd&pg=PA87&dq=How+is+genetic+variation+measured+in+populations%3F&ots=J1z8RjydXV&sig=vW4dGnCHKZh-izjq_1v4qct0U-k"
+    },
+    {
+      "question": "How is genetic variation measured in populations?",
+      "title": "Relationship of genetic variation to population size in wildlife",
+      "authors": [
+        "R Frankham"
+      ],
+      "year": 1996,
+      "venue": "Conservation biology",
+      "citations": 2002,
+      "url": "https://conbio.onlinelibrary.wiley.com/doi/abs/10.1046/j.1523-1739.1996.10061500.x"
+    },
+    {
+      "question": "How is genetic variation measured in populations?",
+      "title": "How closely correlated are molecular and quantitative measures of genetic variation? A meta‐analysis",
+      "authors": [
+        "DH Reed",
+        "R Frankham"
+      ],
+      "year": 2001,
+      "venue": "Evolution",
+      "citations": 992,
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0014-3820.2001.tb00629.x"
+    }
+  ],
+  "How are randomized controlled trials designed?": [
+    {
+      "question": "How are randomized controlled trials designed?",
+      "title": "Randomized controlled trials–a matter of design",
+      "authors": [
+        "PM Spieth",
+        "AS Kubasch",
+        "AI Penzlin"
+      ],
+      "year": 1938,
+      "venue": "Neuropsychiatric …",
+      "citations": 535,
+      "url": "https://www.tandfonline.com/doi/abs/10.2147/NDT.S101938"
+    },
+    {
+      "question": "How are randomized controlled trials designed?",
+      "title": "Randomized controlled trials: what are they and who needs them?",
+      "authors": [
+        "BL Pihlstrom",
+        "AE Curran",
+        "HT Voelker"
+      ],
+      "year": 2011,
+      "venue": "Periodontology …",
+      "citations": 44,
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0757.2011.00439.x"
+    },
+    {
+      "question": "How are randomized controlled trials designed?",
+      "title": "Design of randomized controlled trials",
+      "authors": [
+        "K Stanley"
+      ],
+      "year": 2007,
+      "venue": "Circulation",
+      "citations": 399,
+      "url": "https://www.ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.105.594945"
+    }
+  ],
+  "What factors influence disease transmission?": [
+    {
+      "question": "What factors influence disease transmission?",
+      "title": "Environmental factors influencing transmission",
+      "authors": [
+        "BE Stromberg"
+      ],
+      "year": 1997,
+      "venue": "Veterinary parasitology",
+      "citations": 378,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0304401797001003"
+    },
+    {
+      "question": "What factors influence disease transmission?",
+      "title": "Host factors affecting disease transmission",
+      "authors": [
+        "BC Muzyka"
+      ],
+      "year": 2001,
+      "venue": "Dental Clinics of North America",
+      "citations": 9,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0011853222001410"
+    },
+    {
+      "question": "What factors influence disease transmission?",
+      "title": "Genetic factors as determinants of infectious disease transmission in human communities",
+      "authors": [
+        "DJ Weatherall",
+        "JI Bell",
+        "JB Clegg"
+      ],
+      "year": 1988,
+      "venue": "… of the Royal …",
+      "citations": 29,
+      "url": "https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1988.0095"
+    }
+  ],
+  "How does vaccination impact population health?": [
+    {
+      "question": "How does vaccination impact population health?",
+      "title": "How can the public health impact of vaccination be estimated?",
+      "authors": [
+        "S Echeverria-Londono",
+        "X Li",
+        "J Toor",
+        "MJ de Villiers"
+      ],
+      "year": 2021,
+      "venue": "BMC Public Health",
+      "citations": 36,
+      "url": "https://link.springer.com/article/10.1186/s12889-021-12040-9"
+    },
+    {
+      "question": "How does vaccination impact population health?",
+      "title": "The value of vaccination",
+      "authors": [
+        "DE Bloom"
+      ],
+      "year": 2017,
+      "venue": "Hot topics in infection and immunity in children VII",
+      "citations": 203,
+      "url": "https://link.springer.com/chapter/10.1007/978-1-4419-7185-2_1"
+    },
+    {
+      "question": "How does vaccination impact population health?",
+      "title": "Demographic impact of vaccination: a review",
+      "authors": [
+        "P Bonanni"
+      ],
+      "year": 1999,
+      "venue": "Vaccine",
+      "citations": 141,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0264410X99003060"
+    }
+  ],
+  "What ethical issues arise in clinical research?": [
+    {
+      "question": "What ethical issues arise in clinical research?",
+      "title": "Ethical issues in clinical research",
+      "authors": [
+        "V Muthuswamy"
+      ],
+      "year": 2013,
+      "venue": "Perspectives in clinical research",
+      "citations": 65,
+      "url": "https://journals.lww.com/picp/fulltext/2013/04010/Ethical_issues_in_clinical_research.3.aspx"
+    },
+    {
+      "question": "What ethical issues arise in clinical research?",
+      "title": "Ethical issues and clinical trials",
+      "authors": [
+        "DS Shimm",
+        "RG Spece"
+      ],
+      "year": 1993,
+      "venue": "Drugs",
+      "citations": 16,
+      "url": "https://www.academia.edu/download/94963781/00003495-199346040-0000120221128-1-11qydk4.pdf"
+    },
+    {
+      "question": "What ethical issues arise in clinical research?",
+      "title": "Ethical issues in clinical research: an issue for all internists",
+      "authors": [
+        "LE Wolf"
+      ],
+      "year": 2000,
+      "venue": "The American Journal of Medicine",
+      "citations": 20,
+      "url": "https://www.amjmed.com/article/S0002-9343(00)00465-4/abstract"
+    }
+  ],
+  "How is health disparity measured across populations?": [
+    {
+      "question": "How is health disparity measured across populations?",
+      "title": "A summary measure of health disparity",
+      "authors": [
+        "JN Pearcy",
+        "KG Keppel"
+      ],
+      "year": 2002,
+      "venue": "Public health reports",
+      "citations": 245,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1497430/"
+    },
+    {
+      "question": "How is health disparity measured across populations?",
+      "title": "What is a\" health disparity\"?",
+      "authors": [
+        "O Carter-Pokras",
+        "C Baquet"
+      ],
+      "year": 2002,
+      "venue": "Public health reports",
+      "citations": 866,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1497467/"
+    },
+    {
+      "question": "How is health disparity measured across populations?",
+      "title": "Measurement issues in health disparities research",
+      "authors": [
+        "M Ramírez",
+        "ME Ford",
+        "AL Stewart"
+      ],
+      "year": 2005,
+      "venue": "Health services …",
+      "citations": 175,
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6773.2005.00450.x"
+    }
+  ],
+  "How does climate change affect biodiversity?": [
+    {
+      "question": "How does climate change affect biodiversity?",
+      "title": "How does climate change affect biodiversity?",
+      "authors": [
+        "MB Araujo",
+        "C Rahbek"
+      ],
+      "year": 2006,
+      "venue": "Science",
+      "citations": 901,
+      "url": "https://www.science.org/doi/abs/10.1126/science.1131758"
+    }
+  ],
+  "What methods measure carbon emissions?": [
+    {
+      "question": "What methods measure carbon emissions?",
+      "title": "A review of methods to measure and monitor historical carbon emissions from forest degradation",
+      "authors": [
+        "M Herold",
+        "RM Román-Cuesta",
+        "V Heymell",
+        "Y Hirata"
+      ],
+      "year": null,
+      "venue": "Unasylva",
+      "citations": 55,
+      "url": "https://www.fao.org/4/i2560e/i2560e04.pdf"
+    },
+    {
+      "question": "What methods measure carbon emissions?",
+      "title": "A review of the measurement method, analysis and implementation policy of carbon dioxide emission from transportation",
+      "authors": [
+        "NFF Yaacob",
+        "MR Mat Yazid",
+        "KN Abdul Maulud"
+      ],
+      "year": 2020,
+      "venue": "Sustainability",
+      "citations": 92,
+      "url": "https://www.mdpi.com/2071-1050/12/14/5873"
+    },
+    {
+      "question": "What methods measure carbon emissions?",
+      "title": "Estimation methods and reduction strategies of port carbon emissions-what literatures say?",
+      "authors": [
+        "L Wang",
+        "Y Li"
+      ],
+      "year": 2023,
+      "venue": "Marine Pollution Bulletin",
+      "citations": 49,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0025326X23008858"
+    }
+  ],
+  "How do human activities impact ecosystems?": [
+    {
+      "question": "How do human activities impact ecosystems?",
+      "title": "Benchmarks for managing ecosystems: are human activities natural?",
+      "authors": [
+        "M Hunter"
+      ],
+      "year": 1996,
+      "venue": "Conservation Biology",
+      "citations": 233,
+      "url": "https://www.jstor.org/stable/2387088"
+    },
+    {
+      "question": "How do human activities impact ecosystems?",
+      "title": "Detecting ecological impacts caused by human activities",
+      "authors": [
+        "CW Osenberg",
+        "RJ Schmitt"
+      ],
+      "year": 1996,
+      "venue": "Detecting ecological impacts",
+      "citations": 141,
+      "url": "https://www.sciencedirect.com/science/article/pii/B9780126272550500033"
+    },
+    {
+      "question": "How do human activities impact ecosystems?",
+      "title": "Exploring variability in environmental impact risk from human activities across aquatic ecosystems",
+      "authors": [
+        "F Borgwardt",
+        "L Robinson",
+        "D Trauner",
+        "H Teixeira"
+      ],
+      "year": 2019,
+      "venue": "Science of the total …",
+      "citations": 188,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0048969718342396"
+    }
+  ],
+  "What strategies mitigate environmental degradation?": [
+    {
+      "question": "What strategies mitigate environmental degradation?",
+      "title": "Environmental degradation: challenges and strategies for mitigation",
+      "authors": [
+        "VP Singh",
+        "S Yadav",
+        "KK Yadav",
+        "RN Yadava"
+      ],
+      "year": 2022,
+      "venue": "NA",
+      "citations": 19,
+      "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-95542-7.pdf"
+    },
+    {
+      "question": "What strategies mitigate environmental degradation?",
+      "title": "An overview on environmental degradation and mitigation",
+      "authors": [
+        "VP Singh",
+        "S Yadav",
+        "KK Yadav",
+        "RN Yadava"
+      ],
+      "year": 2022,
+      "venue": "Environmental degradation …",
+      "citations": 12,
+      "url": "https://link.springer.com/chapter/10.1007/978-3-030-95542-7_1"
+    },
+    {
+      "question": "What strategies mitigate environmental degradation?",
+      "title": "Mitigation strategies to environmental degradation in Nigeria",
+      "authors": [
+        "MN Danjuma",
+        "S Mohammed"
+      ],
+      "year": 2022,
+      "venue": "Journal of Environment and …",
+      "citations": 7,
+      "url": "https://www.academia.edu/download/94113552/17666.pdf"
+    }
+  ],
+  "How is sustainability defined in environmental policy?": [
+    {
+      "question": "How is sustainability defined in environmental policy?",
+      "title": "Sustainability policy and environmental policy",
+      "authors": [
+        "JCV Pezzey"
+      ],
+      "year": 2004,
+      "venue": "Scandinavian Journal of Economics",
+      "citations": 90,
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9442.2004.00355.x"
+    },
+    {
+      "question": "How is sustainability defined in environmental policy?",
+      "title": "How to define an environmental policy to improve corporate sustainability in developing countries",
+      "authors": [
+        "MCS Abreu"
+      ],
+      "year": 2008,
+      "venue": "Business Strategy and the Environment",
+      "citations": 104,
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/bse.625"
+    },
+    {
+      "question": "How is sustainability defined in environmental policy?",
+      "title": "Environmental policy: The quest for sustainable development",
+      "authors": [
+        "A Blowers"
+      ],
+      "year": 1993,
+      "venue": "Urban studies",
+      "citations": 116,
+      "url": "https://journals.sagepub.com/doi/abs/10.1080/00420989320081911"
+    }
+  ],
+  "How is precedent applied in judicial decision-making?": [
+    {
+      "question": "How is precedent applied in judicial decision-making?",
+      "title": "The nature of precedent",
+      "authors": [
+        "E Maltz"
+      ],
+      "year": 2008,
+      "venue": "NCL Rev.",
+      "citations": 327,
+      "url": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/nclr66&section=21"
+    },
+    {
+      "question": "How is precedent applied in judicial decision-making?",
+      "title": "Role of Precedent in Constitutional Decisionmaking and Theory",
+      "authors": [
+        "MJ Gerhardt"
+      ],
+      "year": 2022,
+      "venue": "Geo. Wash. L. Rev.",
+      "citations": 304,
+      "url": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/gwlr60&section=11"
+    },
+    {
+      "question": "How is precedent applied in judicial decision-making?",
+      "title": "Precedent in the Decision-Making Process. Point of Legal Theory and Judicial Practice",
+      "authors": [
+        "L Leszczyński"
+      ],
+      "year": 2018,
+      "venue": "Studia Iuridica Lublinensia",
+      "citations": 5,
+      "url": "https://www.ceeol.com/search/article-detail?id=722798"
+    }
+  ],
+  "What factors influence constitutional interpretation?": [
+    {
+      "question": "What factors influence constitutional interpretation?",
+      "title": "Constitutional interpretation",
+      "authors": [
+        "T Sandalow"
+      ],
+      "year": 2021,
+      "venue": "Mich. L. Rev.",
+      "citations": 443,
+      "url": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/mlr79&section=64"
+    },
+    {
+      "question": "What factors influence constitutional interpretation?",
+      "title": "Constitutional interpretation",
+      "authors": [
+        "WJ Waluchow"
+      ],
+      "year": 2000,
+      "venue": "The Routledge Companion to Philosophy of …",
+      "citations": 11,
+      "url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9780203124352-39&type=chapterpdf"
+    },
+    {
+      "question": "What factors influence constitutional interpretation?",
+      "title": "Theories of constitutional interpretation",
+      "authors": [
+        "R Post"
+      ],
+      "year": 1995,
+      "venue": "Representations",
+      "citations": 64,
+      "url": "https://www.jstor.org/stable/2928445"
+    }
+  ],
+  "How does international law regulate state behavior?": [
+    {
+      "question": "How does international law regulate state behavior?",
+      "title": "Explaining the strategic behavior of states: International law as system structure",
+      "authors": [
+        "SA Kocs"
+      ],
+      "year": 1994,
+      "venue": "International Studies Quarterly",
+      "citations": 120,
+      "url": "https://academic.oup.com/isq/article-abstract/38/4/535/1821050"
+    },
+    {
+      "question": "How does international law regulate state behavior?",
+      "title": "International law and state behavior: Commitment and compliance in international monetary affairs",
+      "authors": [
+        "BA Simmons"
+      ],
+      "year": 2000,
+      "venue": "American political science review",
+      "citations": 1172,
+      "url": "https://www.cambridge.org/core/journals/american-political-science-review/article/international-law-and-state-behavior-commitment-and-compliance-in-international-monetary-affairs/F8976DBA56819CA4A6FFB84E8BA3C941"
+    },
+    {
+      "question": "How does international law regulate state behavior?",
+      "title": "Behavioral international law",
+      "authors": [
+        "T Broude"
+      ],
+      "year": 2013,
+      "venue": "U. Pa. L. Rev.",
+      "citations": 202,
+      "url": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/pnlr163&section=27"
+    }
+  ],
+  "What are the legal implications of emerging technologies?": [
+    {
+      "question": "What are the legal implications of emerging technologies?",
+      "title": "Ethical, legal and social implications of emerging technology (ELSIET) symposium",
+      "authors": [
+        "E Kendal"
+      ],
+      "year": 2022,
+      "venue": "Journal of Bioethical Inquiry",
+      "citations": 45,
+      "url": "https://link.springer.com/article/10.1007/s11673-022-10197-5"
+    },
+    {
+      "question": "What are the legal implications of emerging technologies?",
+      "title": "Regulating the future? Law, ethics, and emerging technologies",
+      "authors": [
+        "I Székely",
+        "M Dániel Szabó",
+        "B Vissy"
+      ],
+      "year": 2011,
+      "venue": "Journal of Information …",
+      "citations": 33,
+      "url": "https://www.emerald.com/insight/content/doi/10.1108/14779961111167658/full/html"
+    },
+    {
+      "question": "What are the legal implications of emerging technologies?",
+      "title": "The impact of emerging technologies on legal frameworks: A model for adaptive regulation",
+      "authors": [
+        "O Akpobome"
+      ],
+      "year": 2024,
+      "venue": "International Journal of Research Publication and …",
+      "citations": 46,
+      "url": "https://www.researchgate.net/profile/Omena-Akpobome/publication/385290270_The_Impact_of_Emerging_Technologies_on_Legal_Frameworks_A_Model_for_Adaptive_Regulation/links/671ec07ddf4b534d4efaa36c/The-Impact-of-Emerging-Technologies-on-Legal-Frameworks-A-Model-for-Adaptive-Regulation.pdf"
+    }
+  ],
+  "How do courts balance security and civil liberties?": [
+    {
+      "question": "How do courts balance security and civil liberties?",
+      "title": "National security and civil liberty: Striking the balance",
+      "authors": [
+        "JJ Lopach",
+        "JA Luckowski"
+      ],
+      "year": 2006,
+      "venue": "The Social Studies",
+      "citations": 10,
+      "url": "https://www.tandfonline.com/doi/abs/10.3200/TSSS.97.6.245-248"
+    },
+    {
+      "question": "How do courts balance security and civil liberties?",
+      "title": "Terror in the balance: Security, liberty, and the courts",
+      "authors": [
+        "EA Posner",
+        "A Vermeule"
+      ],
+      "year": 2007,
+      "venue": "NA",
+      "citations": 703,
+      "url": "https://books.google.com/books?hl=en&lr=&id=LfIEbWwSiygC&oi=fnd&pg=PP8&dq=How+do+courts+balance+security+and+civil+liberties%3F&ots=4dbtUgdPRF&sig=dRlCmJKSkF62V2VhEbMUj-11fLU"
+    },
+    {
+      "question": "How do courts balance security and civil liberties?",
+      "title": "Striking the Balance: National Security vs. Civil Liberties",
+      "authors": [
+        "RN Davis"
+      ],
+      "year": 2006,
+      "venue": "Brook. J. Int'l L.",
+      "citations": 41,
+      "url": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/bjil29&section=10"
+    }
+  ]
+}
